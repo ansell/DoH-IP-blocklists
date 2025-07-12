@@ -74,9 +74,9 @@ while IFS= read -r domain; do
 						if [ -n "${check}" ] && [ "${rc}" = "0" ]; then
 							domain_ok="true"
 							if [ "${ip##*:}" = "${ip}" ]; then
-								printf "%-20s%s\n" "${ip}" >>"./ipv4.tmp"
+								printf "%s\n" "${ip}" >>"./ipv4.tmp"
 							else
-								printf "%-40s%s\n" "${ip}" >>"./ipv6.tmp"
+								printf "%s\n" "${ip}" >>"./ipv6.tmp"
 							fi
 						fi
 					fi
