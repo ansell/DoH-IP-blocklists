@@ -117,7 +117,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -133,7 +132,6 @@ dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
 dns.indybanipal.com
@@ -153,7 +151,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
