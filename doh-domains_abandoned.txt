@@ -37,7 +37,6 @@ adguard.nielsvoorn.nl
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
-affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -123,7 +122,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -151,7 +149,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -265,7 +262,6 @@ dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
-drs.rustsword.com
 ecs-doh.dnswarden.com
 edns.233py.com
 elshad-adgh-dns.ru
