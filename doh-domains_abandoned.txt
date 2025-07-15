@@ -116,6 +116,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -170,7 +171,6 @@ dns.rafn.is
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
-dns.skrep.eu
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
