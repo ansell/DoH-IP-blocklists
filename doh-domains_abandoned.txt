@@ -122,6 +122,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -296,6 +297,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+justhost.bedro.cloud
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
