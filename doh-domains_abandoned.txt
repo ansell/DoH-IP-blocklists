@@ -169,7 +169,7 @@ dns.rafn.is
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
-dns.skrep.in
+dns.skrep.eu
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
@@ -276,7 +276,6 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -296,6 +295,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+justhost.bedro.cloud
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
