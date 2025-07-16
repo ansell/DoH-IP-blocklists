@@ -116,6 +116,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -154,6 +155,7 @@ dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
+dns.njal.la
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
@@ -170,6 +172,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
 dns.skrep.eu
+dns.skrep.in
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
@@ -276,7 +279,6 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
