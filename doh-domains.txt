@@ -74,7 +74,6 @@ adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
 adguard.piekacz.pl
-adguard.quydang.name.vn
 adguard.ruby.ci
 adguard.senthil.us
 adguard.shoupperuser.com
@@ -521,6 +520,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -536,6 +536,7 @@ dns.nguyendn.com
 dns.nhtsky.com
 dns.nick-slowinski.de
 dns.ningkelle.id
+dns.njal.la
 dns.nodoa.me
 dns.novali.date
 dns.novg.net
@@ -612,6 +613,7 @@ dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
+dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
@@ -1045,6 +1047,7 @@ jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
+justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
 keithchung.hopto.org
