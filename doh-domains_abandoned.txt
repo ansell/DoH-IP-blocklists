@@ -122,6 +122,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -149,12 +150,10 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
-dns.njal.la
 dns.norvig.dk
 dns.onp.cloud
 dns.opnsource.com.au
@@ -170,7 +169,6 @@ dns.rafn.is
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
-dns.skrep.eu
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
