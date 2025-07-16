@@ -69,7 +69,6 @@ adguard.lege.despagne.net
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.neon0404.space
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -371,7 +370,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -388,7 +386,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -524,7 +521,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
