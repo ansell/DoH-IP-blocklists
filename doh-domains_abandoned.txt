@@ -141,6 +141,7 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
+dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
 dns.kumoumi.net
