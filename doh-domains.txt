@@ -14,6 +14,7 @@ a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.passcloud.xyz
 a.safe.ns.dnslify.com
+a.zpn.me
 abe01.dnscry.pt
 abel.waringer-atg.de
 abn01.dnscry.pt
