@@ -115,11 +115,9 @@ dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -322,6 +320,7 @@ ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
+net01.youcef.io
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
 nl.rslvr.eu
