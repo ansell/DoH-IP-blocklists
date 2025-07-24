@@ -365,7 +365,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1372,7 +1371,6 @@ tbs01.dnscry.pt
 tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
-tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
 timmes.nl
