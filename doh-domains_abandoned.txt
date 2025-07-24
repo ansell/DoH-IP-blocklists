@@ -157,7 +157,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -386,7 +385,6 @@ v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
 vps.robotboard.de
-wantaquddin.com
 wdns.233py.com
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
@@ -395,7 +393,6 @@ www.pukanuragan.ru
 www.zburger.top
 xbcpb668.com
 xmr.land
-xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
