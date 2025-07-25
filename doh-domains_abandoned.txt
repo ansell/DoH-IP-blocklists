@@ -74,7 +74,6 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
-dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com

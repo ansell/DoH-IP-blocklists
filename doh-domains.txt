@@ -227,6 +227,7 @@ dns-fr-psv1.cloudsides.com
 dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
+dns-ovh.panszelescik.pl
 dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
