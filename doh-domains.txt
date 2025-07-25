@@ -55,6 +55,7 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -226,7 +227,6 @@ dns-fr-psv1.cloudsides.com
 dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
-dns-ovh.panszelescik.pl
 dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
@@ -365,6 +365,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -999,6 +1000,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1198,6 +1200,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
