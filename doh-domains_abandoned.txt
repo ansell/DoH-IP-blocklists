@@ -24,6 +24,7 @@ adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
 adguard.blogssl.com
+adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
@@ -47,6 +48,7 @@ ag.ssrahul96.xyz
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
+arashi.net.eu.org
 asia.dnscepat.id
 atris.cyou
 au.rslvr.eu

@@ -48,7 +48,6 @@ adguard.alu.dog
 adguard.avdkishore.dev
 adguard.bonis.de
 adguard.bonsirven.eu
-adguard.cloudmini.net
 adguard.dantynes.cyou
 adguard.dekonix.ru
 adguard.depieri.net
@@ -120,7 +119,6 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.eu.org
-arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
 asia.tri-dns.net
