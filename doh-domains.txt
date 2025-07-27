@@ -363,6 +363,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -962,7 +963,6 @@ fuchur.pentament.de
 fwgw.orangepipc.mywire.org
 galileo.math.unipd.it
 gateway.fomichev.cloud
-gb-cov-w-f-1.nashkan.net
 gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
@@ -978,7 +978,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
