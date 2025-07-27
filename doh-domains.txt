@@ -1148,7 +1148,6 @@ ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
 ns0.fdn.fr
-ns1.dotls.org
 ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
