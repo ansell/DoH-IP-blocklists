@@ -513,6 +513,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1148,6 +1149,7 @@ ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
 ns0.fdn.fr
+ns1.dotls.org
 ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
