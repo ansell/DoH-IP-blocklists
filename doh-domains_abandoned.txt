@@ -81,6 +81,7 @@ dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
+dns.13evl.com
 dns.23-4.cn
 dns.233py.com
 dns.233py.com.cdn.cloudflare.net
@@ -282,6 +283,7 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
