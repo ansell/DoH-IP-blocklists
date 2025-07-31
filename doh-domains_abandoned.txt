@@ -213,7 +213,6 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
-doh-ca.naftalie.net
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
