@@ -18,7 +18,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.ajinga.net
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
@@ -281,6 +280,7 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -346,7 +346,6 @@ pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
 qqmcfw.tech
-resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
