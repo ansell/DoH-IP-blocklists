@@ -555,6 +555,7 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
+dns.pernika.net
 dns.petqa.ru
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
@@ -981,7 +982,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
