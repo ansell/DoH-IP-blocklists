@@ -366,6 +366,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -382,7 +383,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -579,6 +579,7 @@ dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
 dns.repinger.my.id
+dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
@@ -1195,6 +1196,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1385,7 +1387,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
 tuskythehusky.tech
 tw2.ooroot.com
