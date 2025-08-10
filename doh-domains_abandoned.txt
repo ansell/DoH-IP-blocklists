@@ -126,6 +126,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -242,6 +243,7 @@ doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
+doh.sunoaki.net
 doh.this.web.id
 doh.velyn.my.id
 doh.zephyrus.id
