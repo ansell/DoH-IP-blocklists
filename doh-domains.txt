@@ -408,6 +408,7 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -984,6 +985,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
