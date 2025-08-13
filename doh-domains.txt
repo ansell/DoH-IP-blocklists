@@ -364,6 +364,7 @@ dns.dotnet.win
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -852,6 +853,7 @@ doh.seby.io
 doh.sidnlabs.nl
 doh.sublime9.xyz
 doh.suche.org
+doh.sunoaki.net
 doh.syshero.org
 doh.technochat.in
 doh.thio.me
