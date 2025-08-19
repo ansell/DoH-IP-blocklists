@@ -363,7 +363,6 @@ dns.dotnet.win
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -513,6 +512,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -625,7 +625,6 @@ dns.surfsharkdns.com
 dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
-dns.swin.pro
 dns.switch.ch
 dns.sy.st
 dns.syaifullah.com
