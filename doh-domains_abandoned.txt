@@ -131,7 +131,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -170,6 +169,7 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
 dns.ovpn.bond
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.princex.net
