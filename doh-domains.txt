@@ -365,6 +365,7 @@ dns.dremaxx.de
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1025,6 +1026,7 @@ jabber-germany.de
 jackyes.ovh
 jcdns.fun
 jhb01.dnscry.pt
+jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
