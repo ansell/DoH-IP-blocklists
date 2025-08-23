@@ -191,6 +191,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.bod.lol
@@ -364,7 +365,6 @@ dns.dremaxx.de
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -997,6 +997,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1041,7 +1042,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1193,7 +1193,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1384,6 +1383,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
