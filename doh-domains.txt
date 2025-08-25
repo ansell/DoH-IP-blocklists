@@ -69,6 +69,7 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
+adguard.mrmartian.co
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -517,6 +518,7 @@ dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
 dns.narl.app
+dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
