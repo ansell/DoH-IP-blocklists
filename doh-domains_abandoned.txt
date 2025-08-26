@@ -123,13 +123,13 @@ dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -159,6 +159,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.nas-server.ru
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -252,6 +253,7 @@ doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
+doh.technochat.in
 doh.this.web.id
 doh.velyn.my.id
 doh.zephyrus.id
