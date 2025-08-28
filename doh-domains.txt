@@ -624,7 +624,6 @@ dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
 dns.surfsharkdns.com
-dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
