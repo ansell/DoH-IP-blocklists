@@ -26,6 +26,7 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.johanliebert.top
 adguard.k0rap.com
@@ -360,7 +361,6 @@ pashagame456.com
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
-punono.duckdns.org
 qqmcfw.tech
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -382,7 +382,9 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
+tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tx.teradns.org
 uf-dns.lista.my.id
