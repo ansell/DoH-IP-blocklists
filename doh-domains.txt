@@ -198,6 +198,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -516,6 +517,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -638,7 +640,6 @@ dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
-dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
@@ -1056,6 +1057,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1343,6 +1345,7 @@ sm2.doh.pub
 sof01.dnscry.pt
 solaxy.live
 spacedns.org
+squidmall.vip
 sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
