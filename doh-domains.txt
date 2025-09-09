@@ -232,7 +232,6 @@ dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
-dns.233py.com
 dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
@@ -385,6 +384,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -518,6 +518,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -747,7 +748,6 @@ doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
-doh.233py.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
@@ -911,7 +911,6 @@ dus01.dnscry.pt
 ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
-edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
 emby.rasp.tv
@@ -980,7 +979,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1006,7 +1004,6 @@ httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hungary.privacy-dns.pw
 hydra.plan9-ns1.com
-i.233py.com
 i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
@@ -1129,7 +1126,6 @@ naganohara-yoimiya.momokko.moe
 najiakeji.top
 nat64.tuxis.nl
 naw01.dnscry.pt
-ndns.233py.com
 netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
@@ -1309,7 +1305,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
-sdns.233py.com
 sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.seia.io
@@ -1433,7 +1428,6 @@ vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
-wdns.233py.com
 wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
