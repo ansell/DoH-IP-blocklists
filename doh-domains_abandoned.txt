@@ -82,6 +82,7 @@ dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
 dns.23-4.cn
+dns.233py.com
 dns.233py.com.cdn.cloudflare.net
 dns.444723.xyz
 dns.52306.org
@@ -120,7 +121,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -157,6 +157,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -283,7 +284,6 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -291,6 +291,7 @@ hkname.freecdn.one
 home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
+i.233py.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
 inde.ragnvindr.org
