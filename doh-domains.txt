@@ -366,7 +366,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -608,6 +607,7 @@ dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
+dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
