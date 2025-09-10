@@ -108,6 +108,7 @@ dns.chocolatezz.xyz
 dns.cloudseriousshit.com
 dns.criena.net
 dns.cybershell.xyz
+dns.cybertonic.tech
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -156,6 +157,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -176,7 +178,6 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
-dns.skrep.eu
 dns.stvsk.ml
 dns.surobe.com
 dns.swin.pro
