@@ -366,6 +366,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1345,7 +1346,6 @@ sm2.doh.pub
 sof01.dnscry.pt
 solaxy.live
 spacedns.org
-squidmall.vip
 sriedmueadguard.casa
 steering.nextdns.io
 sto01.dnscry.pt
