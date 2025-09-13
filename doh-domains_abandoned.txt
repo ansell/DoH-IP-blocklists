@@ -65,11 +65,11 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
@@ -128,7 +128,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -158,7 +157,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -179,6 +177,7 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
+dns.skrep.eu
 dns.stvsk.ml
 dns.surobe.com
 dns.swin.pro
@@ -285,7 +284,6 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
