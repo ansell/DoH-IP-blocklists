@@ -69,7 +69,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
@@ -180,7 +179,6 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
-dns.skrep.eu
 dns.stvsk.ml
 dns.surobe.com
 dns.swin.pro
