@@ -122,7 +122,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -208,6 +207,7 @@ dns1.in.newpangea.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
+dns1.pietjacobs.be
 dns1.server.my.id
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
