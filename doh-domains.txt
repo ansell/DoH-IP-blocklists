@@ -473,7 +473,6 @@ dns.kxy.ink
 dns.l337.site
 dns.labnekotest.site
 dns.lars-lehmann.net
-dns.lashes-brow.ru
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
