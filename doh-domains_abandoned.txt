@@ -59,6 +59,7 @@ berd.moe
 bestwon203.com
 bigora2.vuhai.de
 bld.sys-adm.in
+blocker.thethorsens.org
 buc-m2.illmods.com
 canadianshield.cira.ca
 cdn.0ms.dev
@@ -70,7 +71,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
@@ -111,7 +111,6 @@ dns.chocolatezz.xyz
 dns.cloudseriousshit.com
 dns.criena.net
 dns.cybershell.xyz
-dns.cybertonic.tech
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -131,7 +130,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -162,6 +160,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -289,7 +288,6 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
