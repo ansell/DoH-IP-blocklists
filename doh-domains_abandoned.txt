@@ -139,7 +139,6 @@ dns.henek.ovh
 dns.hshoe.cn
 dns.hugo0.moe
 dns.ian.rocks
-dns.immanuelschaffer.de
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
