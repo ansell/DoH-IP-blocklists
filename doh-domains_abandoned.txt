@@ -61,7 +61,6 @@ bigora2.vuhai.de
 bld.sys-adm.in
 buc-m2.illmods.com
 canadianshield.cira.ca
-cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -309,6 +308,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -379,7 +379,6 @@ tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 tuskythehusky.tech
 tx.teradns.org
