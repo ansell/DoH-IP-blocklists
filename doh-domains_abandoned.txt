@@ -50,7 +50,6 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
-atris.cyou
 au.rslvr.eu
 awan.ftp.sh
 b-ii.com
@@ -128,7 +127,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -235,8 +233,6 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
-doh.eastau.pi-dns.com
-doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -253,14 +249,12 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
 doh.ny.ahadns.net
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
-doh.westus.pi-dns.com
 doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
@@ -271,15 +265,12 @@ dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
-dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
-dot.eastau.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
 dot.libredns.gr.com
 dot.no.ahadns.net
-dot.northeu.pi-dns.com
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
@@ -295,14 +286,12 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
 hrk01.dnscry.pt
-hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -318,7 +307,6 @@ jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
-kx-97795-tr.xyz
 la.ray0512.win
 lim01.dnscry.pt
 local.sufly.top
@@ -373,7 +361,6 @@ qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
-romania.privacy-dns.pw
 sby-doh.limotelu.org
 secure.onedns.cc
 sg.adhole.org
