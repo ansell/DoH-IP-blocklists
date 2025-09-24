@@ -123,11 +123,13 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -158,6 +160,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -173,7 +176,6 @@ dns.post-factum.tk
 dns.princex.net
 dns.privilab.net
 dns.propheci.xyz
-dns.pumpkinvrar.com
 dns.pumplex.com
 dns.rafn.is
 dns.rootlab.top
@@ -222,7 +224,6 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
-do-39574-tr.xyz
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
@@ -235,7 +236,6 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
-doh.eastau.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
