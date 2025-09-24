@@ -59,6 +59,7 @@ berd.moe
 bestwon203.com
 bigora2.vuhai.de
 bld.sys-adm.in
+blocker.thethorsens.org
 buc-m2.illmods.com
 canadianshield.cira.ca
 chandr1000.net
@@ -122,11 +123,13 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -266,6 +269,7 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
+dot.eastau.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
@@ -387,6 +391,7 @@ uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
 uncensored.ny1.dns.nixnet.xyz
+united-arab-emirates.privacy-dns.pw
 uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
