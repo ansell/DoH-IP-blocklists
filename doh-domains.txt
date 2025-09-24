@@ -38,7 +38,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -145,6 +144,7 @@ blackhole.myon.lu
 blitz-setup.ahadns.com
 blitz.ahadns.com
 block.abstergo.it
+blocker.thethorsens.org
 blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
@@ -364,6 +364,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -381,6 +382,7 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -513,6 +515,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -559,7 +562,6 @@ dns.pragmasec.nl
 dns.privado.ovh
 dns.psociety.de
 dns.pub
-dns.pumpkinvrar.com
 dns.qrtz.club
 dns.quad9.net
 dns.quiet.rocks
@@ -723,7 +725,6 @@ dnspub.restena.lu
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
-do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -782,7 +783,6 @@ doh.dnslify.com
 doh.domreg.lt
 doh.dscloud.me
 doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
@@ -875,6 +875,7 @@ dot.360.cn
 dot.centraleu.pi-dns.com
 dot.cox.net
 dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
@@ -1391,6 +1392,7 @@ uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
