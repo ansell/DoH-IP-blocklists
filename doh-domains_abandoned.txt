@@ -177,6 +177,7 @@ dns.rafn.is
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.scapetical.com
 dns.siry.de
 dns.stvsk.ml
 dns.surobe.com
@@ -220,7 +221,6 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
-do-39574-tr.xyz
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
@@ -249,6 +249,7 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
 doh.ny.ahadns.net
+doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
@@ -293,6 +294,7 @@ hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
 hrk01.dnscry.pt
+hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -358,6 +360,7 @@ pashagame456.com
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+punono.duckdns.org
 qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -378,6 +381,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tx.teradns.org
 uf-dns.lista.my.id

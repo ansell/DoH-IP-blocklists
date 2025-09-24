@@ -588,7 +588,6 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
-dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -727,6 +726,7 @@ dnspub.restena.lu
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
+do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -831,7 +831,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-doh.pi-dns.com
 doh.port53.dk
 doh.powerdns.org
 doh.pub
@@ -998,7 +997,6 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
-hungary.privacy-dns.pw
 hydra.plan9-ns1.com
 i.233py.com
 i.passcloud.xyz
@@ -1243,7 +1241,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
-punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
@@ -1383,7 +1380,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tyo01.dnscry.pt
 tyo02.dnscry.pt
