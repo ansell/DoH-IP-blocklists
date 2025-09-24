@@ -248,7 +248,6 @@ doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
-doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 doh.post-factum.tk
