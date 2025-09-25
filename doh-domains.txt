@@ -162,7 +162,6 @@ ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
-catchen121299.top
 catdns.org
 cdn.0ms.dev
 cfdjb.org
@@ -382,6 +381,7 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -514,6 +514,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -973,6 +974,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1075,6 +1077,7 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lukscasino-542-tr.xyz
+luxembourg.privacy-dns.pw
 mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
@@ -1392,6 +1395,7 @@ uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
