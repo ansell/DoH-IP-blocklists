@@ -162,6 +162,7 @@ ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
+catchen121299.top
 catdns.org
 cdn.0ms.dev
 cfdjb.org
@@ -514,7 +515,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -974,7 +974,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
