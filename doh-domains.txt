@@ -365,7 +365,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -783,6 +782,7 @@ doh.dnscrypt.uk
 doh.dnslify.com
 doh.domreg.lt
 doh.dscloud.me
+doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.eddi.net
@@ -888,6 +888,7 @@ dot.quickline.ch
 dot.seby.io
 dot.tiar.app
 dot.tooli.ca
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -972,6 +973,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1094,6 +1096,7 @@ mailer.amlegion.org
 mailkyb.co
 mainframe.dewed.de
 man01.dnscry.pt
+maqgie.xyz
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
