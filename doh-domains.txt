@@ -365,7 +365,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -383,7 +382,6 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -516,7 +514,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -624,6 +621,7 @@ dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
 dns.surfsharkdns.com
+dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
