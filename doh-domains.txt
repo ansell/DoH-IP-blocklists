@@ -383,6 +383,7 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -788,6 +789,7 @@ doh.domreg.lt
 doh.dscloud.me
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
+doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
 doh.eu.dnswarden.com
@@ -879,6 +881,7 @@ dot.360.cn
 dot.centraleu.pi-dns.com
 dot.cox.net
 dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
@@ -975,7 +978,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1355,6 +1357,7 @@ sundalandia.pp.ua
 sunnygyl.com
 sweden.privacy-dns.pw
 switch.ch
+switzerland.privacy-dns.pw
 syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
