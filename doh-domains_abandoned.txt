@@ -378,6 +378,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tx.teradns.org
 uf-dns.lista.my.id
@@ -398,6 +399,7 @@ vanced.sytes.net
 vm.mytm.cc
 vps.robotboard.de
 www.dltuykfgp.top
+www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru

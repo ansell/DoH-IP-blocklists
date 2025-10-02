@@ -1383,7 +1383,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tyo01.dnscry.pt
 tyo02.dnscry.pt
@@ -1434,7 +1433,6 @@ wdns.233py.com
 wikimedia-dns.org
 www.c-dns.com
 www.chungocoai.name.vn
-www.dnsadguard.co.uk
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
