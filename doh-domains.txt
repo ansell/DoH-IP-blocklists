@@ -1107,6 +1107,7 @@ megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
 mil01.dnscry.pt
+miniapp.global
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
