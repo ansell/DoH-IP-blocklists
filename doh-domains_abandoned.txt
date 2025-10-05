@@ -160,7 +160,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -183,7 +182,7 @@ dns.reckoningslug.name
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
-dns.shecan.ir
+dns.seiffert.me
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -364,7 +363,6 @@ pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
 pope.cnblw.me
-pro.shecan.ir
 qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
