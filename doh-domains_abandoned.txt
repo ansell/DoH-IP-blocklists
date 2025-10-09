@@ -279,7 +279,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
