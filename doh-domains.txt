@@ -515,7 +515,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1112,7 +1111,6 @@ muc01.dnscry.pt
 muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
-myatris.sbs
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
