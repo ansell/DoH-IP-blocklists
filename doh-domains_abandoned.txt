@@ -135,6 +135,7 @@ dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
+dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.henek.ovh
 dns.hshoe.cn
@@ -160,7 +161,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
