@@ -379,6 +379,7 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -513,7 +514,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -533,7 +533,6 @@ dns.nodoa.me
 dns.novali.date
 dns.novg.net
 dns.npe.bz
-dns.npsolution.it
 dns.nullgate.net
 dns.numerus.com
 dns.odinpl.com
