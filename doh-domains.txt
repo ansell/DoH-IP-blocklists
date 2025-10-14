@@ -361,6 +361,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -421,7 +422,6 @@ dns.hotta.page
 dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
-dns.hypercute.eu
 dns.iamanuragh.in
 dns.iamninja.ru
 dns.ihaveacloud.com
