@@ -91,6 +91,8 @@ ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 affcdn.net
+africadns1.liquidtelecom.net
+africadns2.liquidtelecom.net
 ag.apollohct.com
 ag.brianlee.fun
 ag.ff0x.ca
