@@ -128,6 +128,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -372,6 +373,7 @@ ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
+ns4.opennameserver.org
 nue2.moderateinfra.net
 ny1.nixnet.xyz
 obscuro.top

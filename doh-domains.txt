@@ -359,7 +359,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1132,7 +1131,6 @@ ns3.com
 ns3.link
 ns3.opennameserver.org
 ns3.wuyouss.com
-ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
 ntwrkh.pro
