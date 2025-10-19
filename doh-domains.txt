@@ -504,6 +504,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1131,6 +1132,7 @@ ns3.com
 ns3.link
 ns3.opennameserver.org
 ns3.wuyouss.com
+ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
 ntwrkh.pro

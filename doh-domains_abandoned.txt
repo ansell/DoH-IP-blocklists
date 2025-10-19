@@ -169,7 +169,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -373,7 +372,6 @@ ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
-ns4.opennameserver.org
 nue2.moderateinfra.net
 ny1.nixnet.xyz
 obscuro.top
