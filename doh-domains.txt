@@ -378,6 +378,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -507,6 +508,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -565,6 +567,7 @@ dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
 dns.repinger.my.id
+dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
