@@ -133,7 +133,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -332,6 +331,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 krtekvpn.duckdns.org
@@ -384,7 +384,6 @@ pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
 pope.cnblw.me
-punono.duckdns.org
 qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
