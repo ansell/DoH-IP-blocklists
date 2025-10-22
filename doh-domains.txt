@@ -394,6 +394,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -510,7 +511,6 @@ dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
 dns.narl.app
-dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
