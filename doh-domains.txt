@@ -355,6 +355,7 @@ dns.dns-53.uk
 dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
+dns.doh.best
 dns.dotnet.win
 dns.dremaxx.de
 dns.dyn1.de
@@ -1011,6 +1012,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
