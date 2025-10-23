@@ -360,6 +360,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -505,6 +506,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -970,7 +972,6 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
-hungary.privacy-dns.pw
 hydra.plan9-ns1.com
 i.233py.com
 i.passcloud.xyz
@@ -1104,6 +1105,7 @@ nl-ams.doh.sb
 nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
+nl.dns.privex.io
 noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
@@ -1325,7 +1327,6 @@ stratus.bugz.fr
 sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
-sweden.privacy-dns.pw
 switch.ch
 switzerland.privacy-dns.pw
 syd.adfilter.net
