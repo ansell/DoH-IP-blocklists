@@ -126,7 +126,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -380,12 +379,10 @@ pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
 pope.cnblw.me
-ps1.modr.club
 qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
-romania.privacy-dns.pw
 sby-doh.limotelu.org
 secure.onedns.cc
 sg.adhole.org
