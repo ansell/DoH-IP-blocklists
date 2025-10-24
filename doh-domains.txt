@@ -1268,7 +1268,6 @@ ricko.is
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 rockwell.website
-romania.privacy-dns.pw
 router.comss.one
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
@@ -1331,6 +1330,7 @@ sundalandia.pp.ua
 sunnygyl.com
 sweden.privacy-dns.pw
 switch.ch
+switzerland.privacy-dns.pw
 syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
