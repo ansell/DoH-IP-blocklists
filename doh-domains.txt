@@ -1329,7 +1329,6 @@ stratus.bugz.fr
 sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
-sweden.privacy-dns.pw
 switch.ch
 switzerland.privacy-dns.pw
 syd.adfilter.net
