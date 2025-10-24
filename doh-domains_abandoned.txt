@@ -133,6 +133,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -341,7 +342,6 @@ lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
-maqgie.xyz
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
@@ -380,6 +380,7 @@ pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
 pope.cnblw.me
+ps1.modr.club
 qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -393,6 +394,7 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
+switzerland.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
