@@ -185,7 +185,6 @@ dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.princex.net
 dns.privilab.net
-dns.propheci.xyz
 dns.pumplex.com
 dns.rafn.is
 dns.reckoningslug.name
