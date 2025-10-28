@@ -356,9 +356,11 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -479,7 +481,6 @@ dns.listo.click
 dns.lobbygod.com
 dns.luma-medien.com
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -1084,7 +1085,6 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 morbitzer.de
 mozilla.cloudflare-dns.com

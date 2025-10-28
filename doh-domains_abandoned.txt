@@ -123,12 +123,10 @@ dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -163,6 +161,7 @@ dns.learningman.top
 dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
@@ -344,6 +343,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
+mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
