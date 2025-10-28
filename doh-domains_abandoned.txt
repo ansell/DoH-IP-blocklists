@@ -49,7 +49,6 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
-asia.tri-dns.net
 atris.cyou
 au.rslvr.eu
 awan.ftp.sh
@@ -308,7 +307,6 @@ dot.westus.pi-dns.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
-eu.tri-dns.net
 everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
@@ -401,7 +399,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tri-dns.net
 tujenasnaszato.xyz
 tundranet.hec.to
 tx.teradns.org
