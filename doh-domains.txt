@@ -358,6 +358,7 @@ dns.dremaxx.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1356,7 +1357,6 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com

@@ -129,7 +129,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -403,6 +402,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tri-dns.net
+tujenasnaszato.xyz
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
