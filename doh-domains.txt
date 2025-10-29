@@ -1223,6 +1223,7 @@ punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
+qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
 quic.lol
