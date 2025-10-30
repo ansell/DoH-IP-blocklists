@@ -2,6 +2,7 @@
 0ms.dev
 1.xhr0no.my
 351242444.xyz
+3dns.eu
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -169,6 +170,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
