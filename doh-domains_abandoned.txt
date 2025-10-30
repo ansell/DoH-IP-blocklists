@@ -190,7 +190,6 @@ dns.rafn.is
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
-dns.scuola.org
 dns.seiffert.me
 dns.siry.de
 dns.stvsk.ml
