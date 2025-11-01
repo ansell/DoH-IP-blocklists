@@ -192,7 +192,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.scapetical.com
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -388,7 +387,6 @@ pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
 pope.cnblw.me
-pro.shecan.ir
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
