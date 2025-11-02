@@ -66,6 +66,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
@@ -408,7 +409,6 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tujenasnaszato.xyz
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
