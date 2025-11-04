@@ -174,7 +174,6 @@ clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
-cloudbenders.fun
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -359,7 +358,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1355,6 +1353,7 @@ truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt

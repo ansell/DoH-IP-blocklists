@@ -67,6 +67,7 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
 clearweb.woodbridge.club
+cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -128,6 +129,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -406,7 +408,6 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tujenasnaszato.xyz
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
