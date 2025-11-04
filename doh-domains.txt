@@ -358,6 +358,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -374,7 +375,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -777,7 +777,6 @@ doh.funil.de
 doh.funtopia.tv
 doh.futa.app
 doh.futa.gg
-doh.hottis.de
 doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.infracell.net
