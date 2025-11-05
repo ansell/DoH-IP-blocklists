@@ -503,7 +503,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -613,7 +612,6 @@ dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
-dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
 dns.t53.de

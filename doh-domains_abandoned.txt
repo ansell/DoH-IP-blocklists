@@ -170,6 +170,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -195,6 +196,7 @@ dns.seiffert.me
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
+dns.sy.st
 dns.theres.one
 dns.thiz.top
 dns.tierradeayala.com
