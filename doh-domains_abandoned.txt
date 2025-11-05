@@ -72,6 +72,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
+dandelionsprout.asuscomm.com
 de.adhole.org
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
@@ -137,7 +138,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -384,7 +384,6 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
-performance.gosami.xyz
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
