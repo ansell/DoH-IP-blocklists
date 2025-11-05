@@ -130,6 +130,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -342,6 +343,7 @@ kx-97795-tr.xyz
 la.ray0512.win
 las-vegas.privacy-dns.pw
 lesuo.top
+lewsha.lol
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
@@ -433,6 +435,7 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xbcpb668.com
 xholgm.top
 ycg01.dnscry.pt
 ychen.ga
