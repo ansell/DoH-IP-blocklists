@@ -1194,7 +1194,6 @@ polisitogel.cruises
 polisitogel.diy
 polisitogel.green
 polisitogel.hair
-polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 polisitogel.show
