@@ -56,7 +56,6 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
-blocker.thethorsens.org
 buc-m2.illmods.com
 canadianshield.cira.ca
 catchen121299.top
@@ -170,6 +169,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
