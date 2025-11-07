@@ -422,7 +422,6 @@ dns.ikataruto.com
 dns.iki.my.id
 dns.imaicool.com
 dns.imchristian.de
-dns.immanuelschaffer.de
 dns.inclusioproject.com
 dns.inforlogia.com
 dns.interhub.cc
@@ -465,6 +464,7 @@ dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.lermer.nl
+dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
 dns.lightmaster.pw
@@ -501,7 +501,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -562,7 +561,6 @@ dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
 dns.repinger.my.id
-dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
