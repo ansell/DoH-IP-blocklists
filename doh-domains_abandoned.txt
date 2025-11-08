@@ -56,7 +56,6 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
-blocker.thethorsens.org
 buc-m2.illmods.com
 canadianshield.cira.ca
 catchen121299.top
@@ -332,6 +331,7 @@ iris.woozeno.eu
 irre.li
 jambi.undo.it
 jit.ddns.net
+johneldenring.lol
 jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
