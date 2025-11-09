@@ -359,6 +359,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1124,7 +1125,6 @@ ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
-ns3.link
 ns3.opennameserver.org
 ns3.wuyouss.com
 ns4.opennameserver.org
