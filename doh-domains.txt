@@ -375,6 +375,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -626,6 +627,7 @@ dns.thegoodsource.net
 dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
+dns.tracker.ink
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
