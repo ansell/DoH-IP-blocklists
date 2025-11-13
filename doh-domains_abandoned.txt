@@ -67,7 +67,6 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -111,7 +110,6 @@ dns.cloudseriousshit.com
 dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
-dns.cybertonic.tech
 dns.d96.info
 dns.daarrk.tech
 dns.de.futuredns.eu.org
@@ -126,6 +124,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -168,6 +167,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -181,6 +181,7 @@ dns.oszx.co
 dns.ovpn.bond
 dns.pesaventofilippo.com
 dns.post-factum.tk
+dns.pragmasec.nl
 dns.princex.net
 dns.privilab.net
 dns.pumplex.com
@@ -436,7 +437,6 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
-xholgm.top
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
