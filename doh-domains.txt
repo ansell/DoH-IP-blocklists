@@ -364,7 +364,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -380,7 +379,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -588,7 +586,6 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
