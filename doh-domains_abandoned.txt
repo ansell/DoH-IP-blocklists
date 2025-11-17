@@ -131,7 +131,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -145,6 +144,7 @@ dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
 dns.imaicool.com
+dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz

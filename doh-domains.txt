@@ -379,6 +379,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -428,7 +429,6 @@ dns.ikataruto.com
 dns.iki.my.id
 dns.imchristian.de
 dns.immanuelschaffer.de
-dns.inclusioproject.com
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
