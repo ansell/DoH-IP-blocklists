@@ -42,6 +42,7 @@ aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
 ag.ssrahul96.xyz
+ahoj.email
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -124,6 +125,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -165,6 +167,8 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
+dns.nas-server.ru
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -335,7 +339,6 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 las-vegas.privacy-dns.pw
-lesuo.top
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
@@ -384,6 +387,7 @@ please.dontsteal.my.id
 polisitogel.accountant
 polisitogel.limo
 pope.cnblw.me
+princez.uk
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
