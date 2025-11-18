@@ -429,6 +429,7 @@ dns.ikataruto.com
 dns.iki.my.id
 dns.imchristian.de
 dns.immanuelschaffer.de
+dns.inclusioproject.com
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
@@ -507,7 +508,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
