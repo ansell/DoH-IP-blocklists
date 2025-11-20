@@ -54,7 +54,6 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
-blocker.thethorsens.org
 buc-m2.illmods.com
 callies-online.site
 canadianshield.cira.ca
@@ -131,7 +130,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -165,7 +163,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -184,6 +181,7 @@ dns.princex.net
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
+dns.reckoningslug.name
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
