@@ -380,7 +380,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -564,6 +563,7 @@ dns.quiet.rocks
 dns.rabbitdns.org
 dns.rayanbab.com
 dns.rbn.gr
+dns.reckoningslug.name
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
@@ -590,7 +590,6 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
