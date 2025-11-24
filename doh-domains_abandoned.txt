@@ -107,6 +107,7 @@ dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
+dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
 dns.d96.info
@@ -122,6 +123,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
