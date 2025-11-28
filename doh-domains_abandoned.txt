@@ -131,6 +131,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -179,6 +180,7 @@ dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
+dns.privado.ovh
 dns.privilab.net
 dns.pumplex.com
 dns.rafn.is
@@ -372,6 +374,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+orpi.privado.ovh
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
