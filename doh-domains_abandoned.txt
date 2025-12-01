@@ -131,7 +131,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -381,7 +380,14 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
+polisitogel.builders
+polisitogel.contractors
+polisitogel.cruises
+polisitogel.diy
+polisitogel.green
 polisitogel.limo
+polisitogel.living
+polisitogel.luxe
 pope.cnblw.me
 resolve2.r9x.cc
 resolver-eu.lelux.fi

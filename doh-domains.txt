@@ -379,6 +379,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1194,14 +1195,7 @@ pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
 polisitogel.beauty
-polisitogel.builders
-polisitogel.contractors
-polisitogel.cruises
-polisitogel.diy
-polisitogel.green
 polisitogel.hair
-polisitogel.living
-polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
