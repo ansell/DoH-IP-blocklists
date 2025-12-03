@@ -364,6 +364,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -982,6 +983,7 @@ i.passcloud.xyz
 iana.tenta.io
 ibuki.cgnat.net
 ie01.dns4me.net
+ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
 imperio.top
