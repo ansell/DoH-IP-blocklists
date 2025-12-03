@@ -164,7 +164,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -319,7 +318,9 @@ hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
+ibksturm.synology.me
 id.terra.my.id
+ihctw.synology.me
 inde.ragnvindr.org
 india.privacy-dns.pw
 iris.woozeno.eu

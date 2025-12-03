@@ -509,6 +509,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -979,10 +980,8 @@ hydra.plan9-ns1.com
 i.233py.com
 i.passcloud.xyz
 iana.tenta.io
-ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
-ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
 imperio.top
