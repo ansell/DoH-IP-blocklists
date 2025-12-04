@@ -7,7 +7,6 @@
 2.dns.noridev.moe
 3dcosas.xyz
 3dns.eu
-3jjxxl.tech
 5g.o0o.re
 8888.google
 a.family.ns.dnslify.com
@@ -1211,7 +1210,6 @@ punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
-qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
 quic.lol
