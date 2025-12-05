@@ -358,7 +358,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -379,6 +378,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1403,7 +1403,6 @@ www.morbitzer.de
 www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
-xbcpb668.com
 xenergy.cc
 xholgm.top
 xmr.land
