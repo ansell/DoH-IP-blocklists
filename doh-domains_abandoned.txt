@@ -23,7 +23,6 @@ adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.blogssl.com
 adguard.cloudmini.net
-adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
@@ -125,6 +124,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -166,6 +166,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
