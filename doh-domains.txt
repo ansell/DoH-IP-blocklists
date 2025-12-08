@@ -363,7 +363,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1340,7 +1339,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
