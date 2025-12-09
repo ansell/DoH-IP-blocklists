@@ -329,6 +329,7 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
+korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
