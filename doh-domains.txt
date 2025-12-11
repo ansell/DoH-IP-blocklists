@@ -150,7 +150,6 @@ blitz-setup.ahadns.com
 blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
-blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
@@ -428,6 +427,7 @@ dns.ikataruto.com
 dns.iki.my.id
 dns.imchristian.de
 dns.immanuelschaffer.de
+dns.inclusioproject.com
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
@@ -758,7 +758,6 @@ doh.cox.net
 doh.crypto.sx
 doh.datahata.by
 doh.defaultroutes.de
-doh.denypradana.com
 doh.disconnect.app
 doh.dns-ga.de
 doh.dns.apple.com

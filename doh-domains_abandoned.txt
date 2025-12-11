@@ -55,6 +55,7 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
+blockerads.multimediaconcept.fr
 buc-m2.illmods.com
 callies-online.site
 canadianshield.cira.ca
@@ -145,7 +146,6 @@ dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
 dns.imaicool.com
-dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
@@ -246,6 +246,7 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
+doh.denypradana.com
 doh.doh.my.id
 doh.dscloud.me
 doh.eastas.pi-dns.com
