@@ -363,6 +363,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -427,7 +428,6 @@ dns.ikataruto.com
 dns.iki.my.id
 dns.imchristian.de
 dns.immanuelschaffer.de
-dns.inclusioproject.com
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
@@ -507,6 +507,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -969,6 +970,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com

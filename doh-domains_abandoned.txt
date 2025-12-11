@@ -124,7 +124,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -146,6 +145,7 @@ dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
 dns.imaicool.com
+dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
@@ -166,7 +166,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -315,7 +314,6 @@ fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
 hk.rslvr.eu
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
