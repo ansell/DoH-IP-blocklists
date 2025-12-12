@@ -198,6 +198,7 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -336,6 +337,7 @@ dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
 dns.d94.xyz
+dns.daarrk.tech
 dns.daemon.za.net
 dns.dallinbryce.com
 dns.datenquark.de
@@ -362,6 +364,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -377,6 +380,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
