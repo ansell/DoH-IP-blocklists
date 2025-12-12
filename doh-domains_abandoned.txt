@@ -124,7 +124,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -177,6 +176,7 @@ dns.npsolution.it
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
+dns.ours.luxe
 dns.ovpn.bond
 dns.pesaventofilippo.com
 dns.post-factum.tk
