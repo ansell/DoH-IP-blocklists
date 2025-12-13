@@ -549,6 +549,7 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
+dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
