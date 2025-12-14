@@ -165,7 +165,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -285,7 +284,6 @@ doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
 doh2.blahdns.com
-dohtrial.att.net
 dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com

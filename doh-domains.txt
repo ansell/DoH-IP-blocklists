@@ -508,6 +508,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -845,6 +846,7 @@ doh1.b-cdn.net
 doh2.b-cdn.net
 doh2.gslb2.xfinity.com
 dohdot.coxlab.net
+dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
