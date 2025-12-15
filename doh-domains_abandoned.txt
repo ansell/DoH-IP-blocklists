@@ -123,7 +123,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -315,10 +314,12 @@ greatideasforlife.lol
 groupy.ga
 hk.rslvr.eu
 hrk01.dnscry.pt
+hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
 inde.ragnvindr.org
+india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
