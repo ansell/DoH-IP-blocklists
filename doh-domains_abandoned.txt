@@ -319,7 +319,6 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
 inde.ragnvindr.org
-india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
@@ -397,6 +396,7 @@ qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
+romania.privacy-dns.pw
 sby-doh.limotelu.org
 secure.onedns.cc
 sg.adhole.org
@@ -406,6 +406,7 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
+switzerland.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
