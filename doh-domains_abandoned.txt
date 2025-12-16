@@ -123,7 +123,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -165,7 +164,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -316,7 +314,6 @@ greatideasforlife.lol
 groupy.ga
 hk.rslvr.eu
 hrk01.dnscry.pt
-hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -427,6 +424,7 @@ uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
 uncensored.ny1.dns.nixnet.xyz
+united-arab-emirates.privacy-dns.pw
 uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
