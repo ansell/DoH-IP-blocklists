@@ -130,6 +130,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
@@ -408,7 +409,6 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
-switzerland.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg

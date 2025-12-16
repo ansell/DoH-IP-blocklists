@@ -380,7 +380,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -1317,6 +1316,7 @@ sundalandia.pp.ua
 sunnygyl.com
 sweden.privacy-dns.pw
 switch.ch
+switzerland.privacy-dns.pw
 syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
