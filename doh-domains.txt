@@ -364,6 +364,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -508,6 +509,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -986,6 +988,7 @@ iij.jp
 ikarosalpha.xyz
 imperio.top
 in-blr.doh.sb
+india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
@@ -1031,6 +1034,7 @@ kronos.plan9-dns.com
 krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
+las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -1251,7 +1255,6 @@ ricko.is
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 rockwell.website
-romania.privacy-dns.pw
 router.comss.one
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
@@ -1313,6 +1316,7 @@ sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 switch.ch
+switzerland.privacy-dns.pw
 syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
@@ -1354,6 +1358,7 @@ uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
