@@ -87,6 +87,7 @@ dns.5ososea.com
 dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
+dns.a47.me
 dns.aaflalo.me
 dns.adrianlam.com
 dns.aeiou.pp.ua
@@ -129,7 +130,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
@@ -435,6 +435,7 @@ www.dltuykfgp.top
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
+www.unasw.eu
 www.zburger.top
 xbcpb668.com
 ycg01.dnscry.pt

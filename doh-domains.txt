@@ -244,7 +244,6 @@ dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
 dns.9999.sg
-dns.a47.me
 dns.aa.net.uk
 dns.aaytorr.com
 dns.abdullahabas.de
@@ -381,6 +380,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -1407,7 +1407,6 @@ www.masters-of-cloud.de
 www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
-www.unasw.eu
 wyx.cloud
 xenergy.cc
 xholgm.top
