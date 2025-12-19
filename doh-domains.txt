@@ -1014,7 +1014,6 @@ jpdns.cola16.app
 jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
-kavkaz.monster
 keithchung.hopto.org
 kids.dns0.eu
 kids.ns.nwps.fi

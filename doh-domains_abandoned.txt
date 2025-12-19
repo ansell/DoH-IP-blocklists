@@ -333,6 +333,7 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
+kavkaz.monster
 kids.5ososea.com
 korzhov.dev
 kracon.anycast.censurfridns.dk
