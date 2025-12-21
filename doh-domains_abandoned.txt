@@ -129,6 +129,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
@@ -163,6 +164,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -244,6 +246,7 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
+doh.dns1.lonet.org
 doh.doh.my.id
 doh.dscloud.me
 doh.eastas.pi-dns.com
@@ -268,6 +271,7 @@ doh.netweaver.uk
 doh.no.ahadns.net
 doh.northeu.pi-dns.com
 doh.ny.ahadns.net
+doh.phdns1.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
