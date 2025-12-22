@@ -121,6 +121,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -128,6 +129,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
@@ -162,6 +164,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -348,6 +351,19 @@ lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
+mabuktogel.builders
+mabuktogel.business
+mabuktogel.cards
+mabuktogel.creditcard
+mabuktogel.degree
+mabuktogel.directory
+mabuktogel.enterprises
+mabuktogel.immobilien
+mabuktogel.limited
+mabuktogel.ltd
+mabuktogel.marketing
+mabuktogel.properties
+mabuktogel.solutions
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
