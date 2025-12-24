@@ -45,7 +45,6 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
-asia.tri-dns.net
 au.rslvr.eu
 awan.ftp.sh
 b-ii.com
@@ -66,7 +65,6 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -129,6 +127,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
@@ -310,7 +309,6 @@ dot.westus.pi-dns.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
-eu.tri-dns.net
 everovpn.co
 example.doh.blockerdns.com
 family.5ososea.com
@@ -434,7 +432,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tri-dns.net
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
