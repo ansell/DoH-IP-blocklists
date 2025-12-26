@@ -382,7 +382,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -505,12 +504,12 @@ dns.mnet-online.de
 dns.mo0on15.com
 dns.molinero.dev
 dns.momou.ch
+dns.moog.sh
 dns.moonssif.com
 dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
