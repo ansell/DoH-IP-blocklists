@@ -200,6 +200,7 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
+d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -511,7 +512,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1032,7 +1032,6 @@ lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
 lesuo.top
-lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
