@@ -200,7 +200,6 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
-d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -512,6 +511,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -630,7 +630,6 @@ dns.thegoodsource.net
 dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
-dns.tracker.ink
 dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
