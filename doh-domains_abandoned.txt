@@ -60,7 +60,6 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
-cleanbrowsing.org
 clearweb.woodbridge.club
 cloudbenders.fun
 console.carestyle.org
@@ -130,6 +129,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
