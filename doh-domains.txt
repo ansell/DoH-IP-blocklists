@@ -200,7 +200,6 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
-d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -368,7 +367,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -972,10 +970,8 @@ hydra.plan9-ns1.com
 i.233py.com
 i.passcloud.xyz
 iana.tenta.io
-ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
-ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
 imperio.top
