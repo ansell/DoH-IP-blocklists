@@ -1206,7 +1206,6 @@ resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 resolver-eu.haringstad.com
-resolver.dnsprivacy.org.uk
 resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se

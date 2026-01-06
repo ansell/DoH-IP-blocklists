@@ -420,6 +420,7 @@ pope.cnblw.me
 qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
+resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
 secure.onedns.cc
