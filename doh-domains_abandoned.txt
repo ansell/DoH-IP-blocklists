@@ -119,7 +119,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -133,6 +132,7 @@ dns.frank-ruan.com
 dns.furrydns.de
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
+dns.hannielzhang.com
 dns.haoxuan.xyz
 dns.henek.ovh
 dns.hshoe.cn

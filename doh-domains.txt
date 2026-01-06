@@ -368,6 +368,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -414,7 +415,6 @@ dns.haka.se
 dns.hakim.one
 dns.hanahira.dev
 dns.hanmey.de
-dns.hannielzhang.com
 dns.hellozhao.com
 dns.hinet.net
 dns.home.daniil.it
