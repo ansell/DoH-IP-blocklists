@@ -165,6 +165,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -432,6 +433,7 @@ sg.rslvr.eu
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
+sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
