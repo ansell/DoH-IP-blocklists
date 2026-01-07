@@ -128,7 +128,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.furrydns.de
@@ -423,7 +422,6 @@ pope.cnblw.me
 qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
-resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
 secure.onedns.cc

@@ -382,6 +382,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1203,6 +1204,7 @@ resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 resolver-eu.haringstad.com
+resolver.dnsprivacy.org.uk
 resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
