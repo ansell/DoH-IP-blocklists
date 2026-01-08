@@ -65,7 +65,6 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -404,6 +403,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 orpi.privado.ovh
 outdoorchair.us
+paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
