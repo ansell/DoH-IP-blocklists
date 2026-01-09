@@ -11,7 +11,6 @@
 8888.google
 a.family.ns.dnslify.com
 a.ns.dnslify.com
-a.passcloud.xyz
 a.safe.ns.dnslify.com
 abe01.dnscry.pt
 abel.waringer-atg.de
@@ -968,7 +967,6 @@ httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hydra.plan9-ns1.com
 i.233py.com
-i.passcloud.xyz
 iana.tenta.io
 ibksturm.synology.me
 ibuki.cgnat.net
