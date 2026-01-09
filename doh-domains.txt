@@ -199,6 +199,7 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
+d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -390,6 +391,7 @@ dns.freopc.fr
 dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
+dns.furrydns.de
 dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
@@ -507,7 +509,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
