@@ -66,6 +66,7 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -127,6 +128,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -321,7 +323,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
