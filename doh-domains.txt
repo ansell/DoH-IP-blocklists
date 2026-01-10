@@ -199,7 +199,7 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
-dandelionsprout.asuscomm.com
+d2.shabi.icu
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -781,7 +781,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -938,6 +937,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
