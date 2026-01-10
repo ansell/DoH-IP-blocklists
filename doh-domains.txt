@@ -367,6 +367,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -374,7 +375,6 @@ dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
-dns.f97.xyz
 dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
@@ -382,7 +382,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -510,7 +509,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
