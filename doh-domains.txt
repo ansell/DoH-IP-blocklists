@@ -199,7 +199,6 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
-d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -512,6 +511,7 @@ dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
 dns.narl.app
+dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
