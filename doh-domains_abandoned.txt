@@ -205,6 +205,7 @@ dns.us.futuredns.eu.org
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
+dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
 dns.xiumu.org
