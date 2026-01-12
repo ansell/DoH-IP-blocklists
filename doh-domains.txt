@@ -199,7 +199,6 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
-d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -770,7 +769,6 @@ doh.ersei.net
 doh.eu.dnswarden.com
 doh.familyshield.opendns.com
 doh.ffmuc.net
-doh.funil.de
 doh.funtopia.tv
 doh.futa.app
 doh.futa.gg

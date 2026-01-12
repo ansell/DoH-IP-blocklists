@@ -66,6 +66,7 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -257,6 +258,7 @@ doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.excdn.eu.org
+doh.funil.de
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
