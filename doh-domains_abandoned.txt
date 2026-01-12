@@ -130,7 +130,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -258,7 +257,6 @@ doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.excdn.eu.org
-doh.funil.de
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
