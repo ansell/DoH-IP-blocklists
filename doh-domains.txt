@@ -7,6 +7,7 @@
 2.dns.noridev.moe
 3dcosas.xyz
 3dns.eu
+3jjxxl.tech
 5g.o0o.re
 8888.google
 a.family.ns.dnslify.com
@@ -199,6 +200,7 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
+d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -366,6 +368,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -380,6 +383,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -936,6 +940,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1068,6 +1073,8 @@ muxyuji.ru
 myatris.sbs
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
+najiakeji.top
+nanopi.cybergroove.net
 nat64.tuxis.nl
 naw01.dnscry.pt
 ndns.233py.com
@@ -1162,6 +1169,7 @@ pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
+polisitogel.beauty
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
@@ -1378,6 +1386,7 @@ www.morbitzer.de
 www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
+xbcpb668.com
 xenergy.cc
 xholgm.top
 xmr.land
