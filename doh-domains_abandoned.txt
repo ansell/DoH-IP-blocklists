@@ -127,6 +127,7 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -162,6 +163,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -184,7 +186,6 @@ dns.pumplex.com
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
-dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
@@ -324,7 +325,6 @@ fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
 hk.rslvr.eu
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -347,7 +347,6 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lewsha.lol
@@ -406,7 +405,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
 pi1.node15.com
@@ -441,7 +439,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
