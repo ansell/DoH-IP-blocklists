@@ -62,7 +62,6 @@ chewbacca.meganerd.nl
 chr.kepegawaiandju.id
 clearweb.woodbridge.club
 cloudbenders.fun
-console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -119,6 +118,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
