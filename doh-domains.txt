@@ -369,6 +369,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -859,7 +860,6 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
-droyd.top
 drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
