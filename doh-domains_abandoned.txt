@@ -119,6 +119,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -325,6 +326,7 @@ fr-gra-w-f-1.nashkan.net
 free.shecan.ir
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
@@ -378,6 +380,7 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 moamao.shop
+msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
