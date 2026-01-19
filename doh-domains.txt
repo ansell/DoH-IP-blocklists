@@ -179,6 +179,7 @@ clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
+cloudbenders.fun
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -931,6 +932,7 @@ glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
+greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
 gustamadh.dynv6.net
