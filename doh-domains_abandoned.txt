@@ -61,6 +61,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 clearweb.woodbridge.club
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -187,7 +188,6 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -321,7 +321,6 @@ family.puredns.org
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-free.shecan.ir
 groupy.ga
 ha.o51r15.com
 hk.rslvr.eu

@@ -174,7 +174,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
-cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
@@ -589,6 +588,7 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
+dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -914,6 +914,7 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
+free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
