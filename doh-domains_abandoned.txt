@@ -128,6 +128,7 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -323,6 +324,7 @@ family.puredns.org
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+free.shecan.ir
 groupy.ga
 ha.o51r15.com
 hk.rslvr.eu
