@@ -566,6 +566,7 @@ dns.redvau.lt
 dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
+dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
@@ -1321,6 +1322,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
