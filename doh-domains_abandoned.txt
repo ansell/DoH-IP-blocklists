@@ -127,7 +127,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -404,7 +403,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
 pates.services.sfr.fr.casepp.sfr.fr
@@ -420,6 +418,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -439,7 +438,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
