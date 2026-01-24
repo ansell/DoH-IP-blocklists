@@ -166,6 +166,7 @@ ca-yyc.doh.sb
 ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
+callies-online.site
 catchen121299.top
 catdns.org
 cdn.0ms.dev
@@ -1006,6 +1007,7 @@ jpdns.cola16.app
 jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
+kavkaz.monster
 keithchung.hopto.org
 kids.ns.nwps.fi
 kilabit.info
