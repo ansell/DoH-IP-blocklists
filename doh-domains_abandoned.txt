@@ -212,7 +212,6 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
-dns01.flm9.net
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.in.newpangea.de
@@ -284,6 +283,7 @@ doh.port53.dk
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
+doh.syshero.org
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
