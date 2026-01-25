@@ -668,7 +668,6 @@ dns.zfsystem.tech
 dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
-dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
 dns1.dns-ga.de
