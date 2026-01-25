@@ -126,7 +126,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -163,6 +162,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -408,6 +408,7 @@ osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
 pates.services.sfr.fr.casepp.sfr.fr
+pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
