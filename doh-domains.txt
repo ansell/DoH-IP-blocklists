@@ -86,6 +86,7 @@ adguard.twotigers.xyz
 adguard.wirimij.nl
 adguard.zachitect.com
 adguard1.jsanagustin.net
+adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
@@ -511,6 +512,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr

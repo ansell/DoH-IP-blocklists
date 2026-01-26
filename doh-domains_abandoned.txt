@@ -37,7 +37,6 @@ adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
-adguard1.leadmon.net
 adguardh.ga
 aerodrorne.vip
 affsoft.cc
@@ -162,7 +161,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
