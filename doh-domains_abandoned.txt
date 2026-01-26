@@ -37,6 +37,7 @@ adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
+adguard1.leadmon.net
 adguardh.ga
 aerodrorne.vip
 affsoft.cc
@@ -138,6 +139,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -320,6 +322,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
