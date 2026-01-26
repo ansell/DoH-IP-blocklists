@@ -821,6 +821,7 @@ doh.sidnlabs.nl
 doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
+doh.syshero.org
 doh.technochat.in
 doh.thio.me
 doh.tiar.app
