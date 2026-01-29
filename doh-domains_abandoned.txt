@@ -115,7 +115,6 @@ dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
@@ -162,7 +161,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -322,9 +320,9 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -345,6 +343,7 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lifeisa.live
