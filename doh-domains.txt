@@ -510,7 +510,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -667,7 +666,6 @@ dns.zfsystem.tech
 dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
-dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
 dns1.dns-ga.de
@@ -939,6 +937,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
