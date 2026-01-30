@@ -110,7 +110,6 @@ agh.printk.info
 agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
-ahoj.email
 all.dns.mullvad.net
 alleesph.online
 ams01.dnscry.pt
@@ -364,7 +363,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -510,6 +508,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr

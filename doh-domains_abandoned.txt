@@ -42,6 +42,7 @@ aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
 ag.ssrahul96.xyz
+ahoj.email
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -115,6 +116,7 @@ dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
@@ -163,7 +165,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
