@@ -101,6 +101,7 @@ ag.apollohct.com
 ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
+ag.ssrahul96.xyz
 agh-yz.russel053.com
 agh.dshubham.xyz
 agh.fltn.us
@@ -110,6 +111,7 @@ agh.printk.info
 agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
+ahoj.email
 all.dns.mullvad.net
 alleesph.online
 ams01.dnscry.pt
@@ -363,6 +365,7 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -939,6 +942,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
