@@ -115,10 +115,10 @@ dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -139,7 +139,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -163,7 +162,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
