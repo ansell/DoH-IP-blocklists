@@ -198,6 +198,7 @@ dns.tierradeayala.com
 dns.tracker.ink
 dns.truong.fi
 dns.trust404.win
+dns.tryk.app
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
@@ -321,6 +322,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
