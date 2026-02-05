@@ -203,6 +203,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -1257,6 +1258,7 @@ secure.anudeep.me
 secure.avastdns.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
+security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
 sg-dns1.bancuh.com

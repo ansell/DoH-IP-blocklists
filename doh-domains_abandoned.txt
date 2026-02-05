@@ -63,7 +63,6 @@ chr.kepegawaiandju.id
 clearweb.woodbridge.club
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -423,7 +422,6 @@ resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
 secure.onedns.cc
-security-filter-dns.cleanbrowsing.org
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
