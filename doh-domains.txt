@@ -432,6 +432,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -1257,6 +1258,7 @@ secure.anudeep.me
 secure.avastdns.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
+security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
 sg-dns1.bancuh.com
