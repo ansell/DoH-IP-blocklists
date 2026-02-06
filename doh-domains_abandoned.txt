@@ -42,7 +42,6 @@ aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
 ag.ssrahul96.xyz
-ahoj.email
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -127,7 +126,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -163,7 +161,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -420,7 +417,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-princez.uk
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
@@ -470,5 +466,4 @@ xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
-zakaria.website
 zero.dns0.eu
