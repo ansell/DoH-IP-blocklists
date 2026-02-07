@@ -383,7 +383,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -654,6 +653,7 @@ dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
 dns.wibenson.cloud
+dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
 dns.xwdmw.xyz
@@ -939,7 +939,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
