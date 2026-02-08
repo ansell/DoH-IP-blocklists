@@ -446,7 +446,6 @@ dns.jiyi.eu
 dns.joey01245.nl
 dns.jstockley.com
 dns.jundev.org
-dns.jupitrdns.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
@@ -511,6 +510,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1384,7 +1384,6 @@ wyx.cloud
 xbcpb668.com
 xenergy.cc
 xholgm.top
-xmr.land
 xn--durhre-yxa.de
 xorbiadns.com
 yarp.lefolgoc.net
