@@ -126,7 +126,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -140,7 +139,6 @@ dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
 dns.ikataruto.com
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -204,6 +202,7 @@ dns.tryk.app
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
+dns.vod11.xyz
 dns.vojtat.cz
 dns.wahr.top
 dns.wakgood.net
