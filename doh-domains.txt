@@ -590,6 +590,7 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
+dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -631,6 +632,7 @@ dns.thegoodsource.net
 dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
+dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
@@ -1176,7 +1178,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club

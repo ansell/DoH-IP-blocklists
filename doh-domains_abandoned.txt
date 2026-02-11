@@ -186,7 +186,6 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -196,7 +195,6 @@ dns.tierradeayala.com
 dns.tracker.ink
 dns.truong.fi
 dns.trust404.win
-dns.tryk.app
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
@@ -417,6 +415,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+pro.shecan.ir
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
