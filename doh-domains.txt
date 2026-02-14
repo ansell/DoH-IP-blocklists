@@ -433,7 +433,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -661,7 +660,6 @@ dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
 dns.xwdmw.xyz
-dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
@@ -942,7 +940,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
