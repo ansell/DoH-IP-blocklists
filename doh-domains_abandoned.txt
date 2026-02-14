@@ -38,7 +38,6 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
-adult-filter-dns.cleanbrowsing.org
 aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
@@ -61,7 +60,6 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
-cleanbrowsing.org
 clearweb.woodbridge.club
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -139,7 +137,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
