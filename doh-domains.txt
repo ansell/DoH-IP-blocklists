@@ -90,7 +90,6 @@ adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
-adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -175,7 +174,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
-cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
