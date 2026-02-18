@@ -280,7 +280,6 @@ dns.asysec.com
 dns.b33.space
 dns.b612.me
 dns.b72.com
-dns.baishiyuan.cn
 dns.beardic.cn
 dns.bebasid.com
 dns.belnet.be
