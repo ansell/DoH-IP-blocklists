@@ -60,6 +60,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 clearweb.woodbridge.club
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -162,7 +163,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
