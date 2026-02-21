@@ -383,6 +383,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -430,12 +431,12 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
 dns.internal.hosmatic.com
 dns.is0mino.com
-dns.ishan.pw
 dns.islandnet.com
 dns.jhangy.us
 dns.jichi.io
@@ -509,6 +510,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
