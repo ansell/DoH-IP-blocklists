@@ -141,7 +141,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -166,6 +165,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -410,7 +410,6 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
-pates.services.sfr.fr.casepp.sfr.fr
 pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
