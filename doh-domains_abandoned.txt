@@ -55,6 +55,7 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
+blitz.ahadns.com
 buc-m2.illmods.com
 canadianshield.cira.ca
 chandr1000.net
@@ -166,7 +167,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
