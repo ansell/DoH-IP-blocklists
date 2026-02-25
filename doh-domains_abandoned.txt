@@ -99,7 +99,6 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
-dns.butterfly87.sbs
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
@@ -125,10 +124,10 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
-dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -157,7 +156,6 @@ dns.keke125.com
 dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
-dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.melalandia.tk
@@ -165,7 +163,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -352,7 +349,6 @@ korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
-lifeisa.live
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
