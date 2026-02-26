@@ -120,7 +120,6 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -140,7 +139,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -384,7 +382,6 @@ neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
 net01.youcef.io
-netcup.mismat.ch
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
 nl.rslvr.eu
