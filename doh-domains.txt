@@ -430,7 +430,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -1075,7 +1074,6 @@ nanopi.cybergroove.net
 nat64.tuxis.nl
 naw01.dnscry.pt
 ndns.233py.com
-netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
 nl-ams.doh.sb
