@@ -383,6 +383,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -415,6 +416,7 @@ dns.haka.se
 dns.hakim.one
 dns.hanahira.dev
 dns.hanmey.de
+dns.haoxuan.xyz
 dns.hellozhao.com
 dns.hinet.net
 dns.home.daniil.it
@@ -510,6 +512,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
