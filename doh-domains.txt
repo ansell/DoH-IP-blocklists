@@ -382,6 +382,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -429,7 +430,6 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -478,7 +478,6 @@ dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.lista.my.id
-dns.listo.click
 dns.lobbygod.com
 dns.lsho.top
 dns.luma-medien.com
@@ -509,6 +508,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -969,7 +969,6 @@ ibuki.cgnat.net
 ie01.dns4me.net
 ihctw.synology.me
 iij.jp
-ikarosalpha.xyz
 imperio.top
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
