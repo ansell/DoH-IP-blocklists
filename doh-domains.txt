@@ -366,7 +366,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -510,7 +509,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -583,7 +581,6 @@ dns.schlagheck.berlin
 dns.scott-smith.us
 dns.scuola.org
 dns.sec511.com
-dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
@@ -1244,7 +1241,6 @@ sbdns.co.in
 sdns.233py.com
 sdns22.gkonuralp.com
 sea01.dnscry.pt
-secondary.dns.seia.io
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
