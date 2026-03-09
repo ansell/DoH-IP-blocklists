@@ -121,6 +121,7 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -344,7 +345,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
