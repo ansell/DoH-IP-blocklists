@@ -76,7 +76,6 @@ dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
-dns.13evl.com
 dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.444723.xyz
@@ -119,9 +118,9 @@ dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -327,7 +326,6 @@ farewellkou.click
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-geshido.vpn.geshido.ru
 groupy.ga
 ha.o51r15.com
 hk.rslvr.eu
@@ -466,7 +464,6 @@ us.rslvr.eu
 v.qdev.cc
 v2.xx3210766.live
 vanced.sytes.net
-vd.i81.ru
 vm.mytm.cc
 vps.robotboard.de
 www.dltuykfgp.top
