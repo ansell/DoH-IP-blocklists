@@ -164,6 +164,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -352,6 +353,7 @@ korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
+lelux.fi
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
