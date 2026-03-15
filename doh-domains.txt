@@ -235,6 +235,7 @@ dns-public.ibakerserver.pt
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
+dns.13evl.com
 dns.233py.com
 dns.240527.xyz
 dns.354688.xyz
@@ -366,7 +367,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -382,7 +382,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -510,6 +509,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -544,6 +544,7 @@ dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
 dns.pernika.net
+dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
