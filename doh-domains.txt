@@ -431,6 +431,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -1372,7 +1373,6 @@ www.masters-of-cloud.de
 www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
-www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
