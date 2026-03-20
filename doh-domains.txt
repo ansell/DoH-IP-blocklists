@@ -1122,7 +1122,6 @@ o1.lt
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
-okado.online
 omr01.dnscry.pt
 one.one.one.one
 opencdn.jomodns.com
