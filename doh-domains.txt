@@ -88,7 +88,6 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
-ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -227,7 +226,6 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us

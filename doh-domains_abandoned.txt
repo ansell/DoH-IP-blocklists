@@ -39,6 +39,7 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
+ads.hunga1k47.com
 aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
@@ -70,6 +71,7 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
