@@ -39,7 +39,6 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
-ads.hunga1k47.com
 aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
@@ -159,7 +158,6 @@ dns.learningman.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -424,6 +422,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
