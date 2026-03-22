@@ -70,7 +70,6 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -160,6 +159,7 @@ dns.learningman.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.melalandia.tk
+dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
