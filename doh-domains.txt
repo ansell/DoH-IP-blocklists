@@ -361,7 +361,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -861,6 +860,7 @@ dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
+droyd.top
 drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
