@@ -113,7 +113,6 @@ dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
-dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
@@ -139,7 +138,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com

@@ -358,6 +358,7 @@ dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
 dns.dnshome.de
+dns.dnssilo.top
 dns.dnswarden.com
 dns.dotnet.win
 dns.dremaxx.de
@@ -431,6 +432,7 @@ dns.iamninja.ru
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
