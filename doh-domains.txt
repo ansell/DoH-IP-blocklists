@@ -330,7 +330,6 @@ dns.connect.fail
 dns.controld.com
 dns.cryptomize.com
 dns.crystalyx.net
-dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cwlys.com
@@ -403,7 +402,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -504,6 +502,7 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -655,6 +654,7 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
+dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
