@@ -27,7 +27,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -40,10 +39,8 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
-ads.hunga1k47.com
 aerodrorne.vip
 affsoft.cc
-ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
