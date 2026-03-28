@@ -27,6 +27,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
+adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -39,8 +40,10 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
+ads.hunga1k47.com
 aerodrorne.vip
 affsoft.cc
+ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -108,7 +111,6 @@ dns.cloudseriousshit.com
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
-dns.csa-rz.de
 dns.cybershell.xyz
 dns.d96.info
 dns.de.futuredns.eu.org
@@ -342,7 +344,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-justhost.bedro.cloud
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
