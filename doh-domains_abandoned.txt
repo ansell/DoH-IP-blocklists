@@ -108,6 +108,7 @@ dns.cloudseriousshit.com
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
+dns.csa-rz.de
 dns.cybershell.xyz
 dns.d96.info
 dns.de.futuredns.eu.org
@@ -126,7 +127,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com

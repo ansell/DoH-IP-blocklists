@@ -330,7 +330,6 @@ dns.connect.fail
 dns.controld.com
 dns.cryptomize.com
 dns.crystalyx.net
-dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cwlys.com
@@ -390,6 +389,7 @@ dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
+dns.foximao.cn
 dns.freopc.fr
 dns.freyja.pw
 dns.froth.zone
