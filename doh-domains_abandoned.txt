@@ -20,6 +20,7 @@ adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
 adguard.ambiya.net
+adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.blogssl.com
 adguard.cloudmini.net
@@ -156,6 +157,7 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
 dns.melalandia.tk
+dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
