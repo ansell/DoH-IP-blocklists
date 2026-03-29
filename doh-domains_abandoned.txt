@@ -39,7 +39,6 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
-ads.hunga1k47.com
 aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
@@ -156,8 +155,8 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -206,7 +205,6 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
-dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
 dns.yague.me
@@ -320,7 +318,6 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
-externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 farewellkou.click
@@ -426,6 +423,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -466,7 +464,6 @@ v.qdev.cc
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
-vpn.technicule.info
 vps.robotboard.de
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
