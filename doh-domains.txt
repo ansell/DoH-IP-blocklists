@@ -225,7 +225,6 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -501,6 +500,7 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -1237,7 +1237,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
