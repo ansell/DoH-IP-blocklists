@@ -402,6 +402,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -502,6 +503,7 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -653,6 +655,7 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
+dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
@@ -1183,6 +1186,7 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
@@ -1236,6 +1240,7 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
+sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -1353,6 +1358,7 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
+vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
