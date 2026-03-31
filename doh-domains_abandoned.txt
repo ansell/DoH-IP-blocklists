@@ -28,6 +28,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
+adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -156,6 +157,7 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
 dns.melalandia.tk
+dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -203,6 +205,7 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
+dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
 dns.yague.me
@@ -316,7 +319,6 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
-externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 farewellkou.click
@@ -422,12 +424,12 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc
