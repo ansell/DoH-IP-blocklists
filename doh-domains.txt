@@ -39,6 +39,7 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -227,6 +228,7 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -329,7 +331,6 @@ dns.connect.fail
 dns.controld.com
 dns.cryptomize.com
 dns.crystalyx.net
-dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cwlys.com
@@ -660,6 +661,7 @@ dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
+dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -1311,7 +1313,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
