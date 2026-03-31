@@ -39,6 +39,7 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -62,6 +63,7 @@ adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.johanliebert.top
+adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -95,7 +97,6 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
-ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -461,6 +462,7 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
+dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -552,7 +554,6 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
-dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -652,9 +653,11 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
+dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
+dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -1181,6 +1184,7 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
@@ -1234,7 +1238,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -1270,7 +1273,6 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
-solaxy.live
 spacedns.org
 squidmall.vip
 steering.nextdns.io
@@ -1305,7 +1307,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
@@ -1352,6 +1353,7 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
+vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
