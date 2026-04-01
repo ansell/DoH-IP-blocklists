@@ -71,7 +71,6 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -158,6 +157,7 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
 dns.melalandia.tk
+dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -205,6 +205,7 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
+dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
 dns.yague.me
@@ -313,6 +314,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -463,6 +465,7 @@ v.qdev.cc
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
+vpn.technicule.info
 vps.robotboard.de
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
