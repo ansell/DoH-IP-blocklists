@@ -29,7 +29,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -43,7 +42,6 @@ adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
 aerodrorne.vip
-ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -74,6 +72,7 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -158,6 +157,7 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.mo0on15.com
@@ -264,6 +264,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -314,12 +315,12 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
-externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 farewellkou.click
@@ -425,7 +426,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -466,7 +466,6 @@ v.qdev.cc
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
-vpn.technicule.info
 vps.robotboard.de
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
