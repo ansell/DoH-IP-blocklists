@@ -40,7 +40,9 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
+ads.hunga1k47.com
 aerodrorne.vip
+ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -207,6 +209,7 @@ dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
+dns.xwdmw.xyz
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
@@ -314,11 +317,13 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
+externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 farewellkou.click
@@ -430,6 +435,7 @@ resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
+sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc

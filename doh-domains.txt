@@ -87,7 +87,6 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
-ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -97,7 +96,6 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
-ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -658,7 +656,6 @@ dns.weixin.qq.com.cn
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -856,7 +853,6 @@ dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
-draco.plan9-ns2.com
 droyd.top
 drs.rustsword.com
 dtw01.dnscry.pt
@@ -877,7 +873,6 @@ eu.tri-dns.net
 eu1.dns.lavate.ch
 evn01.dnscry.pt
 extended.dns.mullvad.net
-externalmobiel.lekdijk.online
 eyg01.dnscry.pt
 family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
@@ -1237,7 +1232,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
