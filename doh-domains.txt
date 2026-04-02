@@ -87,6 +87,7 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
+ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -224,6 +225,7 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -653,6 +655,7 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
+dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
@@ -777,6 +780,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -853,6 +857,7 @@ dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
+draco.plan9-ns2.com
 droyd.top
 drs.rustsword.com
 dtw01.dnscry.pt
@@ -1232,6 +1237,7 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
+sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru

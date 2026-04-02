@@ -40,7 +40,6 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
-ads.hunga1k47.com
 aerodrorne.vip
 ag.brianlee.fun
 ag.hostme.co.il
@@ -73,7 +72,6 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -206,7 +204,6 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
-dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
 dns.xwdmw.xyz
@@ -266,7 +263,6 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -317,7 +313,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -435,7 +430,6 @@ resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc
