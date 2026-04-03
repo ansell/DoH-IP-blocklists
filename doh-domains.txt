@@ -62,7 +62,6 @@ adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.johanliebert.top
-adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -501,7 +500,6 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -658,7 +656,6 @@ dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -1236,7 +1233,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -1354,6 +1350,7 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
+vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
