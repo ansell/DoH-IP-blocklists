@@ -782,6 +782,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1248,7 +1249,6 @@ secure.anudeep.me
 secure.avastdns.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
-security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
 sg-dns1.bancuh.com
