@@ -417,7 +417,6 @@ dns.haka.se
 dns.hakim.one
 dns.hanahira.dev
 dns.hanmey.de
-dns.haoxuan.xyz
 dns.hellozhao.com
 dns.hinet.net
 dns.home.daniil.it
@@ -1249,6 +1248,7 @@ secure.anudeep.me
 secure.avastdns.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
+security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
 sg-dns1.bancuh.com

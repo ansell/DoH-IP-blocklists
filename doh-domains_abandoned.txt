@@ -131,6 +131,7 @@ dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
+dns.haoxuan.xyz
 dns.henek.ovh
 dns.hshoe.cn
 dns.hugo0.moe
@@ -431,7 +432,6 @@ sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc
-security-filter-dns.cleanbrowsing.org
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
