@@ -226,6 +226,7 @@ dns-doh-no-safe-search.dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -509,7 +510,6 @@ dns.moonssif.com
 dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
-dns.muxinghe.cn
 dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
