@@ -171,7 +171,6 @@ dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
 dns.npsolution.it
-dns.nullgate.net
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -450,6 +449,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 tw2.ooroot.com
 uf-dns.lista.my.id

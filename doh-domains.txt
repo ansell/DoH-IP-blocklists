@@ -539,6 +539,7 @@ dns.nodoa.me
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.nullgate.net
 dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
@@ -1329,7 +1330,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
