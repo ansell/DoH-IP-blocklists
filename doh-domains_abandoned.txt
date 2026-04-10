@@ -171,6 +171,7 @@ dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
 dns.npsolution.it
+dns.nullgate.net
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -189,6 +190,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
+dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro

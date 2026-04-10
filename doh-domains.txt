@@ -539,7 +539,6 @@ dns.nodoa.me
 dns.novali.date
 dns.novg.net
 dns.npe.bz
-dns.nullgate.net
 dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
@@ -602,7 +601,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
