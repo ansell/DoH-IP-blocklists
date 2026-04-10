@@ -6,7 +6,6 @@
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
 3dcosas.xyz
-3dns.eu
 3jjxxl.tech
 5g.o0o.re
 8888.google
@@ -971,6 +970,7 @@ ibuki.cgnat.net
 ie01.dns4me.net
 ihctw.synology.me
 iij.jp
+ikarosalpha.xyz
 imperio.top
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
@@ -1176,6 +1176,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
+punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr

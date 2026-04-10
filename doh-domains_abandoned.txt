@@ -1,6 +1,7 @@
 052419.xyz
 1.xhr0no.my
 351242444.xyz
+3dns.eu
 89433332.xyz
 a-bld.sys-adm.in
 a.passcloud.xyz
@@ -333,7 +334,6 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
 id.terra.my.id
-ikarosalpha.xyz
 inde.ragnvindr.org
 india.privacy-dns.pw
 iris.woozeno.eu
@@ -425,7 +425,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-punono.duckdns.org
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
