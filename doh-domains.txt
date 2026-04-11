@@ -596,7 +596,6 @@ dns.sec511.com
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -924,7 +923,6 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
-free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
@@ -1044,7 +1042,6 @@ lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
@@ -1185,7 +1182,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 protective.joindns4.eu
@@ -1201,7 +1197,6 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
-quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
