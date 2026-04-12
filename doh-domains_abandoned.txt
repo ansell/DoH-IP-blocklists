@@ -189,7 +189,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -300,7 +299,6 @@ dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
-dot.360.cn
 dot.au.ahadns.net
 dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
@@ -415,7 +413,6 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
-pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
