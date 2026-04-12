@@ -153,16 +153,12 @@ dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
-dns.kawa.tf
 dns.keke125.com
-dns.kugoapps.com
 dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
-dns.mathewakhil.online
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -418,7 +414,6 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
-pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
