@@ -601,6 +601,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -654,6 +655,7 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vmath.my.id
+dns.vod11.xyz
 dns.w3ctag.org
 dns.wang.art
 dns.wargan.io
@@ -1161,6 +1163,7 @@ paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
+pepetio.xyz
 per.adfilter.net
 performance.gosami.xyz
 phl01.dnscry.pt
