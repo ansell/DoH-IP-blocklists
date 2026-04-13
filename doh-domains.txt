@@ -761,7 +761,6 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
-doh.cippapp.com
 doh.cleanbrowsing.org
 doh.cnetwork.cloud
 doh.cornes.me
@@ -1162,7 +1161,6 @@ paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
-pepetio.xyz
 per.adfilter.net
 performance.gosami.xyz
 phl01.dnscry.pt
