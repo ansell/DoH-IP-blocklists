@@ -206,10 +206,8 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
-dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
-dns.xwdmw.xyz
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
@@ -317,7 +315,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -331,7 +328,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
 ha.o51r15.com
-himedns.com
 hk.rslvr.eu
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
@@ -344,7 +340,6 @@ india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
-jcdns.fun
 jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
@@ -359,7 +354,6 @@ kswro.web.id
 la.ray0512.win
 lelux.fi
 lim01.dnscry.pt
-lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
@@ -419,7 +413,6 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
-pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
