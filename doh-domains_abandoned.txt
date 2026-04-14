@@ -24,6 +24,7 @@ adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.blogssl.com
 adguard.cloudmini.net
+adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
@@ -201,6 +202,7 @@ dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
+dns.vod11.xyz
 dns.vojtat.cz
 dns.wahr.top
 dns.wakgood.net
@@ -413,6 +415,7 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
+pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
