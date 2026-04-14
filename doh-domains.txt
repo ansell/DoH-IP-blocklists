@@ -39,7 +39,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
-adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -510,7 +509,6 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -827,6 +825,7 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
+doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
