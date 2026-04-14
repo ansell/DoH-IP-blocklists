@@ -656,17 +656,16 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vmath.my.id
+dns.vod11.xyz
 dns.w3ctag.org
 dns.wang.art
 dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
-dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -826,7 +825,6 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
-doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
@@ -871,7 +869,6 @@ dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
-draco.plan9-ns2.com
 droyd.top
 drs.rustsword.com
 dtw01.dnscry.pt
@@ -961,7 +958,6 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
-himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -1000,7 +996,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 japan.dnsovertor.cc
-jcdns.fun
 jhb01.dnscry.pt
 jit.ddns.net
 jkdns.me
@@ -1046,7 +1041,6 @@ lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
@@ -1163,7 +1157,6 @@ paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
-pepetio.xyz
 per.adfilter.net
 performance.gosami.xyz
 phl01.dnscry.pt
