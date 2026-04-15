@@ -59,7 +59,7 @@
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
 2001:550:2:dc::5e:2                     # doh1.b-cdn.net, doh2.b-cdn.net
 2001:550:5a00:5eb::db5:face             # rdu01.dnscry.pt
-2001:558:fd00:ca::5                     # doh.xfinity.com, doh2.gslb2.xfinity.com
+2001:558:fd00:ca::a                     # doh.xfinity.com, doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145         # dot.xfinity.com
 2001:578:3f::30                         # doh.cox.net, dot.cox.net
 2001:620:0:ff::2                        # dns.switch.ch
@@ -121,8 +121,8 @@
 2001:df7:5300:18::64f                   # puredns.org
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:499a::10                  # dns.surobe.com
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:180:2::4:0:53                      # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:133:1500::2                      # doh.kekew.info
@@ -169,6 +169,7 @@
 2400:ddc0:b000::2                       # jp-kix.doh.sb
 2401:4520:1122::a                       # sin02.dnscry.pt
 2401:8360:a2:4::a                       # lon01.dnscry.pt
+2402:1f00:8000:800::794                 # adblock.krctech.dev
 2402:4e00:c050:2800:e4e:cf0e:740c:1     # dns.beardic.cn
 2402:6b00:f83e:9200:e71a:7e56:b675:aa36 # dns.yuu-g.net
 2402:7340:5000:6200::a                  # syd02.dnscry.pt
@@ -188,7 +189,7 @@
 2403:3a00:201:1c:49:212:198:71          # timedns.net
 2403:3a00:201:1c:49:212:198:89          # dns.aaytorr.com, dns.comeonjames.club, dns.zfsystem.tech, doh.thio.me, yuvelirtut.website
 2403:cfc0:1004::1924:b4ef               # tpe01.dnscry.pt
-2404:2280:1ba:0:3::6f                   # dns.ikataruto.com
+2404:2280:1ba:0:3::49                   # dns.ikataruto.com
 2404:9400:1:0:216:3eff:fef6:7194        # bne01.dnscry.pt
 2404:9400:214e:ea00::1                  # syd.adfilter.net
 2404:9400:41a9:4800::1                  # per.adfilter.net
@@ -263,14 +264,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:21d4:2800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:4200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:5800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:b000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:1400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:1800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:3c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:9200:f:5c7a:55c0:93a1    # eth.link
 2600:9000:21d4:c000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:d800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:e00:f:5c7a:55c0:93a1     # eth.link
 2600:9000:21d4:e400:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:f600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:f800:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -341,7 +342,7 @@
 2606:2040:1800:bb::2                    # ada.openbld.net
 2606:4700:10::6814:1f1b                 # arashi.eu.org, ns.net.kg
 2606:4700:10::ac42:acae                 # arashi.eu.org, ns.net.kg
-2606:4700:130:436c:6f75:6466:6c61:7265  # dns.unerror.network, pm1239-bd.xyz
+2606:4700:130:436c:6f75:6466:6c61:7265  # adguard.kasbot.net
 2606:4700:20::681a:1f1                  # v.recipes
 2606:4700:20::681a:289                  # blitz-setup.ahadns.com
 2606:4700:20::681a:389                  # blitz-setup.ahadns.com
@@ -357,6 +358,7 @@
 2606:4700:3030::6815:2767               # adguard-kartoffel.zernico.de
 2606:4700:3030::6815:2a7e               # dns.dgea.fr
 2606:4700:3030::6815:2bbc               # dns.kosan.moe
+2606:4700:3030::6815:2c68               # dns.unerror.network
 2606:4700:3030::6815:2e24               # adg.khon.dev
 2606:4700:3030::6815:41d8               # adguard.dekonix.ru
 2606:4700:3030::6815:532e               # ivnkn.xyz
@@ -389,6 +391,7 @@
 2606:4700:3031::6815:ebe                # dns.7sec.com.br
 2606:4700:3031::6815:fa9                # dns.240527.xyz
 2606:4700:3031::ac43:8582               # o1.lt
+2606:4700:3031::ac43:8939               # pm1239-bd.xyz
 2606:4700:3031::ac43:9d36               # dns.paulo.nom.za, paulo.nom.za
 2606:4700:3031::ac43:cf99               # bazooki-infra.dev
 2606:4700:3031::ac43:d938               # dns.bmwhocking.com
@@ -441,6 +444,7 @@
 2606:4700:3033::ac43:bdc7               # home-server.store
 2606:4700:3033::ac43:c2d8               # dnsguard.pub
 2606:4700:3033::ac43:c65c               # dns.xuming.studio
+2606:4700:3033::ac43:c6b9               # dns.unerror.network
 2606:4700:3033::ac43:cb9c               # dns.jstockley.com
 2606:4700:3033::ac43:d6d2               # kaiwu.xyz
 2606:4700:3033::ac43:df15               # 003153.xyz
@@ -469,6 +473,7 @@
 2606:4700:3035::6815:54fb               # imperio.top
 2606:4700:3035::6815:5734               # virga.pp.ua
 2606:4700:3035::6815:5ddd               # adguard.twotigers.xyz
+2606:4700:3035::6815:5e95               # pm1239-bd.xyz
 2606:4700:3035::6815:5fbc               # dns.nako.kr
 2606:4700:3035::ac43:8c5e               # crypto.sx, doh-ipv6.crypto.sx, doh.crypto.sx, odoh.crypto.sx
 2606:4700:3035::ac43:8d26               # doh.runsel.id
@@ -492,7 +497,6 @@
 2606:4700:3036::ac43:999e               # chuncheon.dnsovertor.cc, japan.dnsovertor.cc, seoul.dnsovertor.cc
 2606:4700:3036::ac43:ac0c               # regiopolis.cloud
 2606:4700:3036::ac43:bc3e               # ahadns.net
-2606:4700:3037::6815:1568               # adguard.kasbot.net
 2606:4700:3037::6815:2023               # dns.paesa.es
 2606:4700:3037::6815:30e2               # ahadns.net
 2606:4700:3037::6815:3191               # darya.persiannit.net
@@ -512,7 +516,6 @@
 2606:4700:3037::ac43:9b84               # dns.furrydns.de
 2606:4700:3037::ac43:b5a8               # dns.dotnet.win
 2606:4700:3037::ac43:b84c               # dns.kosan.moe
-2606:4700:3037::ac43:c5f2               # adguard.kasbot.net
 2606:4700:3037::ac43:c880               # sundalandia.pp.ua
 2606:4700:3037::ac43:d50d               # dns.iki.my.id
 2606:4700:3037::ac43:d956               # dns.xiumu.org
