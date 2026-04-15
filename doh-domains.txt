@@ -472,7 +472,6 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
-dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -793,7 +792,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1315,7 +1313,6 @@ takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
 testaghome.meshkov.info
-testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
