@@ -97,6 +97,7 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
+ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -133,6 +134,7 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
+axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -602,6 +604,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -707,6 +710,7 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns8.org
 dns9.quad9.net
+dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
@@ -869,7 +873,6 @@ dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
-draco.plan9-ns2.com
 droyd.top
 drs.rustsword.com
 dtw01.dnscry.pt
@@ -976,6 +979,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hydra.plan9-ns1.com
 i.233py.com
 iana.tenta.io
 ibksturm.synology.me
