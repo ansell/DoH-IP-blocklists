@@ -156,6 +156,7 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.mo0on15.com
@@ -313,7 +314,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -424,6 +424,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
