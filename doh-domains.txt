@@ -39,6 +39,7 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -96,7 +97,6 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
-ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -133,7 +133,6 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -409,7 +408,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -709,7 +707,6 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns8.org
 dns9.quad9.net
-dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
@@ -979,7 +976,6 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
-hydra.plan9-ns1.com
 i.233py.com
 iana.tenta.io
 ibksturm.synology.me
