@@ -96,7 +96,7 @@
 2001:8b0::2023                          # dns.aa.net.uk
 2001:910:800::12                        # ns0.fdn.fr
 2001:910:800::40                        # ns1.fdn.fr
-2001:9e8:4003:fb74:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:116b:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:9e8:4039:7761:21a:8cff:fe43:9654   # adguard.bitteeinbyte.de
 2001:a18:1::29                          # dnspub.restena.lu
 2001:a60::53:1                          # dns.mnet-online.de
@@ -121,8 +121,8 @@
 2001:df7:5300:18::64f                   # puredns.org
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:499a::10                  # dns.surobe.com
-2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:1000:0:4:0:53                # dns.telekom.de
+2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:133:1500::4                      # doh.kekew.info
@@ -182,7 +182,7 @@
 2403:3a00:201:1c:49:212:198:71          # timedns.net
 2403:3a00:201:1c:49:212:198:89          # dns.aaytorr.com, dns.comeonjames.club, dns.zfsystem.tech, doh.thio.me, yuvelirtut.website
 2403:cfc0:1004::1924:b4ef               # tpe01.dnscry.pt
-2404:2280:1b5:0:3::1a                   # dns.ikataruto.com
+2404:2280:1b5:0:3::1d                   # dns.ikataruto.com
 2404:9400:1:0:216:3eff:fef6:7194        # bne01.dnscry.pt
 2404:9400:214e:ea00::1                  # syd.adfilter.net
 2404:9400:41a9:4800::1                  # per.adfilter.net
@@ -193,7 +193,7 @@
 2406:da14:16ca:be00:596f:3a82:90e5:3d2e # dns.nodoa.me
 2406:da1a:1b5:d610:c66d:4ace:e191:b3b1  # pihole.aws.ketan.dev
 2406:ef80:2:4b11::1                     # dns.syaifullah.com
-2407:0:3006:3ba3:fa5e:3cff:fe46:e018    # gustamadh.dynv6.net
+2407:0:3006:35b4:fa5e:3cff:fe46:e018    # gustamadh.dynv6.net
 2407:24c0:2::154:3                      # dns.gi.co.id
 2407:3640:2205:1668::1                  # dot-sg.blahdns.com
 2407:3640:2238:5447::1                  # asia.tri-dns.net
@@ -237,8 +237,8 @@
 2600:1f28:60:801:d67:d5d9:5d13:a497     # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:e8:1afb:8ae0:32d5      # dns.api.test.globuscs.info
 2600:1f28:60:801:f4d8:6571:94d2:4bf0    # dns.api.preview.globus.org
-2600:1f28:60:802:393f:aff9:cfca:1545    # dns.api.sandbox.globuscs.info
-2600:1f28:60:802:7618:f54:72b0:c336     # dns.api.test.globuscs.info
+2600:1f28:60:802:15ec:33f2:826e:6f0e    # dns.api.sandbox.globuscs.info
+2600:1f28:60:802:2491:8075:3b08:ab3a    # dns.api.test.globuscs.info
 2600:1f28:60:802:89c2:c8d7:38ec:1f9d    # dns.api.preview.globus.org
 2600:1f28:60:802:a65c:507d:601a:9040    # dns.api.staging.globuscs.info
 2600:1f28:60:802:e4c3:fe08:21a9:9fa9    # dns.api.integration.globuscs.info
@@ -259,14 +259,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:2064:2600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:2800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:3600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:4800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:5e00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:6000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:a200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:c600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:2000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:2400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:2c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:5400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:8a00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:9c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:be00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:ca00:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -1004,6 +1004,7 @@
 2a01:4f8:c010:af93::1                   # dns.kapite.in
 2a01:4f8:c012:6d76::1                   # dns.alvosec.com
 2a01:4f8:c012:6d9c::1                   # dns.alvosec.com
+2a01:4f8:c012:71b7::1                   # dns.scarx.net
 2a01:4f8:c012:ed89::208                 # clean.dnsforge.de
 2a01:4f8:c013:29d::122                  # dnsforge.de
 2a01:4f8:c013:5ec0::154                 # hard.dnsforge.de
