@@ -39,7 +39,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
-adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -134,7 +133,6 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -209,7 +207,6 @@ darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
 de-dus.doh.sb
-de-f1.foxyfy.net
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
@@ -604,7 +601,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1001,7 +997,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 japan.dnsovertor.cc
-jcdns.fun
 jhb01.dnscry.pt
 jit.ddns.net
 jkdns.me
@@ -1157,7 +1152,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
@@ -1384,7 +1378,6 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
-vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
