@@ -177,7 +177,6 @@ chromium.dns.nextdns.io
 chuncheon.dnsovertor.cc
 clean.dnsforge.de
 cleanbrowsing.org
-clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
@@ -214,6 +213,7 @@ de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
+de.teradns.org
 de01.dns4me.net
 deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
@@ -602,6 +602,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -970,6 +971,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1151,7 +1153,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
