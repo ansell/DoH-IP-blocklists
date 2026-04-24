@@ -106,7 +106,6 @@ agh.fltn.us
 agh.gloom.nexus
 agh.kyusang.win
 agh.printk.info
-agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
 ahoj.email
@@ -213,7 +212,6 @@ de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
-de.teradns.org
 de01.dns4me.net
 deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
@@ -548,7 +546,6 @@ dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ourvau.lt
-dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
@@ -977,6 +974,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hydra.plan9-ns1.com
 i.233py.com
 iana.tenta.io
 ibksturm.synology.me
@@ -1127,7 +1125,6 @@ nsec.arnor.org
 ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
-ny.teradns.org
 nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
@@ -1153,7 +1150,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
@@ -1337,13 +1333,11 @@ tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
-tx.teradns.org
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
-uk.teradns.org
 uk01.dns4me.net
 uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
