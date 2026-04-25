@@ -346,7 +346,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -428,7 +427,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-punono.duckdns.org
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -453,6 +451,7 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tuandns.duckdns.org
 tundranet.hec.to
+tungdnsne.duckdns.org
 tw2.ooroot.com
 uf-dns.lista.my.id
 uk.adhole.org
