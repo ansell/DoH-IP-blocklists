@@ -666,6 +666,7 @@ dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
+dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -764,7 +765,6 @@ doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
-doh.datahata.by
 doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
@@ -1152,6 +1152,7 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
+paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr

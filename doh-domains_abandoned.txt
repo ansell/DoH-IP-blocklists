@@ -209,7 +209,6 @@ dns.warma.me
 dns.wevpn.com
 dns.wugui.zone
 dns.xusqui.com
-dns.xwdmw.xyz
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
@@ -252,6 +251,7 @@ doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
 doh.datacore.ch
+doh.datahata.by
 doh.dns-ga.de
 doh.dns1.lonet.org
 doh.doh.my.id
@@ -416,7 +416,6 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
