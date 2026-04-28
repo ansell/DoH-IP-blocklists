@@ -97,7 +97,6 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.azsopro.net
-dns.baishiyuan.cn
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -131,7 +130,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -243,7 +241,6 @@ doh-jp.blahdns.com
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
-doh.armadillodns.net
 doh.au.ahadns.net
 doh.battle.christmas
 doh.boje8.me
