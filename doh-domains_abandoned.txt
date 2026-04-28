@@ -209,6 +209,7 @@ dns.warma.me
 dns.wevpn.com
 dns.wugui.zone
 dns.xusqui.com
+dns.xwdmw.xyz
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
@@ -228,7 +229,6 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns3.dns-ga.de
 dns4.imkvq.com
-dnsblock.grisumedia.de
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
@@ -244,6 +244,7 @@ doh-jp.blahdns.com
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
+doh.armadillodns.net
 doh.au.ahadns.net
 doh.battle.christmas
 doh.boje8.me
@@ -415,6 +416,7 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
