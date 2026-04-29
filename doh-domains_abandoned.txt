@@ -27,7 +27,6 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -76,6 +75,7 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-east.tylerwahl.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -427,8 +427,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-pro.shecan.ir
-punono.duckdns.org
+quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -437,6 +436,7 @@ sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc
+securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
@@ -452,7 +452,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 uf-dns.lista.my.id
 uk.adhole.org
