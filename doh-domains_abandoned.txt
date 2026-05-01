@@ -190,7 +190,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.shecan.ir
 dns.shimul.me
 dns.siry.de
 dns.stvsk.ml
@@ -332,6 +331,7 @@ fr-gra-w-f-1.nashkan.net
 groupy.ga
 ha.o51r15.com
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -383,6 +383,7 @@ miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
+moamao.shop
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
@@ -428,6 +429,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+punono.duckdns.org
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -452,7 +454,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 uf-dns.lista.my.id
 uk.adhole.org
