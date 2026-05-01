@@ -55,7 +55,7 @@
 8.8.8.8             # 8888.google, dns.google, dns.google.com, google-public-dns-a.google.com
 8.20.247.20         # ns2.recursive.dnsbycomodo.com
 8.26.56.26          # ns1.recursive.dnsbycomodo.com
-8.48.85.216         # dns.ikataruto.com
+8.48.85.227         # dns.ikataruto.com
 8.209.231.130       # d.niaox.com
 9.9.9.9             # dns.quad9.net, dns9.quad9.net
 9.9.9.10            # dns-nosec.quad9.net, dns10.quad9.net
@@ -559,7 +559,7 @@
 45.79.248.146       # dns.13evl.com
 45.80.189.105       # ns1.sc-lezhi.com
 45.82.120.61        # fra01.dnscry.pt
-45.86.125.58        # dns.dnshome.de
+45.86.125.59        # dns.dnshome.de
 45.86.162.110       # ams02.dnscry.pt
 45.88.105.188       # rockwell.website
 45.90.28.0          # anycast.dns.nextdns.io, dns.nextdns.io
@@ -641,6 +641,7 @@
 51.178.136.114      # dns.hellozhao.com
 51.222.16.174       # shield1.eranext.net
 52.0.78.75          # dns.api.test.globuscs.info
+52.7.18.203         # httpdns-push.heytapmobile.com
 52.21.13.223        # dns.watch
 52.22.64.5          # dns.watch
 52.29.2.17          # de01.dns4me.net
@@ -667,7 +668,6 @@
 54.223.159.81       # doh-pure.onedns.net
 54.224.16.96        # dns.pumpkinvrar.com
 54.225.109.86       # httpdns-push.heytapmobile.com
-54.234.163.253      # httpdns-push.heytapmobile.com
 54.243.117.197      # dns.flightspace.net, dns.scapetical.com
 58.87.96.15         # dns.beardic.cn
 59.127.0.184        # dns.chunghwamc.com
@@ -690,7 +690,6 @@
 64.227.132.183      # squidmall.vip
 65.21.253.73        # fi-hel-w-f-2.nashkan.net
 65.108.54.17        # dns.anon.no
-66.33.60.129        # arashi.net.eu.org
 66.55.159.186       # dnswebvsn.com
 66.154.118.103      # renardbleu.dev
 66.175.223.143      # dns.stirringphoto.com
@@ -717,7 +716,8 @@
 75.119.137.239      # dns.christian.moe, dns.imchristian.de
 76.76.2.11          # family.freedns.controld.com, freedns.controld.com, p0.freedns.controld.com, p1.freedns.controld.com, p2.freedns.controld.com, p3.freedns.controld.com, uncensored.freedns.controld.com
 76.76.2.22          # dns.controld.com
-76.76.21.241        # arashi.net.eu.org
+76.76.21.22         # arashi.net.eu.org
+76.76.21.98         # arashi.net.eu.org
 76.223.54.146       # dns.edgy.network, dns.maolaohei.xyz, dns.pumplex.com, dns.vip-kingstore.xyz, ikarosalpha.xyz, mikezhang.xyz
 76.223.67.189       # mailkyb.co
 77.68.50.239        # dns.connect.fail
@@ -911,7 +911,7 @@
 96.9.215.92         # gb-cov-w-f-1.nashkan.net
 96.9.228.27         # hkg01.dnscry.pt
 96.44.178.68        # dns.foxyfy.net
-96.106.7.234        # doh.xfinity.com, doh2.gslb2.xfinity.com
+96.106.7.232        # doh.xfinity.com, doh2.gslb2.xfinity.com
 96.113.151.145      # dot.xfinity.com
 98.82.52.157        # httpdns-push.heytapmobile.com
 98.83.228.166       # dns.api.globus.org
@@ -1196,12 +1196,12 @@
 129.154.47.149      # dns.d365.in
 129.154.217.90      # kr1.ooroot.com
 129.159.249.152     # dns2.guidocioni.it
-129.213.4.166       # dns.us-ashburn-1.oraclecloud.com
+129.213.2.162       # dns.us-ashburn-1.oraclecloud.com
 129.213.138.95      # adguard.senthil.us
 130.59.31.80        # switch.ch
 130.59.31.248       # dns.switch.ch
 130.59.31.251       # dns.switch.ch
-130.61.2.165        # dns.eu-frankfurt-1.oraclecloud.com
+130.61.0.178        # dns.eu-frankfurt-1.oraclecloud.com
 130.61.24.160       # adguard.meddy94.de
 130.61.51.39        # ad.tzockt.beer
 130.61.121.181      # mainframe.dewed.de
@@ -1414,7 +1414,7 @@
 162.159.62.1        # odoh.cloudflare-dns.com
 162.159.62.2        # dooh.cloudflare-dns.com
 162.220.221.25      # dns.nextdns.io
-162.220.222.155     # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+162.220.222.155     # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 162.221.218.241     # dns.zemows.industries
 162.250.6.163       # dns.nextdns.io
 162.254.86.13       # vno01.dnscry.pt
@@ -1585,14 +1585,14 @@
 172.232.185.183     # dns.horcrux.vip
 172.233.59.98       # dns.pccoach.nl
 172.233.147.42      # adguard.hartley.cloud
-172.233.219.49      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
-172.233.219.78      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
-172.233.219.123     # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.233.219.49      # adguard.kantinyoyok.xyz, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.233.219.78      # adguard.kantinyoyok.xyz, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.233.219.123     # adguard.kantinyoyok.xyz, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
 172.233.221.243     # doh.archuser.org
 172.234.24.211      # de.teradns.org, dns.faze.dev, dns.ovpn.bond, ny.teradns.org, sg.teradns.org, tx.teradns.org, uk.teradns.org
-172.237.146.8       # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
-172.237.146.25      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
-172.237.146.38      # adguard.kantinyoyok.xyz, ads.hunga1k47.com, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.237.146.8       # adguard.kantinyoyok.xyz, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.237.146.25      # adguard.kantinyoyok.xyz, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
+172.237.146.38      # adguard.kantinyoyok.xyz, ag.brianlee.fun, dns.kugoapps.com, dns.mathewakhil.online, dns.wibenson.cloud, dns.xwdmw.xyz, draco.plan9-ns2.com, externalmobiel.lekdijk.online, sdns22.gkonuralp.com, vpn.technicule.info
 172.239.57.117      # de.teradns.org, dns.faze.dev, dns.ovpn.bond, ny.teradns.org, sg.teradns.org, tx.teradns.org, uk.teradns.org
 173.20.169.231      # dns.cahlen.com
 173.73.8.164        # dns.chilimac.net
@@ -1617,6 +1617,7 @@
 176.147.243.164     # blockerads.multimediaconcept.fr
 176.164.139.196     # dns.chadeyron.fr
 178.20.42.213       # vd.i81.ru
+178.22.122.100      # dns.shecan.ir
 178.22.122.101      # pro.shecan.ir
 178.33.118.153      # dns-1.wil.cloud, dns-2.wil.cloud
 178.85.215.91       # jurre-home.duckdns.org
@@ -1652,7 +1653,7 @@
 185.43.135.1        # odvr.nic.cz
 185.47.221.200      # dns.kukal.cz
 185.49.141.38       # getdnsapi.net
-185.51.200.2        # dns.shecan.ir, free.shecan.ir
+185.51.200.2        # free.shecan.ir
 185.64.79.5         # uk-lon.doh.sb
 185.69.161.122      # dns.fancyorg.at
 185.70.9.10         # dns.kuuhaku.moe
@@ -1735,7 +1736,7 @@
 192.121.170.151     # bru01.dnscry.pt
 192.145.47.80       # dns.bermeitinger.eu
 192.248.190.14      # adguard.ruby.ci
-193.7.200.123       # chromium.dns.nextdns.io, dns.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+193.7.200.123       # chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 193.17.47.1         # odvr.nic.cz
 193.17.92.42        # dns.iamninja.ru
 193.24.209.167      # dns.cloudfiction.eu
@@ -1848,7 +1849,7 @@
 212.18.3.5          # dns.mnet-online.de
 212.60.61.246       # doh.quickline.ch, dot.quickline.ch
 212.60.63.246       # doh.quickline.ch, dot.quickline.ch
-212.102.40.129      # secure.avastdns.com
+212.102.40.142      # secure.avastdns.com
 212.109.195.93      # dns.comss.one
 212.132.117.52      # dns.peb-schmidt.de
 212.185.200.25      # dns1.conne.net
@@ -1874,8 +1875,8 @@
 216.238.80.219      # helios.plan9-dns.com
 216.238.107.112     # br.servers.legat.ml
 216.245.140.20      # man01.dnscry.pt
-217.0.43.50         # dns.telekom.de
 217.0.43.146        # dns.telekom.de
+217.0.43.162        # dns.telekom.de
 217.69.4.29         # nsec.arnor.org
 217.70.184.38       # dns0.eu
 217.91.179.72       # doh.kekew.info
