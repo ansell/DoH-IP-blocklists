@@ -383,6 +383,7 @@ miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
+moamao.shop
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
@@ -415,7 +416,6 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -428,6 +428,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+pro.shecan.ir
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
