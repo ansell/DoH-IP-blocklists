@@ -949,7 +949,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1071,6 +1070,7 @@ mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
+moamao.shop
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -1185,6 +1185,7 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
+pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 protective.joindns4.eu
