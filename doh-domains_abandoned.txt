@@ -51,6 +51,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
+axaxa.fun
 b-ii.com
 bahopir188.dnshome.de
 bcandrade.ml
@@ -183,6 +184,7 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
+dns.propheci.xyz
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
@@ -330,13 +332,10 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
-himedns.com
 hk.rslvr.eu
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
-hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -346,7 +345,6 @@ india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
-jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
@@ -439,13 +437,13 @@ sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc
-securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
+solaxy.live
 sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw
@@ -472,7 +470,6 @@ v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
 vps.robotboard.de
-vtcuong.site
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org

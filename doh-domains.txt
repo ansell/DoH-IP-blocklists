@@ -132,7 +132,6 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -559,7 +558,6 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
-dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -948,6 +946,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -957,6 +956,7 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -973,6 +973,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hydra.plan9-ns1.com
 i.233py.com
 iana.tenta.io
 ibksturm.synology.me
@@ -994,6 +995,7 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 japan.dnsovertor.cc
+jcdns.fun
 jhb01.dnscry.pt
 jkdns.me
 jkt01.dnscry.pt
@@ -1263,6 +1265,7 @@ secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
 secure.hafnova.com
+securedns.vendorvista.xyz
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
@@ -1290,7 +1293,6 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
-solaxy.live
 spacedns.org
 squidmall.vip
 steering.nextdns.io
@@ -1377,6 +1379,7 @@ vno01.dnscry.pt
 vorlif.org
 vpn.technicule.info
 vpsus3.pzhg.me
+vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
