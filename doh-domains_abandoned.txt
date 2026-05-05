@@ -70,6 +70,7 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de-d2.foxyfy.net
 de.adhole.org
 dfw01.dnscry.pt
@@ -103,6 +104,7 @@ dns.azsopro.net
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
+dns.braene.com
 dns.bravoc.one
 dns.bw.i81.ru
 dns.cabbage.zone
@@ -330,7 +332,6 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
@@ -349,7 +350,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
