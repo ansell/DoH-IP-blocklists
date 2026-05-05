@@ -200,6 +200,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -290,6 +291,7 @@ dns.blokada.org
 dns.bmwhocking.com
 dns.bobstrecansky.com
 dns.bofh.in
+dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.brono.cloud
@@ -946,7 +948,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -956,7 +957,6 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
-himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -973,7 +973,6 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
-hydra.plan9-ns1.com
 i.233py.com
 iana.tenta.io
 ibksturm.synology.me
@@ -995,7 +994,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 japan.dnsovertor.cc
-jcdns.fun
 jhb01.dnscry.pt
 jkdns.me
 jkt01.dnscry.pt
@@ -1265,7 +1263,6 @@ secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
 secure.hafnova.com
-securedns.vendorvista.xyz
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
@@ -1380,7 +1377,6 @@ vno01.dnscry.pt
 vorlif.org
 vpn.technicule.info
 vpsus3.pzhg.me
-vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
