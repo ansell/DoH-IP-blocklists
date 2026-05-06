@@ -199,6 +199,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -966,6 +967,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
