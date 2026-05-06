@@ -192,8 +192,10 @@ dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.scapetical.com
 dns.seia.io
 dns.seiffert.me
+dns.shecan.ir
 dns.shimul.me
 dns.siry.de
 dns.stvsk.ml
@@ -359,6 +361,7 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
+lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg

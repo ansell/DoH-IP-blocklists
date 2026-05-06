@@ -583,7 +583,6 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
-dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -592,7 +591,6 @@ dns.sec511.com
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
@@ -1041,7 +1039,6 @@ lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
