@@ -59,7 +59,7 @@
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
 2001:550:2:6f::f3:2                     # doh1.b-cdn.net, doh2.b-cdn.net
 2001:550:5a00:5eb::db5:face             # rdu01.dnscry.pt
-2001:558:fd00:ca::5                     # doh.xfinity.com, doh2.gslb2.xfinity.com
+2001:558:fd00:ca::a                     # doh.xfinity.com, doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145         # dot.xfinity.com
 2001:578:3f::30                         # doh.cox.net, dot.cox.net
 2001:620:0:ff::2                        # dns.switch.ch
@@ -194,6 +194,7 @@
 2406:da14:16ca:be00:596f:3a82:90e5:3d2e # dns.nodoa.me
 2406:da1a:1b5:d610:c66d:4ace:e191:b3b1  # pihole.aws.ketan.dev
 2406:ef80:2:4b11::1                     # dns.syaifullah.com
+2407:0:3006:3ba3:fa5e:3cff:fe46:e018    # gustamadh.dynv6.net
 2407:24c0:2::154:3                      # dns.gi.co.id
 2407:3640:2205:1668::1                  # dot-sg.blahdns.com
 2407:3640:2238:5447::1                  # asia.tri-dns.net
@@ -260,14 +261,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:28a3:1a00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:1c00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:2e00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:8a00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:9c00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:b000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:b600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:be00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:200:f:5c7a:55c0:93a1     # eth.link
+2600:9000:28a3:2800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:5a00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:6000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:600:f:5c7a:55c0:93a1     # eth.link
+2600:9000:28a3:c200:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:e200:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:fc00:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -543,9 +544,9 @@
 2606:4700:80:0:e544:736e:8939:512c      # family.mydns.network
 2606:4700::6810:f8f9                    # cloudflare-dns.com
 2606:4700::6810:f9f9                    # cloudflare-dns.com
-2606:4700::6812:103                     # tor.cloudflare-dns.com
 2606:4700::6812:130                     # basic.rethinkdns.com, rethinkdns.com, sky.rethinkdns.com
-2606:4700::6812:3                       # tor.cloudflare-dns.com
+2606:4700::6812:1cbe                    # tor.cloudflare-dns.com
+2606:4700::6812:1dbe                    # tor.cloudflare-dns.com
 2606:4700::6812:30                      # basic.rethinkdns.com, rethinkdns.com, sky.rethinkdns.com
 2606:4700::6812:7822                    # dns.surfshark.com
 2606:4700::6812:7922                    # dns.surfshark.com
@@ -1177,12 +1178,6 @@
 2a07:d884:100::344                      # fra02.dnscry.pt
 2a07:e03::333                           # nl.dns.privex.io
 2a07:e043:1:5d::1                       # sto01.dnscry.pt
-2a07:e340::2                            # dns.mullvad.net, doh.mullvad.net
-2a07:e340::3                            # adblock.dns.mullvad.net, adblock.doh.mullvad.net
-2a07:e340::4                            # base.dns.mullvad.net
-2a07:e340::5                            # extended.dns.mullvad.net
-2a07:e340::6                            # family.dns.mullvad.net
-2a07:e340::9                            # all.dns.mullvad.net
 2a07:efc0:1001:a5ce::b4b4               # ams02.dnscry.pt
 2a09:0:11::5                            # uk-lon.doh.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
