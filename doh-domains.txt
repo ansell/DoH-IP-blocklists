@@ -199,7 +199,6 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -946,6 +945,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -966,7 +966,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1097,7 +1096,6 @@ noads.joindns4.eu
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
-ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
