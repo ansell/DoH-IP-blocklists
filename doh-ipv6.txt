@@ -122,7 +122,7 @@
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:1729::10                  # dns.surobe.com
 2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:133:1500::4                      # doh.kekew.info
@@ -195,7 +195,6 @@
 2406:da14:16ca:be00:596f:3a82:90e5:3d2e # dns.nodoa.me
 2406:da1a:1b5:d610:c66d:4ace:e191:b3b1  # pihole.aws.ketan.dev
 2406:ef80:2:4b11::1                     # dns.syaifullah.com
-2407:0:3006:3ba3:fa5e:3cff:fe46:e018    # gustamadh.dynv6.net
 2407:24c0:2::154:3                      # dns.gi.co.id
 2407:3640:2205:1668::1                  # dot-sg.blahdns.com
 2407:3640:2238:5447::1                  # asia.tri-dns.net
@@ -243,8 +242,8 @@
 2600:1f28:60:802:4b71:38d4:5d75:6536    # dns.api.preview.globus.org
 2600:1f28:60:802:68d7:2c58:5cb1:7d96    # dns.api.staging.globuscs.info
 2600:1f28:60:802:86fc:4f21:2348:3f9c    # dns.api.sandbox.globuscs.info
-2600:1f28:60:802:a5d3:1217:99fb:cd3b    # dns.api.test.globuscs.info
 2600:1f28:60:802:b07d:c5c7:4f49:794f    # dns.api.integration.globuscs.info
+2600:1f28:60:802:fa9d:b8e:90cf:7e25     # dns.api.test.globuscs.info
 2600:3c00::f03c:93ff:feca:d2be          # us1.blissdns.net
 2600:3c00:e000:37a::8:0                 # dns.mzjtechnology.com
 2600:3c01:e000:130::8:0                 # dns.elemental.software
@@ -262,14 +261,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:28a3:2e00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:4000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:5200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:5a00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:6200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:a000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:a600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:fe00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:1400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:3a00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:7c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:9a00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:c000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:de00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:f600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:fa00:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -309,7 +308,6 @@
 2603:c023:1:8763:80d6:891:ed34:7b18     # dns.chromeina.top
 2603:c023:7:8700::8888                  # oraclejp2.chungyu.com
 2603:c023:c003:3d4c:0:3106:acb8:2787    # dns.meeo.win
-2603:c024:4507:6821:456c:317b:2f25:11bc # tuandns.duckdns.org
 2603:c024:4509:b8aa:420a:4988:30a:5acd  # dns.0ooo.icu
 2603:c024:8005:35ad:1440:2400:1430:1440 # dns.d94.xyz
 2603:c024:9:35af:19c7:3532:ac18:f4b9    # dns.moonssif.com
@@ -1059,8 +1057,6 @@
 2a01:e0a:bc2:47c0:215:5dff:fe01:8705    # dns.freopc.fr
 2a01:e0a:bf3:a440::ba89:636             # dns.maitrekuc.fr
 2a01:e0a:f30:9100:6e2b:59ff:fee8:7a13   # dns.kebree.fr
-2a02:168:a002:0:216:3eff:fed4:dc1a      # dns.momou.ch
-2a02:168:a003:0:216:3eff:fe63:c975      # dns.momou.ch
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
 2a02:1b8:10:234::2                      # doh.applied-privacy.net, doh.appliedprivacy.net, dot1.applied-privacy.net, dot1.appliedprivacy.net
@@ -1212,7 +1208,7 @@
 2a0c:5700:3133:650:ba68:95ff:fe53:3d16  # dns.anon.no
 2a0c:59c0:19::3                         # nl-ams.doh.sb
 2a0c:82c0::1                            # doh.suche.org
-2a0c:8901::53                           # dns.dnshome.de
+2a0c:8902::53                           # dns.dnshome.de
 2a0c:8fc0:1749:66:18::16                # muc01.dnscry.pt
 2a0c:8fc1:6441::412:ab34                # tyo01.dnscry.pt
 2a0c:e300::1337                         # dns.aquilenet.fr
