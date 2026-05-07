@@ -386,7 +386,6 @@ dns.ffnw.de
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
-dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -404,6 +403,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -582,7 +582,6 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
-dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
