@@ -186,7 +186,6 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
-dns.propheci.xyz
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
@@ -336,7 +335,6 @@ fr-gra-w-f-1.nashkan.net
 groupy.ga
 ha.o51r15.com
 hk.rslvr.eu
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -353,14 +351,12 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -448,11 +444,9 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.teradns.org
-sg.yepdns.com
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
-solaxy.live
 sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw

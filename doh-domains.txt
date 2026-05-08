@@ -556,6 +556,7 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
+dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -965,6 +966,7 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1008,6 +1010,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 juuri.hagezi.org
 kaiwu.xyz
@@ -1022,6 +1025,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
@@ -1268,6 +1272,7 @@ sg-dns1.bancuh.com
 sg-sin.doh.sb
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
+sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com
@@ -1284,6 +1289,7 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
+solaxy.live
 spacedns.org
 squidmall.vip
 steering.nextdns.io
