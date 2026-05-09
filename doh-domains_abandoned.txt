@@ -198,7 +198,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -208,6 +207,7 @@ dns.thiz.top
 dns.tierradeayala.com
 dns.truong.fi
 dns.trust404.win
+dns.tuna.tsinghua.edu.cn
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
