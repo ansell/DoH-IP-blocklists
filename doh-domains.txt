@@ -593,7 +593,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -609,7 +608,6 @@ dns.stevenz.net
 dns.stirringphoto.com
 dns.stormycloud.org
 dns.strassmair.org
-dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
 dns.surfsharkdns.com
