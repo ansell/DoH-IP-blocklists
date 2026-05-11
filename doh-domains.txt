@@ -53,6 +53,7 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -195,6 +196,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -591,6 +593,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1183,6 +1186,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
+punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
@@ -1320,6 +1324,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
