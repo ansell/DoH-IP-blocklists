@@ -111,6 +111,7 @@ dns.bravoc.one
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
+dns.ceai.com.tw
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
@@ -138,6 +139,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -342,6 +344,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
