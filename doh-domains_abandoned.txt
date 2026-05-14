@@ -14,7 +14,6 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
-addns1.m-it.ro
 adg.rokh.biz
 adg.yybyy.wiki
 adguard-dns.rouga.ch
@@ -205,7 +204,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.suhaila.dev
