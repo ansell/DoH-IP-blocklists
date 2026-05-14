@@ -30,7 +30,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.konikoni428.com
@@ -43,6 +42,7 @@ adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
 adguard.quydang.name.vn
 adguard.sparshbajaj.me
+adguard.sscw.win
 adguard.taxiora.tn
 adguardh.ga
 ads.hunga1k47.com
@@ -348,6 +348,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
@@ -417,12 +418,10 @@ ns.lov.host
 ns.nerdytechgeeks.co.za
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
-ns1.opennameserver.org
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
 ns3.link
-ns3.opennameserver.org
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
@@ -448,7 +447,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-punono.duckdns.org
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
