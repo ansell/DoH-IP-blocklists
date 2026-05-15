@@ -3,7 +3,10 @@
 351242444.xyz
 89433332.xyz
 a-bld.sys-adm.in
+a.family.ns.dnslify.com
+a.ns.dnslify.com
 a.passcloud.xyz
+a.safe.ns.dnslify.com
 a.zpn.me
 aattwwss.duckdns.org
 ad-dns.lista.my.id
@@ -57,6 +60,9 @@ asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
 b-ii.com
+b.family.ns.dnslify.com
+b.ns.dnslify.com
+b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
@@ -269,6 +275,7 @@ doh.cippapp.com
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
+doh.dnslify.com
 doh.doh.my.id
 doh.dscloud.me
 doh.eastas.pi-dns.com
