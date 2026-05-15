@@ -292,7 +292,6 @@ doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
-doh.max.net.id
 doh.micronets.in
 doh.morizt.id
 doh.nala.ru
