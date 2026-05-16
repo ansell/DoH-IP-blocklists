@@ -69,7 +69,6 @@ berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
 blitz.ahadns.com
-blocker.thethorsens.org
 br.servers.legat.ml
 buc-m2.illmods.com
 canadianshield.cira.ca
@@ -353,6 +352,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
