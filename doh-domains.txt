@@ -351,7 +351,6 @@ dns.dnssilo.top
 dns.dnswarden.com
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -528,6 +527,7 @@ dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
+dns.oszx.co
 dns.ourvau.lt
 dns.paesa.es
 dns.panszelescik.pl
@@ -582,7 +582,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
