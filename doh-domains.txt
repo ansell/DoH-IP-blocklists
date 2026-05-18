@@ -581,6 +581,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -863,6 +864,7 @@ emby.rasp.tv
 es-ma.foxyfy.net
 esel.stusta.mhn.de
 eth.link
+eu.tri-dns.net
 eu1.dns.lavate.ch
 evn01.dnscry.pt
 extended.dns.mullvad.net
