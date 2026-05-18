@@ -132,6 +132,7 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
+blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -188,6 +189,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -349,6 +351,7 @@ dns.dnssilo.top
 dns.dnswarden.com
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
