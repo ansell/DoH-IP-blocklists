@@ -124,7 +124,6 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-axaxa.fun
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -1242,7 +1241,6 @@ secondary.safe.dns.yandex.ru
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.hafnova.com
-securedns.vendorvista.xyz
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
@@ -1307,7 +1305,6 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
