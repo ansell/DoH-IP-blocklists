@@ -32,7 +32,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.konikoni428.com
@@ -69,7 +68,6 @@ bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
 bigora2.vuhai.de
-blackhole.myon.lu
 bld.sys-adm.in
 blitz.ahadns.com
 br.servers.legat.ml
@@ -353,7 +351,6 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
@@ -479,7 +476,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
