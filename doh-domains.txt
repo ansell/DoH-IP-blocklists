@@ -976,7 +976,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 japan.dnsovertor.cc
-jcdns.fun
 jhb01.dnscry.pt
 jkdns.me
 jkt01.dnscry.pt
@@ -1022,7 +1021,6 @@ lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
@@ -1309,7 +1307,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
@@ -1353,7 +1350,6 @@ virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
 vpsus3.pzhg.me
-vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt

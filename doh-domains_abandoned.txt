@@ -364,6 +364,7 @@ india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
+jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
@@ -378,6 +379,7 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
+lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
@@ -476,6 +478,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
@@ -496,6 +499,7 @@ vanced.sytes.net
 vm.mytm.cc
 vpn.technicule.info
 vps.robotboard.de
+vtcuong.site
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
