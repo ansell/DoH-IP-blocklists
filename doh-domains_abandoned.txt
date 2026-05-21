@@ -198,6 +198,7 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
+dns.propheci.xyz
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
@@ -371,7 +372,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -453,7 +453,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-pro.shecan.ir
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -472,6 +471,7 @@ sg.teradns.org
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
+solaxy.live
 sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw
