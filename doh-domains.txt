@@ -50,6 +50,7 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -187,6 +188,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -526,7 +528,6 @@ dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
-dns.oszx.co
 dns.ourvau.lt
 dns.paesa.es
 dns.panszelescik.pl
@@ -820,6 +821,7 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
+doh.zephyrus.id
 doh.zknt.org
 doh003.280blocker.net
 doh1.b-cdn.net
@@ -1303,6 +1305,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
