@@ -208,6 +208,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.suhaila.dev
@@ -262,6 +263,7 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
 doh.774445.xyz
 doh.978159.xyz
@@ -454,7 +456,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-punono.duckdns.org
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
