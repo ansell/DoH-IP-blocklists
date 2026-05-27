@@ -50,7 +50,6 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -374,6 +373,7 @@ dns.ffnw.de
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
+dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -568,6 +568,7 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
+dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -580,7 +581,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -796,6 +796,7 @@ doh.safesurfer.io
 doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
+doh.serverhost.no
 doh.sidnlabs.nl
 doh.sublime9.xyz
 doh.suche.org
