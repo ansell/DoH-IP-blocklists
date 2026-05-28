@@ -45,7 +45,6 @@
 2001:470:28:aa2:1::                     # ns.trcnet.fi
 2001:470:36:3fc:0:feed:dad:b055         # dns.repinger.com
 2001:470:71:6dc::53                     # opennic2.i2pd.xyz
-2001:470:f829:8593:3::7                 # doh.max.net.id
 2001:4860:4860::64                      # dns64.dns.google
 2001:4860:4860::6464                    # dns64.dns.google
 2001:4860:4860::8844                    # 8888.google, dns.google, dns.google.com, google-public-dns-b.google.com
@@ -120,8 +119,8 @@
 2001:df7:5300:18::64f                   # puredns.org
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:2110::10                  # dns.surobe.com
-2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:b000:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
+2003:180:2:7000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:133:1500::4                      # doh.kekew.info
@@ -183,7 +182,7 @@
 2403:3a00:201:1c:49:212:198:71          # timedns.net
 2403:3a00:201:1c:49:212:198:89          # dns.aaytorr.com, dns.comeonjames.club, dns.zfsystem.tech, doh.thio.me, yuvelirtut.website
 2403:cfc0:1004::b5b:47ff                # tpe01.dnscry.pt
-2404:2280:1b5:0:3::14                   # dns.ikataruto.com
+2404:2280:187:0:3::445                  # dns.ikataruto.com
 2404:9400:1:0:216:3eff:fef6:7194        # bne01.dnscry.pt
 2404:9400:214e:ea00::1                  # syd.adfilter.net
 2404:9400:41a9:4800::1                  # per.adfilter.net
@@ -201,20 +200,16 @@
 2407:3640:2317:1657::1                  # kilabit.info
 2407:6ac0:3:5:1234:4321:89:1            # jkt01.dnscry.pt
 2408:400a:779:a00::aaaa                 # dns.imaicool.com
+240d:c000:2010:1e00:6:52dc:f6a:9874     # dns.weixin.qq.com.cn
+240d:c000:2010:1e00:6:52dc:fa7:17a4     # dns.weixin.qq.com.cn
 240d:c000:f000:9300:ad0:a594:4272:0     # cloud.198.games
 240d:c000:f000:9500:8234:d91e:8082:0    # blog.kimiblock.top
 240d:c000:f000:9500:8234:d91e:8082:1    # blog.kimiblock.top
 240d:c000:f000:ea00:70d8:5996:f8e4:0    # dns.flymc.cc
 240d:c010:74:2::171                     # doh.totoro.pub
 240d:c010:75:1::119                     # dns.233py.com, doh.233py.com, edns.233py.com, i.233py.com, ndns.233py.com, sdns.233py.com, wdns.233py.com
-240e:904:3401:1001::e                   # dns.weixin.qq.com.cn
-240e:904:3401:1003::32                  # dns.weixin.qq.com.cn
-240e:928:1400:1000::3                   # dns.weixin.qq.com.cn
-240e:928:1400:1003::23                  # dns.weixin.qq.com.cn
-240e:97c:2f:200f::f6                    # dns.weixin.qq.com.cn
-240e:97c:2f:3053::4f                    # dns.weixin.qq.com.cn
-240e:e1:a800:125::1e                    # dns.weixin.qq.com.cn
-240e:e1:aa00:4003::31                   # dns.weixin.qq.com.cn
+240d:c010:75:1::19a                     # doh.totoro.pub
+240d:c010:c8:3::27d                     # doh.totoro.pub
 2600:1700:ccd:4030:6f4:1cff:fe29:b8bf   # doh.aaaab3n.moe
 2600:1702:74fc:809f::157                # dns.sarak.as, dns.sarakas.net
 2600:1702:74fc:809f::158                # dns.sarak.as, dns.sarakas.net
@@ -237,10 +232,10 @@
 2600:1f28:60:801:6489:fbad:7df1:6f55    # dns.api.integration.globuscs.info
 2600:1f28:60:801:7395:85f8:793e:4fcd    # dns.api.staging.globuscs.info
 2600:1f28:60:801:c855:694f:de38:b5f5    # dns.api.preview.globus.org
-2600:1f28:60:802:6a5e:a450:b76a:a758    # dns.api.test.globuscs.info
 2600:1f28:60:802:9e98:6c0a:251:3915     # dns.api.integration.globuscs.info
 2600:1f28:60:802:d668:ae0d:82a2:2712    # dns.api.staging.globuscs.info
 2600:1f28:60:802:dac2:742:7e5e:33c5     # dns.api.preview.globus.org
+2600:1f28:60:802:ec0e:2dab:1e3d:ffd9    # dns.api.test.globuscs.info
 2600:1f28:60:802:fc80:800c:c523:80d5    # dns.api.sandbox.globuscs.info
 2600:3c00::f03c:93ff:feca:d2be          # us1.blissdns.net
 2600:3c00:e000:37a::8:0                 # dns.mzjtechnology.com
@@ -259,14 +254,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:2064:2600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:4a00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:4c00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:b800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:d000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:d600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:d800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2064:e00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:2064:1a00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:7400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:7c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:ac00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:b400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:bc00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:ce00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2064:e000:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -1073,7 +1068,6 @@
 2a01:e0a:bf3:a440::ba89:636             # dns.maitrekuc.fr
 2a01:e0a:f30:9100:6e2b:59ff:fee8:7a13   # dns.kebree.fr
 2a02:168:a002:0:216:3eff:fed4:dc1a      # dns.momou.ch
-2a02:168:a003:0:216:3eff:fe63:c975      # dns.momou.ch
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
 2a02:1b8:10:234::2                      # doh.applied-privacy.net, doh.appliedprivacy.net, dot1.applied-privacy.net, dot1.appliedprivacy.net
@@ -1264,6 +1258,7 @@
 2a11:8080::53                           # sg-sin.doh.sb
 2a11::                                  # dns.sb, doh.sb, public-dns-b.dns.sb
 2a11:a380::195:38:160:7                 # dns.cctld.kg
+2a12:9080:1:5b::a                       # blackhole.myon.lu
 2a12:a306:200::3                        # jp-nrt.doh.sb
 2a12:a306:200::4                        # jp-nrt.doh.sb
 2a12:a306:200::5                        # jp-nrt.doh.sb
@@ -1274,10 +1269,12 @@
 2a13:1001::86:54:11:1                   # protective.joindns4.eu
 2a13:1001::86:54:11:100                 # unfiltered.joindns4.eu
 2a13:1001::86:54:11:11                  # child-noads.joindns4.eu
+2a13:1001::86:54:11:12                  # child.joindns4.eu
 2a13:1001::86:54:11:13                  # noads.joindns4.eu
 2a13:1001::86:54:11:200                 # unfiltered.joindns4.eu
 2a13:1001::86:54:11:201                 # protective.joindns4.eu
 2a13:1001::86:54:11:211                 # child-noads.joindns4.eu
+2a13:1001::86:54:11:212                 # child.joindns4.eu
 2a13:1001::86:54:11:213                 # noads.joindns4.eu
 2a13:4ac0:10:0:f816:3eff:fe13:765e      # rockwell.website
 2a13:9401:0:1::3d58:1                   # vno01.dnscry.pt
