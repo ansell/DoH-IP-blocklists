@@ -349,6 +349,7 @@ dns.dnshome.de
 dns.dnssilo.top
 dns.dnswarden.com
 dns.dotnet.win
+dns.dremaxx.de
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
@@ -923,7 +924,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
