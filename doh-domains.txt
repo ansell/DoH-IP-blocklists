@@ -1026,7 +1026,6 @@ luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
-mailkyb.co
 mainframe.dewed.de
 man01.dnscry.pt
 maqgie.xyz
