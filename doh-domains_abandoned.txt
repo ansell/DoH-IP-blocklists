@@ -174,6 +174,7 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
@@ -356,6 +357,7 @@ groupy.ga
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydra.plan9-ns1.com
@@ -456,6 +458,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+punono.duckdns.org
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -481,9 +484,9 @@ sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
-thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
