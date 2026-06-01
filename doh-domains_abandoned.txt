@@ -174,7 +174,6 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
@@ -413,7 +412,6 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 msr177.com
-multi.dns.marbledfennec.net
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
@@ -483,6 +481,7 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
+testguard.meexx.de
 tetty-is.so-gorgeo.us.kg
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
