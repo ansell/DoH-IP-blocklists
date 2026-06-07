@@ -290,7 +290,6 @@ dns.cahlen.com
 dns.caliph.dev
 dns.carson-family.com
 dns.caspervk.net
-dns.cctld.kg
 dns.cert.ee
 dns.chadeyron.fr
 dns.charraud.eu
@@ -479,9 +478,11 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
+dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.mbrjun.cn
@@ -582,7 +583,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1172,6 +1172,7 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
@@ -1281,6 +1282,7 @@ testguard.meexx.de
 thanos.pleumkungz.com
 tienpham.id.vn
 tiger.dns.qwer.pw
+timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
@@ -1295,6 +1297,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
