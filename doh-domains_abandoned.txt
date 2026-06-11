@@ -171,7 +171,6 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -181,6 +180,7 @@ dns.msxnet.ru
 dns.muxinghe.cn
 dns.ndo.dev
 dns.neowutran.ovh
+dns.netraptor.com.au
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -290,6 +290,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -373,7 +374,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -481,6 +481,7 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
+timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
