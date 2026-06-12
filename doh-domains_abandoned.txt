@@ -206,6 +206,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.suhaila.dev
@@ -350,7 +351,6 @@ farewellkou.click
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-free.shecan.ir
 groupy.ga
 guard.sntrk.ru
 ha.o51r15.com
@@ -461,6 +461,7 @@ resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
+sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.avastdns.com
