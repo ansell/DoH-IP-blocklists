@@ -1280,7 +1280,6 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
-timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
@@ -1352,7 +1351,6 @@ wikimedia-dns.org
 wurzn.hagezi.org
 www.c-dns.com
 www.chungocoai.name.vn
-www.dnsadguard.co.uk
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
