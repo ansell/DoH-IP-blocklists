@@ -173,6 +173,7 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -405,7 +406,6 @@ mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
 mailkyb.co
-masters-of-cloud.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
@@ -484,7 +484,9 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
+timedns.net
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org

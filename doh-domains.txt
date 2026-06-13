@@ -479,7 +479,6 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -1032,6 +1031,7 @@ maqgie.xyz
 mask-api.icloud.com
 mask-h2.icloud.com
 mask.icloud.com
+masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
@@ -1279,7 +1279,6 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
-timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
@@ -1294,7 +1293,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
-truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
