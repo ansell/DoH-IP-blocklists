@@ -28,6 +28,7 @@ adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.blogssl.com
 adguard.cloudmini.net
+adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
@@ -346,7 +347,6 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
-externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 farewellkou.click
