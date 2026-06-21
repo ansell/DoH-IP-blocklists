@@ -41,7 +41,6 @@ adguard.mrmartian.co
 adguard.neon0404.space
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
-adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.taxiora.tn
@@ -205,7 +204,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.stvsk.ml
 dns.suhaila.dev
@@ -442,6 +440,7 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+pates.services.sfr.fr.casepp.sfr.fr
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -479,6 +478,7 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
+timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
