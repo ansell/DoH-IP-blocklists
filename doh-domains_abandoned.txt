@@ -167,7 +167,6 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -234,6 +233,7 @@ dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.pietjacobs.be
+dns1.serdcebolit.ru
 dns1.sg.newpangea.de
 dns1.techeasy.org
 dns1.us.newpangea.de
