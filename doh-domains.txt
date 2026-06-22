@@ -485,7 +485,6 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -673,6 +672,7 @@ dns1.klcd.eu
 dns1.nextdns.io
 dns1.nordvpn.com
 dns1.ryan-palmer.com
+dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.techniverse.net
 dns10.quad9.net
