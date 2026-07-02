@@ -51,7 +51,6 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -948,7 +947,6 @@ hole.elbschloss.xyz
 home-server.store
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1167,7 +1165,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
-punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
