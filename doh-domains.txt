@@ -586,6 +586,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1347,6 +1348,7 @@ virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
 vpn.technicule.info
+vps.robotboard.de
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
