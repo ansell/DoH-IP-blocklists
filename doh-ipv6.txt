@@ -5,7 +5,7 @@
 2001:19f0:5:3bd7:5400:4ff:fe05:da83     # kronos.plan9-dns.com
 2001:19f0:5:6d5c:5400:2ff:feed:db51     # adguard1.jsanagustin.net
 2001:19f0:5c00:1819:ae1f:6bff:fef5:ff3a # dns.nextdns.io
-2001:19f0:6001:3f43:3eec:efff:feb9:8704 # dns.nextdns.io, dns2.nextdns.io, steering.nextdns.io
+2001:19f0:6001:3f43:3eec:efff:feb9:8704 # dns.nextdns.io
 2001:19f0:7002:cf2:5400:4ff:fe4a:f0f0   # dns.fullaccesstointernet.jp.eu.org
 2001:19f0:8001:1e9d:5400:2ff:fec8:70cf  # dns.nextdns.io
 2001:19f0:9002:de4:5400:4ff:fe08:7de3   # pluton.plan9-dns.com
@@ -254,14 +254,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:2776:1a00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:2000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:3600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:8800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:9400:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:b600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:ea00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:f200:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2776:1400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2776:6400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2776:6c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2776:ba00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2776:e600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2776:e800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2776:f000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2776:fc00:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -410,6 +410,7 @@
 2606:4700:3032::ac43:9a3d               # dns.cynthialabs.net
 2606:4700:3032::ac43:a02a               # dns.7sec.com.br
 2606:4700:3032::ac43:a76a               # adguard.dekonix.ru
+2606:4700:3032::ac43:bc50               # dns.edison42.dev
 2606:4700:3032::ac43:c8fe               # glacius.top
 2606:4700:3032::ac43:ca69               # dns.superstefan.win
 2606:4700:3032::ac43:df24               # adg.khon.dev
@@ -417,7 +418,6 @@
 2606:4700:3033::6815:101f               # lindung.pp.ua
 2606:4700:3033::6815:1e1                # xn--durhre-yxa.de
 2606:4700:3033::6815:20a8               # dns.rabbitdns.org, family.rabbitdns.org, security.rabbitdns.org
-2606:4700:3033::6815:20f5               # dns.edison42.dev
 2606:4700:3033::6815:248b               # dnsguard.pub
 2606:4700:3033::6815:26f6               # doh.runsel.id
 2606:4700:3033::6815:29c2               # doh.angry.im
@@ -435,7 +435,6 @@
 2606:4700:3033::ac43:9e4d               # urology.wiki
 2606:4700:3033::ac43:a60e               # lindung.pp.ua
 2606:4700:3033::ac43:b5a8               # dns.dotnet.win
-2606:4700:3033::ac43:bc50               # dns.edison42.dev
 2606:4700:3033::ac43:c17e               # doh.ccb-net.it
 2606:4700:3033::ac43:c2d8               # dnsguard.pub
 2606:4700:3033::ac43:c65c               # dns.xuming.studio
@@ -502,6 +501,7 @@
 2606:4700:3036::ac43:a463               # doh.serverhost.no
 2606:4700:3036::ac43:ca32               # netcup.mismat.ch
 2606:4700:3037::6815:2023               # dns.paesa.es
+2606:4700:3037::6815:20f5               # dns.edison42.dev
 2606:4700:3037::6815:2a9                # dns.haoxuan.xyz
 2606:4700:3037::6815:3640               # polisitogel.webcam
 2606:4700:3037::6815:39ed               # r1bnc.com
@@ -963,7 +963,7 @@
 2803:f800:53::8                         # dns.cloudflare.com
 2803:f800:54::1                         # odoh.cloudflare-dns.com
 2803:f800:54::2                         # dooh.cloudflare-dns.com
-2a00:11c0:20:429::5                     # dns.nextdns.io
+2a00:11c0:20:429::5                     # dns.nextdns.io, dns2.nextdns.io, steering.nextdns.io
 2a00:11c0:21::53                        # dns.nextdns.io
 2a00:11c0:39:353::3                     # dns.nextdns.io
 2a00:5980:94::71                        # dns.circl.lu
