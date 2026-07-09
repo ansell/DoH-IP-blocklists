@@ -586,7 +586,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -1129,7 +1128,6 @@ par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
