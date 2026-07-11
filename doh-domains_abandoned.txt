@@ -370,6 +370,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -426,7 +427,6 @@ ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
-ns2.recursive.dnsbycomodo.com
 ns3.cx
 ns3.link
 nue2.moderateinfra.net
@@ -454,6 +454,7 @@ polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 privacydns.go6lab.si
+punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
