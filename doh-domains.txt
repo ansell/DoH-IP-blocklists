@@ -321,7 +321,6 @@ dns.comff.net
 dns.comss.one
 dns.connect.fail
 dns.controld.com
-dns.criena.net
 dns.cryptomize.com
 dns.crystalyx.net
 dns.csaonline.de
@@ -587,6 +586,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
