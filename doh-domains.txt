@@ -295,7 +295,6 @@ dns.cahlen.com
 dns.caliph.dev
 dns.carson-family.com
 dns.caspervk.net
-dns.cctld.kg
 dns.cert.ee
 dns.chadeyron.fr
 dns.charraud.eu
@@ -472,7 +471,6 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
-dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.lista.my.id
@@ -1074,7 +1072,6 @@ noads.joindns4.eu
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
-ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
