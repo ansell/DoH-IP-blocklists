@@ -648,6 +648,7 @@ dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
+dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -1252,7 +1253,6 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
-solaxy.live
 spacedns.org
 squidmall.vip
 steering.nextdns.io
@@ -1345,7 +1345,6 @@ wdns.233py.com
 wikimedia-dns.org
 wurzn.hagezi.org
 www.c-dns.com
-www.chungocoai.name.vn
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de

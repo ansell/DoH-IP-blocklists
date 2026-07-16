@@ -237,7 +237,6 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
-dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -484,6 +483,7 @@ sin01.dnscry.pt
 sitdns.com
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
+solaxy.live
 sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw
@@ -512,6 +512,7 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
+www.chungocoai.name.vn
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
