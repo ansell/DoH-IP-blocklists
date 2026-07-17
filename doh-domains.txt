@@ -104,6 +104,7 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -387,6 +388,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -465,6 +467,7 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
+dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.lista.my.id
@@ -648,7 +651,6 @@ dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -759,7 +761,6 @@ doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.infracell.net
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kidzonet.io
 doh.killtw.im
@@ -1253,6 +1254,7 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
+solaxy.live
 spacedns.org
 squidmall.vip
 steering.nextdns.io
@@ -1345,6 +1347,7 @@ wdns.233py.com
 wikimedia-dns.org
 wurzn.hagezi.org
 www.c-dns.com
+www.chungocoai.name.vn
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
