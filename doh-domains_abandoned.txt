@@ -46,10 +46,12 @@ adguard.taxiora.tn
 adguardh.ga
 ads.hunga1k47.com
 aerodrorne.vip
+affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
 agh.workfordemo.co.in
 aihe.app
+alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -142,6 +144,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
+dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
 dns.green-ping.lol
@@ -175,7 +178,6 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
-dns.lightmaster.pw
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -236,6 +238,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -472,6 +475,7 @@ sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.avastdns.com
+secure.hafnova.com
 secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
