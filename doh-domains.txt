@@ -577,7 +577,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -688,10 +687,8 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
-dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -842,6 +839,7 @@ dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
 droyd.top
+drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -905,7 +903,6 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -1093,7 +1090,7 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
+odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1275,6 +1272,7 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlv01.dnscry.pt
