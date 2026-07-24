@@ -33,7 +33,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -104,6 +103,7 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -458,7 +458,6 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.lermer.nl
@@ -522,7 +521,6 @@ dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
-dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ourvau.lt
 dns.paesa.es
@@ -685,13 +683,15 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
-dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -1090,7 +1090,8 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-se.alekberg.net
+odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
