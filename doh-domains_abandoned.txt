@@ -46,6 +46,7 @@ adguard.taxiora.tn
 adguardh.ga
 ads.hunga1k47.com
 aerodrorne.vip
+affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
 agh.workfordemo.co.in
@@ -175,7 +176,6 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
-dns.lightmaster.pw
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -236,6 +236,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -256,10 +257,12 @@ dns3.dns-ga.de
 dns4.imkvq.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -276,7 +279,6 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
-doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -444,8 +446,8 @@ ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
 odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
@@ -510,6 +512,7 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
@@ -517,7 +520,6 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xmr.land
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
