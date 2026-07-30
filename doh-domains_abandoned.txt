@@ -131,7 +131,6 @@ dns.cybershell.xyz
 dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
-dns.dnsguard.pub
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dooks.uk
@@ -153,7 +152,6 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -176,6 +174,7 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lightmaster.pw
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -234,6 +233,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -253,11 +253,13 @@ dns2.linzefeng.top
 dns3.dns-ga.de
 dns4.imkvq.com
 dnses.alekberg.net
-dnsnl-noads.alekberg.net
+dnsguard.pub
+dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
+dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
@@ -342,7 +344,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -356,6 +357,7 @@ fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
+gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -444,8 +446,6 @@ ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 okado.online
 open.dns0.eu
@@ -523,4 +523,5 @@ yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+yuvelirtut.website
 zero.dns0.eu
