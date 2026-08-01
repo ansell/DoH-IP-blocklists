@@ -28,13 +28,11 @@ adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
 addns1.m-it.ro
-adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -315,7 +313,6 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -348,6 +345,7 @@ dns.digitalsize.net
 dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
+dns.dnsguard.pub
 dns.dnshome.de
 dns.dnssilo.top
 dns.dnswarden.com
@@ -390,6 +388,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -462,7 +461,6 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.lermer.nl
@@ -486,6 +484,7 @@ dns.maybe.icu
 dns.mayx.eu.org
 dns.mbrjun.cn
 dns.meeo.win
+dns.melvin2204.nl
 dns.mestdag.fr
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
@@ -695,10 +694,8 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -849,7 +846,6 @@ dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
 droyd.top
-drs.rustsword.com
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dukun.de
@@ -1033,6 +1029,7 @@ mask-h2.icloud.com
 mask.icloud.com
 masters-of-cloud.de
 max.rethinkdns.com
+meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
@@ -1098,6 +1095,7 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -1342,6 +1340,7 @@ vpn.technicule.info
 vps.robotboard.de
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1369,6 +1368,7 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
+yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
