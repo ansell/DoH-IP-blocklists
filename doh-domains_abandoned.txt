@@ -51,6 +51,7 @@ affcdn.net
 ag.hostme.co.il
 agh.workfordemo.co.in
 aihe.app
+alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -177,6 +178,7 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lightmaster.pw
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -192,6 +194,7 @@ dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
+dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -278,7 +281,6 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
-doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -447,7 +449,7 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
-odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 okado.online
 open.dns0.eu
@@ -493,7 +495,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
-tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
@@ -528,4 +529,5 @@ yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+yuvelirtut.website
 zero.dns0.eu
