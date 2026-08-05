@@ -19,6 +19,7 @@ adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adfiltro.fun
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
@@ -49,6 +50,7 @@ aerodrorne.vip
 ag.hostme.co.il
 agh.workfordemo.co.in
 aihe.app
+alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -177,6 +179,7 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lightmaster.pw
 dns.mandre.dev
 dns.maolaohei.xyz
 dns.melalandia.tk
@@ -255,13 +258,13 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns3.dns-ga.de
 dns4.imkvq.com
-dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
+dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
@@ -346,6 +349,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -450,9 +454,9 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
-odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
@@ -499,6 +503,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
+tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tundranet.hec.to
@@ -527,11 +532,9 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xmr.land
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
-yuvelirtut.website
 zero.dns0.eu
