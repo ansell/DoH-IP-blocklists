@@ -17,7 +17,9 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
+adfiltro.fun
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
@@ -49,7 +51,6 @@ affcdn.net
 ag.hostme.co.il
 agh.workfordemo.co.in
 aihe.app
-alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -125,7 +126,6 @@ dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
-dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
@@ -214,6 +214,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.stvsk.ml
@@ -237,6 +238,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -255,8 +257,7 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns3.dns-ga.de
 dns4.imkvq.com
-dnses.alekberg.net
-dnsnl.alekberg.net
+dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
@@ -279,6 +280,7 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
+doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -359,7 +361,6 @@ fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -450,7 +451,8 @@ ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
