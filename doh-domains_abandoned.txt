@@ -263,13 +263,10 @@ dns2.linzefeng.top
 dns3.dns-ga.de
 dns4.imkvq.com
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -326,7 +323,6 @@ doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
 doh.southam.family
-doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -454,12 +450,13 @@ ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
 ns3.link
+ntwrkh.pro
 nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
-odoh-target-noads-se.alekberg.net
 odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
@@ -535,7 +532,6 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xmr.land
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
