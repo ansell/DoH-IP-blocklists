@@ -33,6 +33,7 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -101,7 +102,6 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -306,7 +306,6 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -382,6 +381,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -459,6 +459,7 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
+dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.lista.my.id
@@ -643,7 +644,6 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -687,7 +687,6 @@ dnsguard.pub
 dnslow.me
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -795,6 +794,7 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
+doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -898,6 +898,7 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
