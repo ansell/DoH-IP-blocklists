@@ -33,6 +33,7 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -131,7 +132,6 @@ basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
-blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -230,7 +230,6 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
-dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -305,7 +304,6 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -453,6 +451,7 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.lermer.nl
@@ -574,7 +573,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -682,14 +680,14 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
+dnsnl-noads.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -919,6 +917,7 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk2.ooroot.com
@@ -934,6 +933,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hydra.plan9-ns1.com
 i.233py.com
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -999,6 +999,7 @@ lewsha.lol
 lifeisa.live
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
@@ -1055,6 +1056,7 @@ ns.mtsoln.com
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
+ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.flodns.net
@@ -1080,9 +1082,6 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1341,7 +1340,6 @@ xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de
-xorbiadns.com
 ychen.cf
 ychen.gq
 yhz01.dnscry.pt
@@ -1349,6 +1347,7 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
+yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
