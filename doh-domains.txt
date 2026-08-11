@@ -33,6 +33,7 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -64,7 +65,6 @@ adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
 adguard.neon0404.space
-adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -102,6 +102,7 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -216,7 +217,6 @@ dns-secondary.cloudnx.cloud
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
-dns.13evl.com
 dns.23-4.cn
 dns.233py.com
 dns.354688.xyz
@@ -381,6 +381,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -408,6 +409,7 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
+dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -458,7 +460,6 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
-dns.lightmaster.pw
 dns.lihj.me
 dns.lista.my.id
 dns.listo.click
@@ -685,11 +686,8 @@ dnsforge.de
 dnsguard.pub
 dnslow.me
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -1083,6 +1081,7 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+odoh-target-noads.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
@@ -1323,6 +1322,7 @@ vpn.technicule.info
 vps.robotboard.de
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1349,6 +1349,7 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
+yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt

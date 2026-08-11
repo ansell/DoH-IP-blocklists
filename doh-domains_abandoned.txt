@@ -19,7 +19,6 @@ adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adfiltro.fun
 adg.rokh.biz
-adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -41,6 +40,7 @@ adguard.lista.my.id
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
+adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.taxiora.tn
@@ -53,7 +53,6 @@ ag.hostme.co.il
 ag.ssrahul96.xyz
 agh.workfordemo.co.in
 aihe.app
-alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -101,6 +100,7 @@ dns-ovh.panszelescik.pl
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
+dns.13evl.com
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.444723.xyz
@@ -151,7 +151,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.futuredns.me
 dns.green-ping.lol
 dns.guardmydns.com
 dns.hafidzradhival.my.id
@@ -160,7 +159,6 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -183,6 +181,7 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lightmaster.pw
 dns.linkr.ninja
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -262,10 +261,13 @@ dns2.linzefeng.top
 dns3.dns-ga.de
 dns4.imkvq.com
 dnses.alekberg.net
+dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-fi.blahdns.com
@@ -456,7 +458,6 @@ ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 okado.online
 open.dns0.eu
@@ -527,7 +528,6 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
-wantaquddin.com
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
@@ -541,5 +541,4 @@ yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
-yuvelirtut.website
 zero.dns0.eu
