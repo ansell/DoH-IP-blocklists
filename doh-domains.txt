@@ -102,6 +102,7 @@ agh.xinfeng16m.top
 ahadns.net
 ahoj.email
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -380,7 +381,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -408,6 +408,7 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
+dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -458,6 +459,7 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
+dns.lightmaster.pw
 dns.lihj.me
 dns.lista.my.id
 dns.listo.click
@@ -571,6 +573,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -723,7 +726,6 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
-doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
@@ -791,7 +793,6 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
-doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -1078,8 +1079,6 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1257,7 +1256,6 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
