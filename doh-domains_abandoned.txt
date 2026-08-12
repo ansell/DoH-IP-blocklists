@@ -102,7 +102,6 @@ dns-ovh.panszelescik.pl
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
-dns.13evl.com
 dns.233py.com.cdn.cloudflare.net
 dns.240527.xyz
 dns.444723.xyz
@@ -133,6 +132,7 @@ dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
+dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
@@ -156,7 +156,6 @@ dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
 dns.green-ping.lol
-dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -187,7 +186,6 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -224,7 +222,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.stvsk.ml
@@ -249,6 +246,7 @@ dns.yague.me
 dns.youni.win
 dns.ypbind.de
 dns.zfsystem.tech
+dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -267,14 +265,11 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns3.dns-ga.de
 dns4.imkvq.com
-dnses.alekberg.net
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
@@ -332,6 +327,7 @@ doh.port53.dk
 doh.post-factum.tk
 doh.qis.io
 doh.southam.family
+doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -374,6 +370,7 @@ fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
+gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -408,6 +405,7 @@ kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
 lim02.dnscry.pt
+lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
@@ -463,7 +461,7 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
-odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
 odoh-target.alekberg.net
 okado.online
 open.dns0.eu
@@ -543,7 +541,6 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xmr.land
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
