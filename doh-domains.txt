@@ -34,6 +34,7 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -307,6 +308,7 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -339,6 +341,7 @@ dns.digitalsize.net
 dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
+dns.dnsguard.pub
 dns.dnshome.de
 dns.dnssilo.top
 dns.dnswarden.com
@@ -575,6 +578,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
