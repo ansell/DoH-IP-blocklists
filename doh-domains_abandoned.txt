@@ -128,6 +128,7 @@ dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
+dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
@@ -158,7 +159,6 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -240,6 +240,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -321,6 +322,7 @@ doh.port53.dk
 doh.post-factum.tk
 doh.qis.io
 doh.southam.family
+doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -362,7 +364,6 @@ fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -454,6 +455,7 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 okado.online
 open.dns0.eu
@@ -538,4 +540,5 @@ yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+yuvelirtut.website
 zero.dns0.eu
