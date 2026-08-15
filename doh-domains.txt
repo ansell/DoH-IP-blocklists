@@ -66,6 +66,7 @@ adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
 adguard.neon0404.space
+adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -308,7 +309,6 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -413,7 +413,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -696,7 +695,6 @@ dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
