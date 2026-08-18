@@ -560,7 +560,6 @@ dns.repinger.com
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
-dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
@@ -580,7 +579,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -921,6 +919,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1095,9 +1094,7 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1274,7 +1271,6 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
@@ -1365,7 +1361,6 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
-yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
