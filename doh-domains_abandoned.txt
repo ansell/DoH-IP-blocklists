@@ -352,6 +352,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
+fr-gra-w-p-1.nashkan.net
 fra1.eyecay.xyz
 groupy.ga
 gru01.dnscry.pt

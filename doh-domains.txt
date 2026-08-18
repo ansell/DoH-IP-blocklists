@@ -892,7 +892,6 @@ firefox.dns.nextdns.io
 fly.io
 fnt01.dnscry.pt
 fr-dns1.bancuh.com
-fr-gra-w-p-1.nashkan.net
 fr1.dnswarden.com
 fra-dns.bitdefender.net
 fra01.dnscry.pt
