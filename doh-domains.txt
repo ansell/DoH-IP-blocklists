@@ -922,6 +922,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1024,7 +1025,6 @@ luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
-mainframe.dewed.de
 man01.dnscry.pt
 maqgie.xyz
 mask-api.icloud.com
