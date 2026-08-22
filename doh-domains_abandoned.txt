@@ -68,6 +68,7 @@ bigora2.vuhai.de
 bl.eq.md
 bld.sys-adm.in
 blitz.ahadns.com
+blockerads.multimediaconcept.fr
 bog01.dnscry.pt
 bom01.dnscry.pt
 br.servers.legat.ml
@@ -107,6 +108,7 @@ dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
 dns.aaflalo.me
+dns.aaytorr.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
