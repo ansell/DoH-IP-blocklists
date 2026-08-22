@@ -107,7 +107,6 @@ dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
 dns.aaflalo.me
-dns.aaytorr.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
@@ -149,7 +148,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.futuredns.me
 dns.green-ping.lol
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -157,7 +155,6 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -194,6 +191,7 @@ dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
+dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -239,7 +237,6 @@ dns.yague.me
 dns.youni.win
 dns.ypbind.de
 dns.zfsystem.tech
-dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -258,6 +255,7 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns3.dns-ga.de
 dns4.imkvq.com
+dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
@@ -364,6 +362,7 @@ fra1.eyecay.xyz
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 home.enjoymylife.net
@@ -519,6 +518,7 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
