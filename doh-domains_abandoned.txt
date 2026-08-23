@@ -152,6 +152,7 @@ dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
 dns.green-ping.lol
+dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -364,7 +365,6 @@ fra1.eyecay.xyz
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 home.enjoymylife.net
@@ -520,12 +520,14 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt

@@ -395,7 +395,6 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
-dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -914,6 +913,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1330,7 +1330,6 @@ vpn.technicule.info
 vps.robotboard.de
 vpsus3.pzhg.me
 vtcuong.site
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1351,7 +1350,6 @@ xenergy.cc
 xholgm.top
 xmr.land
 xn--durhre-yxa.de
-xorbiadns.com
 ychen.cf
 ychen.gq
 yhz01.dnscry.pt
