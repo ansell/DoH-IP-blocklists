@@ -395,6 +395,7 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -642,6 +643,7 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -712,6 +714,7 @@ doh.233py.com
 doh.30x.me
 doh.360.cn
 doh.42l.fr
+doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.angry.im
 doh.apad.pro
@@ -1235,6 +1238,7 @@ shield1.eranext.net
 sin02.dnscry.pt
 sin03.dnscry.pt
 sink.nolo.ltd
+sitdns.com
 sjc01.dnscry.pt
 sky.rethinkdns.com
 skydragoness.com
