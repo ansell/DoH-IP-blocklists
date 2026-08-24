@@ -680,7 +680,6 @@ dnsenc.com
 dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
-dnsguard.pub
 dnslow.me
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
