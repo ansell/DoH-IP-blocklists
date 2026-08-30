@@ -111,7 +111,6 @@ dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
 dns.aaflalo.me
-dns.aaytorr.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
@@ -132,7 +131,6 @@ dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
-dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
@@ -248,7 +246,6 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
-dns.zfsystem.tech
 dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -329,7 +326,6 @@ doh.port53.dk
 doh.post-factum.tk
 doh.qis.io
 doh.southam.family
-doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
