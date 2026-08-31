@@ -39,6 +39,7 @@ adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
 adguard.mattiafenzi.uk
+adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
 adguard.sparshbajaj.me
@@ -537,4 +538,5 @@ yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+yuvelirtut.website
 zero.dns0.eu
