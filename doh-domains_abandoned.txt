@@ -138,7 +138,6 @@ dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
 dns.csa-rz.de
-dns.cwlys.com
 dns.cybershell.xyz
 dns.d96.info
 dns.de.futuredns.eu.org
@@ -250,7 +249,6 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
-dns.zfsystem.tech
 dns.zui.lol
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -513,6 +511,7 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tundranet.hec.to
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id

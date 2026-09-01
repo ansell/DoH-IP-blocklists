@@ -310,6 +310,7 @@ dns.cryptomize.com
 dns.crystalyx.net
 dns.csaonline.de
 dns.csswg.org
+dns.cwlys.com
 dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
@@ -634,6 +635,7 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -1272,7 +1274,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
