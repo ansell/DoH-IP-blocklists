@@ -1326,7 +1326,6 @@ vpn.technicule.info
 vps.robotboard.de
 vpsus3.pzhg.me
 vtcuong.site
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1348,7 +1347,6 @@ xenergy.cc
 xholgm.top
 xmr.land
 xn--durhre-yxa.de
-xorbiadns.com
 ychen.cf
 ychen.gq
 yhz01.dnscry.pt
