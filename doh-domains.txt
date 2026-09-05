@@ -344,7 +344,6 @@ dns.dremaxx.de
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
-dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
 dns.efficientdocuments.com
@@ -1348,7 +1347,6 @@ xholgm.top
 xmr.land
 xn--durhre-yxa.de
 ychen.cf
-ychen.gq
 yhz01.dnscry.pt
 your-dns.run
 yovbak.com
