@@ -160,6 +160,7 @@ dns.green-ping.lol
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
+dns.haoxuan.xyz
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
