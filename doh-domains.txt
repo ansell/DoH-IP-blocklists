@@ -63,7 +63,6 @@ adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
@@ -793,7 +792,6 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
-doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -1266,7 +1264,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
@@ -1354,7 +1351,6 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
-yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
