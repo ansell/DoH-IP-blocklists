@@ -158,6 +158,7 @@ dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
 dns.green-ping.lol
+dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -348,6 +349,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 drs.rustsword.com
+easyhandshake.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
