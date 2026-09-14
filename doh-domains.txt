@@ -566,6 +566,7 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -791,7 +792,6 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
-doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -1238,7 +1238,6 @@ sm2.doh.pub
 sof01.dnscry.pt
 solaxy.live
 spacedns.org
-squidmall.vip
 steering.nextdns.io
 sto01.dnscry.pt
 stratus.bugz.fr
@@ -1262,7 +1261,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
