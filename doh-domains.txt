@@ -339,7 +339,6 @@ dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -388,6 +387,7 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -633,6 +633,7 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -905,7 +906,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1197,6 +1197,7 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
+sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
