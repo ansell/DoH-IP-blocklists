@@ -568,7 +568,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
-dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
@@ -970,7 +969,6 @@ jp01.dns4me.net
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
-justhost.bedro.cloud
 juuri.hagezi.org
 kaiwu.xyz
 kavkaz.monster
@@ -1260,6 +1258,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
