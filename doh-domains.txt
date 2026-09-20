@@ -187,6 +187,7 @@ de-dus.doh.sb
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
+de.dns.privex.io
 de01.dns4me.net
 deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
@@ -1042,6 +1043,7 @@ nicsezcheckfbi.gov
 nl-ams.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
+nl.dns.privex.io
 noads.imbuffering.com
 noads.joindns4.eu
 ns.00dani.me
@@ -1256,7 +1258,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
