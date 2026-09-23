@@ -149,7 +149,6 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
-dns.edgeburnmedia.com
 dns.editechstudio.com
 dns.ellichua.com
 dns.emeraldonion.org
@@ -445,7 +444,6 @@ net01.youcef.io
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
 nl-ams2.doh.sb
-nl.dns.privex.io
 nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
