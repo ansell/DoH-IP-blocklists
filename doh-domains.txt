@@ -1051,6 +1051,7 @@ ns.mtsoln.com
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
+ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.flodns.net
@@ -1064,7 +1065,6 @@ ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
-ns3.opennameserver.org
 ns3.wuyouss.com
 ns4.opennameserver.org
 nsc.torgues.net
