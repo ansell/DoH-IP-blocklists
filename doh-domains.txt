@@ -281,6 +281,7 @@ dns.cahlen.com
 dns.caliph.dev
 dns.carson-family.com
 dns.caspervk.net
+dns.cctld.kg
 dns.cert.ee
 dns.chadeyron.fr
 dns.charraud.eu
@@ -1255,7 +1256,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
