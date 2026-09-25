@@ -343,7 +343,6 @@ dns.dremaxx.de
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
-dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
 dns.efficientdocuments.com
@@ -1027,6 +1026,7 @@ morbitzer.de
 mozilla.cloudflare-dns.com
 muc01.dnscry.pt
 muli.stusta.mhn.de
+multi.dns.marbledfennec.net
 muxyuji.ru
 myatris.sbs
 n5.lsasss.com
@@ -1257,6 +1257,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
