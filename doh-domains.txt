@@ -873,7 +873,6 @@ fdns1.dismail.de
 fdns2.dismail.de
 fezgate.ovh
 fi-hel-w-f-2.nashkan.net
-fidelius.top
 firefox.dns.nextdns.io
 fly.io
 fnt01.dnscry.pt
@@ -1173,7 +1172,6 @@ resolver2.opendns.com
 resolver3.absolight.net
 resolver4.dns.openinternet.io
 rethinkdns.com
-revelio.top
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 rgnet-iad.anycast.censurfridns.dk
