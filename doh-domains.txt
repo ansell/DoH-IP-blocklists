@@ -562,6 +562,7 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -1073,6 +1074,7 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
+obscuro.top
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1168,6 +1170,7 @@ resolver2.opendns.com
 resolver3.absolight.net
 resolver4.dns.openinternet.io
 rethinkdns.com
+revelio.top
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 rgnet-iad.anycast.censurfridns.dk
