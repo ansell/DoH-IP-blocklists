@@ -158,7 +158,6 @@ dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
-dns.glorydns.com
 dns.green-ping.lol
 dns.guardmydns.com
 dns.hafidzradhival.my.id
