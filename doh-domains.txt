@@ -345,7 +345,6 @@ dns.dremaxx.de
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
-dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
 dns.efficientdocuments.com
@@ -763,6 +762,7 @@ doh.libredns.gr
 doh.luigi.nexific.it
 doh.lv
 doh.maskab.com
+doh.max.net.id
 doh.mmmalia.com
 doh.mullvad.net
 doh.nic.lv
@@ -903,13 +903,11 @@ gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
-gibblets.top
 glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1105,7 +1103,6 @@ par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
