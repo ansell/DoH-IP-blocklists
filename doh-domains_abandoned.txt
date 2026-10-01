@@ -164,7 +164,6 @@ dns.hakutakucn.com
 dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
-dns.hshoe.cn
 dns.huas.me
 dns.hugo0.moe
 dns.huseynov.work
@@ -468,7 +467,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -491,7 +489,6 @@ resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.avastdns.com
