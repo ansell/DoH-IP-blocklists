@@ -904,7 +904,6 @@ geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
 gibblets.top
-glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
@@ -942,7 +941,6 @@ ie01.dns4me.net
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
-imperio.top
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 inpssh.online
@@ -1105,7 +1103,6 @@ par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1202,7 +1199,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -1262,7 +1258,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
