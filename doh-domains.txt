@@ -450,6 +450,7 @@ dns.kxy.ink
 dns.l337.site
 dns.labnekotest.site
 dns.lars-lehmann.net
+dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
@@ -923,7 +924,6 @@ hfgx.shop
 himedns.com
 hitian.me
 hk-hkg.doh.sb
-hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
@@ -1263,6 +1263,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
