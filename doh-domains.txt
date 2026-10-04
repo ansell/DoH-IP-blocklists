@@ -341,8 +341,10 @@ dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
+dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
 dns.efficientdocuments.com
@@ -565,7 +567,6 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -909,7 +910,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
