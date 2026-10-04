@@ -341,7 +341,6 @@ dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -980,7 +979,6 @@ kids.ns.nwps.fi
 kilabit.info
 kiri.nonexiste.net
 kiv01.dnscry.pt
-ko-18948-tr.xyz
 kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
