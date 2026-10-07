@@ -392,6 +392,7 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
+dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.haoxuan.xyz
@@ -565,7 +566,6 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -1272,6 +1272,7 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
