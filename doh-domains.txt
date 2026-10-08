@@ -1253,7 +1253,6 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
-tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
