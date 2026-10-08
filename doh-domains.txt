@@ -56,7 +56,6 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
-adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -227,7 +226,6 @@ dns.7vpn.com
 dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
-dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
 dns.abdullahabas.de
@@ -809,7 +807,6 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
-doh.zephyrus.id
 doh.zknt.org
 doh003.280blocker.net
 doh1.b-cdn.net
