@@ -65,6 +65,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -147,6 +148,7 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.editechstudio.com
 dns.ellichua.com
@@ -240,7 +242,6 @@ dns.us.futuredns.eu.org
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
-dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -507,12 +508,10 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
