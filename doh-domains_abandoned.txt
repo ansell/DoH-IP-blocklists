@@ -1,6 +1,7 @@
 052419.xyz
 1.xhr0no.my
 351242444.xyz
+3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -32,6 +33,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -80,7 +82,6 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
-cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 console.carestyle.org
@@ -123,7 +124,6 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
-dns.burgas.pro
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
@@ -191,7 +191,6 @@ dns.lightmaster.pw
 dns.linkr.ninja
 dns.mandre.dev
 dns.melalandia.tk
-dns.mihanentalpo.me
 dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
@@ -226,7 +225,6 @@ dns.seia.io
 dns.seiffert.me
 dns.sheggi.ch
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.stvsk.ml
@@ -271,7 +269,6 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns3.dns-ga.de
 dns4.imkvq.com
-dnslow.me
 dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
@@ -325,7 +322,6 @@ doh.phdns5.lonet.org
 doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
-doh.pyry.me
 doh.qis.io
 doh.southam.family
 doh.thio.me
@@ -352,6 +348,7 @@ dot.pl.ahadns.net
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
+edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
@@ -494,7 +491,6 @@ resolver.noaddns.com
 sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
-secure.anudeep.me
 secure.avastdns.com
 secure.onedns.cc
 sg.adhole.org
@@ -510,6 +506,7 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
+tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
