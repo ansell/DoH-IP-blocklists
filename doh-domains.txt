@@ -130,7 +130,6 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -620,6 +619,7 @@ dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -673,12 +673,15 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -1249,6 +1252,7 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
+tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
