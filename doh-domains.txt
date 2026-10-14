@@ -5,6 +5,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -157,7 +158,6 @@ chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 chuncheon.dnsovertor.cc
 clean.dnsforge.de
-cleanbrowsing.org
 cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
@@ -276,7 +276,6 @@ dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.brono.cloud
-dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
 dns.cahlen.com
@@ -476,7 +475,6 @@ dns.melvin2204.nl
 dns.mestdag.fr
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
-dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 dns.mnet-online.de
@@ -567,7 +565,6 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -620,7 +617,6 @@ dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
-dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -678,7 +674,6 @@ dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
-dnslow.me
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
@@ -781,7 +776,6 @@ doh.phdns2.lonet.org
 doh.pi-dns.com
 doh.powerdns.org
 doh.pub
-doh.pyry.me
 doh.quickline.ch
 doh.rezhajul.io
 doh.runsel.id
@@ -851,6 +845,7 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -913,6 +908,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1005,7 +1001,6 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
@@ -1209,7 +1204,6 @@ secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
 secure-dns.pleumkungz.com
-secure.anudeep.me
 secure.hafnova.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
