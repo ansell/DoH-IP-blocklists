@@ -565,7 +565,6 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -599,6 +598,7 @@ dns.thebuckners.org
 dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
+dns.tracker.ink
 dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -1271,7 +1271,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
