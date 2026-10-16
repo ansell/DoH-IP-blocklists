@@ -55,7 +55,6 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
-adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -339,7 +338,6 @@ dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgy.network
@@ -991,7 +989,6 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
@@ -1261,7 +1258,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
