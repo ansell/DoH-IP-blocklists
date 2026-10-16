@@ -564,7 +564,6 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -699,7 +698,6 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
-doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -834,6 +832,7 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
