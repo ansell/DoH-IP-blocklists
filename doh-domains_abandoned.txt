@@ -1,7 +1,6 @@
 052419.xyz
 1.xhr0no.my
 351242444.xyz
-3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -65,7 +64,6 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
-bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -210,7 +208,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
-dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -227,7 +224,6 @@ dns.seia.io
 dns.seiffert.me
 dns.sheggi.ch
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.stvsk.ml
@@ -284,7 +280,6 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
-doh.360.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -529,7 +524,6 @@ tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tlz.asia
 tundranet.hec.to
-tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id

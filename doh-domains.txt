@@ -5,6 +5,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -130,6 +131,7 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
+bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -519,6 +521,7 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -564,6 +567,7 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -698,6 +702,7 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
+doh.360.cn
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -1257,6 +1262,7 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
