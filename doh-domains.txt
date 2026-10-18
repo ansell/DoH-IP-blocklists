@@ -44,6 +44,7 @@ adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.bonis.de
+adguard.bonsirven.eu
 adguard.dantynes.cyou
 adguard.depieri.net
 adguard.easez.net
@@ -60,7 +61,6 @@ adguard.kiboko.it
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
-adguard.marto.si
 adguard.meddy94.de
 adguard.neon0404.space
 adguard.onlyfriends.info
@@ -129,6 +129,7 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
+bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -987,8 +988,8 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus

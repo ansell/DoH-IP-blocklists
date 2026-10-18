@@ -27,7 +27,6 @@ adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.blogssl.com
-adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dekonix.ru
 adguard.dessoi.cloud
@@ -39,6 +38,7 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
+adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
@@ -66,7 +66,6 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
-bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -420,7 +419,7 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
-lukscasino-929-tr.xyz
+lukscasino-479-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
