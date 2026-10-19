@@ -5,6 +5,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -698,6 +699,7 @@ doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
 doh-sg.blahdns.com
+doh.18bit.cn
 doh.233py.com
 doh.30x.me
 doh.360.cn
@@ -852,6 +854,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -990,7 +993,6 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lukscasino-542-tr.xyz
-lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
@@ -1004,6 +1006,7 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
