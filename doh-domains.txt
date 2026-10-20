@@ -80,7 +80,6 @@ adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
-adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -129,7 +128,6 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -155,7 +153,6 @@ chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 chuncheon.dnsovertor.cc
 clean.dnsforge.de
-cleanbrowsing.org
 cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
@@ -520,7 +517,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -875,6 +871,7 @@ fra01.dnscry.pt
 fra02.dnscry.pt
 frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
+free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
@@ -987,7 +984,6 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
@@ -1002,7 +998,6 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz

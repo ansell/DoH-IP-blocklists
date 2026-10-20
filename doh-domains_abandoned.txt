@@ -48,6 +48,7 @@ adguard.sscw.win
 adguard.taxiora.tn
 adguard.wirimij.nl
 adguardh.ga
+adult-filter-dns.cleanbrowsing.org
 aerodrorne.vip
 affcdn.net
 ag.hostme.co.il
@@ -66,6 +67,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -83,6 +85,7 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
+cleanbrowsing.org
 clearweb.woodbridge.club
 clientdns3.softcom.net
 console.carestyle.org
@@ -209,6 +212,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -377,7 +381,6 @@ fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 fra1.eyecay.xyz
-free.shecan.ir
 gclouddns.com
 groupy.ga
 gru01.dnscry.pt
@@ -420,6 +423,7 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
@@ -441,6 +445,7 @@ mailkyb.co
 mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
+mendozasdelivery.com
 michelo.line.pm
 miniapp.global
 minilla.store
