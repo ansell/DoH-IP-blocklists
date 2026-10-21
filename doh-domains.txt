@@ -55,6 +55,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -80,6 +81,7 @@ adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
+adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -153,6 +155,7 @@ chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 chuncheon.dnsovertor.cc
 clean.dnsforge.de
+cleanbrowsing.org
 cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
@@ -832,6 +835,7 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -1227,6 +1231,7 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
+tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
