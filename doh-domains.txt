@@ -55,7 +55,6 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
-adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -565,7 +564,6 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -835,7 +833,6 @@ dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -912,6 +909,7 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.wriedts.de
@@ -1085,6 +1083,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
@@ -1231,7 +1230,6 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
-tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
