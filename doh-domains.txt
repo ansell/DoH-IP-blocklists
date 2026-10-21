@@ -564,6 +564,7 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -909,7 +910,6 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.wriedts.de
@@ -949,7 +949,6 @@ jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
 jp-tyo-w-p-1.nashkan.net
-jp.tiar.app
 jp01.dns4me.net
 jp2.ooroot.com
 jpdns.cola16.app
@@ -1083,7 +1082,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
-pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
