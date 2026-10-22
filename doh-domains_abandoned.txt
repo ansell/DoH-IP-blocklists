@@ -33,7 +33,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -66,6 +65,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -149,6 +149,7 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.editechstudio.com
@@ -159,7 +160,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.futuredns.me
 dns.glorydns.com
 dns.green-ping.lol
 dns.guardmydns.com
@@ -363,6 +363,7 @@ dot.westus.pi-dns.com
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
+edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
@@ -443,7 +444,6 @@ mailkyb.co
 mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
-mendozasdelivery.com
 michelo.line.pm
 miniapp.global
 minilla.store
@@ -487,7 +487,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -527,7 +526,6 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
@@ -568,5 +566,4 @@ ychen.cf
 ychen.ga
 ychen.gq
 yussy-is.so-gorgeo.us.kg
-yuvelirtut.website
 zero.dns0.eu
