@@ -338,6 +338,7 @@ doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
+doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
@@ -372,6 +373,7 @@ everovpn.co
 evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
+family.dns.doubleangels.com
 family.puredns.org
 farewellkou.click
 fet01.dnscry.pt
@@ -529,7 +531,6 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
