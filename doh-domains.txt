@@ -517,6 +517,7 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -615,6 +616,7 @@ dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -847,6 +849,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -982,6 +985,7 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
@@ -1080,7 +1084,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
-pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
