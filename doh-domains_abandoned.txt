@@ -67,6 +67,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -362,6 +363,7 @@ dot.westus.pi-dns.com
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
+edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 eu.tri-dns.net
@@ -443,6 +445,7 @@ mailkyb.co
 mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
+mendozasdelivery.com
 michelo.line.pm
 mikezhang.xyz
 miniapp.global
@@ -487,7 +490,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -527,7 +529,6 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
@@ -535,7 +536,6 @@ tlv01.dnscry.pt
 tlz.asia
 tri-dns.net
 tundranet.hec.to
-tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
