@@ -33,6 +33,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.jfchenier.ca
 adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -150,6 +151,7 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -426,7 +428,6 @@ lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
 lukscasino-479-tr.xyz
-lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -540,6 +541,7 @@ tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tlz.asia
 tundranet.hec.to
+tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
