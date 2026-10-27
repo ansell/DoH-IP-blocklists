@@ -614,6 +614,7 @@ dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -905,6 +906,7 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.wriedts.de
@@ -981,7 +983,6 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lukscasino-542-tr.xyz
-lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
