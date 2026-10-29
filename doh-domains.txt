@@ -5,6 +5,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -54,7 +55,6 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
-adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -518,7 +518,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -911,7 +910,6 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.wriedts.de
@@ -1003,6 +1001,7 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
@@ -1085,6 +1084,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
@@ -1231,6 +1231,7 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
+tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
