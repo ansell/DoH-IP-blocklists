@@ -5,6 +5,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -54,7 +55,6 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
-adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -337,6 +337,7 @@ dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edison42.dev
@@ -517,6 +518,7 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -848,6 +850,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -996,6 +999,7 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mil01.dnscry.pt
@@ -1246,6 +1250,7 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
@@ -1298,7 +1303,6 @@ wikimedia-dns.org
 wurzn.hagezi.org
 www.c-dns.com
 www.chungocoai.name.vn
-www.dltuykfgp.top
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de

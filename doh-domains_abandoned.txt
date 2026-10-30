@@ -1,7 +1,6 @@
 052419.xyz
 1.xhr0no.my
 351242444.xyz
-3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -34,6 +33,7 @@ adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -150,7 +150,6 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -212,7 +211,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
-dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -372,7 +370,6 @@ everovpn.co
 evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
-family.dns.doubleangels.com
 family.puredns.org
 farewellkou.click
 fet01.dnscry.pt
@@ -447,7 +444,6 @@ mailkyb.co
 mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
-mendozasdelivery.com
 michelo.line.pm
 mikezhang.xyz
 miniapp.global
@@ -540,7 +536,6 @@ tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tlz.asia
 tundranet.hec.to
-tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
@@ -560,6 +555,7 @@ v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
 wantaquddin.com
+www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
