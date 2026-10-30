@@ -66,7 +66,6 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
-bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -160,6 +159,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
+dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
 dns.green-ping.lol
@@ -211,6 +211,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -236,6 +237,7 @@ dns.thegoodsource.net
 dns.theres.one
 dns.thiz.top
 dns.tierradeayala.com
+dns.tracker.ink
 dns.truong.fi
 dns.trust404.win
 dns.uplenk.com
@@ -386,7 +388,6 @@ guard.sntrk.ru
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -445,7 +446,6 @@ mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
-mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
@@ -536,6 +536,7 @@ tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tlz.asia
 tundranet.hec.to
+tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id

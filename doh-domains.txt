@@ -129,6 +129,7 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
+bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -364,7 +365,6 @@ dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
-dns.foximao.cn
 dns.foxyfy.net
 dns.freopc.fr
 dns.freyja.pw
@@ -518,7 +518,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -598,7 +597,6 @@ dns.thebuckners.org
 dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
-dns.tracker.ink
 dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -910,6 +908,7 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.wriedts.de
@@ -1002,6 +1001,7 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 morbitzer.de
@@ -1250,7 +1250,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
