@@ -128,6 +128,7 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
+bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -363,6 +364,7 @@ dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
+dns.foximao.cn
 dns.foxyfy.net
 dns.freopc.fr
 dns.freyja.pw
@@ -376,6 +378,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -614,6 +617,7 @@ dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -858,7 +862,6 @@ fdns1.dismail.de
 fdns2.dismail.de
 fezgate.ovh
 fi-hel-w-f-2.nashkan.net
-fidelius.top
 firefox.dns.nextdns.io
 fly.io
 fnt01.dnscry.pt
@@ -922,7 +925,6 @@ ie01.dns4me.net
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
-imperio.top
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 inpssh.online
@@ -982,6 +984,7 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
@@ -995,8 +998,10 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 morbitzer.de
@@ -1053,7 +1058,6 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-obscuro.top
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1076,6 +1080,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
@@ -1222,6 +1227,7 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
+tecdrive.site
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
@@ -1245,7 +1251,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
