@@ -54,6 +54,7 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -518,7 +519,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -908,6 +908,7 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.wriedts.de
@@ -984,6 +985,7 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
@@ -1079,6 +1081,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1247,7 +1250,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
@@ -1284,7 +1286,6 @@ uw-dns.rubyfish.cn
 v.dnscrypt.uk
 v.recipes
 v2.xx3210766.live
-vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
