@@ -1,6 +1,7 @@
 2001:1398:1:0:200:1:123:46              # dnsotls.lab.nic.cl
 2001:148f:fffe::1                       # odvr.nic.cz
 2001:148f:ffff::1                       # odvr.nic.cz
+2001:19f0:5400:1e67:3eec:efff:feb9:873e # chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 2001:19f0:5:3bd7:5400:4ff:fe05:da83     # kronos.plan9-dns.com
 2001:19f0:5:6d5c:5400:2ff:feed:db51     # adguard1.jsanagustin.net
 2001:19f0:5c00:1819:ae1f:6bff:fef5:ff3a # dns.nextdns.io
@@ -58,8 +59,7 @@
 2001:4ba0:cafe:745::19                  # dns.expert
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
-2001:550:2:38::28:2                     # doh1.b-cdn.net, doh2.b-cdn.net
-2001:558:fd00:ca::5                     # doh.xfinity.com, doh2.gslb2.xfinity.com
+2001:558:fd00:ca::a                     # doh.xfinity.com, doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145         # dot.xfinity.com
 2001:578:3f::30                         # doh.cox.net, dot.cox.net
 2001:620:0:ff::2                        # dns.switch.ch
@@ -95,7 +95,7 @@
 2001:8d8:100f:f000::200                 # project-evoex.de
 2001:910:800::12                        # ns0.fdn.fr
 2001:910:800::40                        # ns1.fdn.fr
-2001:9e8:4003:9b4:6b4:feff:fe9b:eb1d    # area51.mywire.org
+2001:9e8:4003:23ce:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:9e8:4039:7761:21a:8cff:fe43:9654   # adguard.bitteeinbyte.de
 2001:a18:1::29                          # dnspub.restena.lu
 2001:a60::53:1                          # dns.mnet-online.de
@@ -118,7 +118,7 @@
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:8e7f::10                  # dns.surobe.com
 2003:180:2:4000:0:4:0:53                # dns.telekom.de
-2003:180:2:7000:0:4:0:53                # dns.telekom.de
+2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:36f:4f00::1                      # dns.faked.org
@@ -191,8 +191,9 @@
 240d:c000:f000:9500:8234:d91e:8082:2    # blog.kimiblock.top
 240d:c000:f000:9500:8234:d91e:8082:3    # blog.kimiblock.top
 240d:c000:f000:ea00:70d8:5996:f8e4:0    # dns.flymc.cc
-240d:c010:75:1::119                     # dns.233py.com, doh.233py.com, edns.233py.com, i.233py.com, ndns.233py.com, sdns.233py.com, wdns.233py.com
-240d:c010:75:1::19a                     # doh.totoro.pub
+240d:c010:77:2::d9                      # doh.totoro.pub
+240d:c010:77:4::c0                      # dns.233py.com, doh.233py.com, edns.233py.com, i.233py.com, ndns.233py.com, sdns.233py.com, wdns.233py.com
+240d:c010:81:2:2c00::dd                 # doh.totoro.pub
 240e:95d:3020:43::4006                  # dns.23-4.cn
 2600:1702:74fc:809f::157                # dns.sarak.as, dns.sarakas.net
 2600:1702:74fc:809f::158                # dns.sarak.as, dns.sarakas.net
@@ -236,14 +237,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:2776:3200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:4400:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:5200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:6800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:a400:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:c400:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:d800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:2776:e00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:2006:2000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2006:2c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2006:400:f:5c7a:55c0:93a1     # eth.link
+2600:9000:2006:4600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2006:5000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2006:5e00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2006:e200:f:5c7a:55c0:93a1    # eth.link
+2600:9000:2006:f800:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
 2602:f7f8:b:401::a                      # mia01.dnscry.pt
@@ -260,7 +261,7 @@
 2602:fed2:fb0:6d::1                     # yvr01.dnscry.pt
 2602:fed2:fe0:283::1                    # yyc01.dnscry.pt
 2602:ff75:7:b79::b4b4                   # lax02.dnscry.pt
-2602:ffbb:100:4::2                      # doh.dns.sb
+2602:ffc8:5:b093::a                     # dns.stevenz.net, doh.sz-dns.com
 2603:1040:a03:3::90                     # doh.technochat.in
 2603:c020:4000:3d34:6160:20db:353b:24d3 # o.rsaikat.com
 2603:c020:4023:6701:0:bd8:1e0b:6001     # dns.listo.click
@@ -297,9 +298,10 @@
 2604:a880:cad:d0::728b:9001             # tri-dns.net
 2605:380:55:450::7                      # dns.nextdns.io
 2605:380:56:6::1                        # dns.nextdns.io
+2605:380:57:613::5                      # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 2605:380:58:554::1                      # dns.nextdns.io
 2605:3b80:cad:ec89::1                   # dns.nextdns.io
-2605:7980:0:6412::1                     # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+2605:7980:0:6412::1                     # dns.nextdns.io
 2605:80:8:8::                           # ag.ff0x.ca
 2606:1a40::11                           # family.freedns.controld.com, freedns.controld.com, p0.freedns.controld.com, p1.freedns.controld.com, p2.freedns.controld.com, p3.freedns.controld.com, uncensored.freedns.controld.com
 2606:1a40::22                           # dns.controld.com
@@ -535,7 +537,6 @@
 2607:5300:205:200::4b24                 # dns.asysec.com
 2607:5300:60:8449:31:ffff:ffff:ffff     # mailer.amlegion.org
 2607:9000:700:1030::a                   # phx01.dnscry.pt
-2607:9d00:2000:38::1a6c                 # dns.stevenz.net, doh.sz-dns.com
 2607:a680:6:f016::3a25                  # den01.dnscry.pt
 2607:a680:9:f005::86e7                  # sea01.dnscry.pt
 2607:ac80:303:102:638a:ba7f:2013:b0c    # doh.ersei.net
@@ -560,6 +561,14 @@
 2620:119:fc::3                          # doh.familyshield.opendns.com
 2620:119:fc::4                          # doh.sandbox.opendns.com
 2620:119:fc::5                          # doh.umbrella.com
+2620:149:1360:101::12                   # mask-api.icloud.com
+2620:149:1360:101::17                   # mask-api.icloud.com
+2620:149:1360:101::4                    # mask-api.icloud.com
+2620:149:1360:101::5                    # mask-api.icloud.com
+2620:149:1360:4::e                      # mask-h2.icloud.com, mask.icloud.com
+2620:149:1360::6                        # mask-h2.icloud.com, mask.icloud.com
+2620:149:1360::9                        # mask-h2.icloud.com, mask.icloud.com
+2620:149:1360::a                        # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:1::4                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:1::5                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:1361:1::6                      # mask-h2.icloud.com, mask.icloud.com
@@ -677,6 +686,12 @@
 2620:149:136e:1::5                      # mask-h2.icloud.com, mask.icloud.com
 2620:149:136e::4                        # mask-h2.icloud.com, mask.icloud.com
 2620:149:136e::5                        # mask-h2.icloud.com, mask.icloud.com
+2620:149:9c6::3                         # doh.dns.apple.com.v.aaplimg.com
+2620:149:9c6::4                         # doh.dns.apple.com, doh.dns.apple.com.v.aaplimg.com
+2620:149:9c6::5                         # doh.dns.apple.com
+2620:149:9c6::6                         # doh.dns.apple.com.v.aaplimg.com
+2620:149:9c6::7                         # doh.dns.apple.com, doh.dns.apple.com.v.aaplimg.com
+2620:149:9c6::9                         # doh.dns.apple.com
 2620:149:9c9::111                       # doh.dns.apple.com, doh.dns.apple.com.v.aaplimg.com
 2620:149:9c9::112                       # doh.dns.apple.com, doh.dns.apple.com.v.aaplimg.com
 2620:149:9c9::113                       # doh.dns.apple.com, doh.dns.apple.com.v.aaplimg.com
@@ -759,6 +774,10 @@
 2620:149:a41:280::34                    # mask-api.icloud.com
 2620:149:a41:280::3c                    # mask-api.icloud.com
 2620:149:a41:280::c                     # mask-api.icloud.com
+2620:149:a41:40d::5                     # mask-h2.icloud.com, mask.icloud.com
+2620:149:a41:410::e                     # mask-h2.icloud.com, mask.icloud.com
+2620:149:a41:410::f                     # mask-h2.icloud.com, mask.icloud.com
+2620:149:a41:411::b                     # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:50f::10                    # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:50f::11                    # mask-h2.icloud.com, mask.icloud.com
 2620:149:a41:50f::12                    # mask-h2.icloud.com, mask.icloud.com
@@ -1025,7 +1044,7 @@
 2803:f800:53::8                         # dns.cloudflare.com
 2803:f800:54::1                         # odoh.cloudflare-dns.com
 2803:f800:54::2                         # dooh.cloudflare-dns.com
-2a00:11c0:20:429::5                     # dns.nextdns.io, steering.nextdns.io
+2a00:11c0:20:429::5                     # dns.nextdns.io
 2a00:11c0:21::53                        # dns.nextdns.io
 2a00:11c0:39:353::3                     # dns.nextdns.io
 2a00:5980:94::71                        # dns.circl.lu
@@ -1204,6 +1223,7 @@
 2a02:6b8::feed:ff                       # common.dot.dns.yandex.net
 2a02:6ca3:0:1::2                        # dns.levonet.sk
 2a02:6ca3:0:2::2                        # dns.levonet.sk
+2a02:6ea0:c113:2::1364:1                # doh1.b-cdn.net, doh2.b-cdn.net
 2a02:88:1:e:807::101                    # dns.cert.ee
 2a02:88:1:e:807::99                     # dns.cert.ee
 2a02:958:10:2000:213:166:247:100        # dns.csaonline.de
@@ -1292,7 +1312,7 @@
 2a07:e340::6                            # family.dns.mullvad.net
 2a07:e340::9                            # all.dns.mullvad.net
 2a07:efc0:1001:a5ce::b4b4               # ams02.dnscry.pt
-2a09:0:11::5                            # uk-lon.doh.sb
+2a09:0:11::5                            # doh.dns.sb, uk-lon.doh.sb
 2a09:0:1:a::a                           # de-fra.doh.sb
 2a09:0:8::15                            # de-dus.doh.sb
 2a09:8280:1::1:7432                     # max.rethinkdns.com
@@ -1312,7 +1332,7 @@
 2a0a:be80::cbe:4445                     # cubedns.com
 2a0b:3b02:2006:21::3:9                  # nsc.torgues.net
 2a0b:4342:1a32:f:5054:ff:fe48:d17f      # dns.nextdns.io
-2a0b:4342:1a82:154:5054:ff:feef:b4de    # chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io
+2a0b:4342:1a82:154:5054:ff:feef:b4de    # dns.nextdns.io
 2a0c:3d00:11:21::59:37                  # nsc.torgues.net
 2a0c:4ac1:29::2                         # dns.dnsguard.pub
 2a0c:4ac1:29::3                         # dns.dnsguard.pub
