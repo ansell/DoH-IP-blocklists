@@ -128,6 +128,7 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
+bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -612,6 +613,7 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
@@ -831,6 +833,7 @@ dus01.dnscry.pt
 ea-dns.rubyfish.cn
 easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -981,6 +984,7 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
@@ -994,6 +998,7 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mil01.dnscry.pt
