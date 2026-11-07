@@ -33,6 +33,7 @@ adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -207,6 +208,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -237,10 +239,10 @@ dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wakgood.net
+dns.wang.art
 dns.wevpn.com
 dns.wugui.zone
 dns.xusqui.com
@@ -386,7 +388,6 @@ guard.sntrk.ru
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -422,7 +423,6 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
-lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
@@ -446,6 +446,7 @@ mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 mendozasdelivery.com
 michelo.line.pm
+mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
