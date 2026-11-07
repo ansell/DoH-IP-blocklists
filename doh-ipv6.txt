@@ -59,7 +59,7 @@
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
 2001:550:2:dc::5e:2                     # doh1.b-cdn.net, doh2.b-cdn.net
-2001:558:fd00:ca::a                     # doh.xfinity.com, doh2.gslb2.xfinity.com
+2001:558:fd00:ca::5                     # doh.xfinity.com, doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145         # dot.xfinity.com
 2001:578:3f::30                         # doh.cox.net, dot.cox.net
 2001:620:0:ff::2                        # dns.switch.ch
@@ -95,7 +95,7 @@
 2001:8d8:100f:f000::200                 # project-evoex.de
 2001:910:800::12                        # ns0.fdn.fr
 2001:910:800::40                        # ns1.fdn.fr
-2001:9e8:4003:50e9:6b4:feff:fe9b:eb1d   # area51.mywire.org
+2001:9e8:4003:6728:6b4:feff:fe9b:eb1d   # area51.mywire.org
 2001:9e8:4039:7761:21a:8cff:fe43:9654   # adguard.bitteeinbyte.de
 2001:a18:1::29                          # dnspub.restena.lu
 2001:a60::53:1                          # dns.mnet-online.de
@@ -117,8 +117,8 @@
 2001:df4:b100:3:1:1:730a:2cd2           # dns1.server.my.id
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:8e7f::10                  # dns.surobe.com
+2003:180:2:1000:0:4:0:53                # dns.telekom.de
 2003:180:2:8100:0:4:0:53                # dns.telekom.de
-2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:36f:4f00::1                      # dns.faked.org
@@ -216,8 +216,8 @@
 2600:1f28:60:802:1e4b:e505:7e:1ecb      # dns.api.preview.globus.org
 2600:1f28:60:802:2a5e:d395:3393:50f2    # dns.api.staging.globuscs.info
 2600:1f28:60:802:4904:fb15:e30e:dc56    # dns.api.integration.globuscs.info
+2600:1f28:60:802:8bfc:7059:a92e:b945    # dns.api.sandbox.globuscs.info
 2600:1f28:60:802:9bc9:a30e:b240:b7e0    # dns.api.test.globuscs.info
-2600:1f28:60:802:eed:e22f:edb3:6eec     # dns.api.sandbox.globuscs.info
 2600:3c00::f03c:93ff:feca:d2be          # us1.blissdns.net
 2600:3c00:e000:37a::8:0                 # dns.mzjtechnology.com
 2600:3c01:e000:130::8:0                 # dns.elemental.software
@@ -235,14 +235,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:21d4:1600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:4600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:4c00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:7600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:8000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:c800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:4000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:5000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:5400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:7c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:9a00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:ba00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:d600:f:5c7a:55c0:93a1    # eth.link
 2600:9000:21d4:dc00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:e600:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
 2602:f7f8:b:401::a                      # mia01.dnscry.pt
