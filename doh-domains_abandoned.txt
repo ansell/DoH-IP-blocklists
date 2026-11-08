@@ -364,7 +364,6 @@ dot.pl.ahadns.net
 dot.westus.pi-dns.com
 drs.rustsword.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 eu1.dns.lavate.ch
@@ -427,6 +426,7 @@ lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
 lukscasino-479-tr.xyz
+lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
