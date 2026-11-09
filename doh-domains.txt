@@ -59,7 +59,6 @@ adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.neon0404.space
@@ -619,7 +618,6 @@ dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
-dns.wahr.top
 dns.wargan.io
 dns.warma.me
 dns.warpnine.de
@@ -851,7 +849,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -910,7 +907,6 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.wriedts.de
@@ -986,9 +982,7 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
-lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
@@ -1004,7 +998,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 morbitzer.de
