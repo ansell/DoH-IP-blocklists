@@ -182,7 +182,6 @@ dns.ishan.pw
 dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
-dns.jucker.engineering
 dns.jupitrdns.com
 dns.keke125.com
 dns.kumoumi.net
@@ -372,6 +371,7 @@ everovpn.co
 evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
+family.dns.doubleangels.com
 family.puredns.org
 farewellkou.click
 fet01.dnscry.pt
@@ -390,6 +390,7 @@ guard.sntrk.ru
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 home.enjoymylife.net
 hostdare.qtxd.net
 hrk01.dnscry.pt
@@ -425,6 +426,7 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
@@ -448,6 +450,7 @@ mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 mendozasdelivery.com
 michelo.line.pm
+mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
@@ -491,6 +494,7 @@ open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
+pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net
