@@ -886,7 +886,6 @@ gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
-glacius.top
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
@@ -922,7 +921,6 @@ ie01.dns4me.net
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
-imperio.top
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 inpssh.online
@@ -997,6 +995,7 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 morbitzer.de
