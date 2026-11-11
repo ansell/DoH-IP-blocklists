@@ -131,7 +131,6 @@ bazooki-infra.dev
 bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
-block.abstergo.it
 blocker.thethorsens.org
 blog.kimiblock.top
 bluemood.me
@@ -212,7 +211,6 @@ dns-secondary.cloudnx.cloud
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
-dns.13evl.com
 dns.23-4.cn
 dns.233py.com
 dns.354688.xyz
@@ -979,6 +977,7 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
@@ -993,9 +992,9 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 morbitzer.de
