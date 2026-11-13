@@ -208,7 +208,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
-dns.pernika.net
 dns.post-factum.tk
 dns.pragmasec.nl
 dns.princex.net
@@ -239,8 +238,10 @@ dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vinokurov.tk
+dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wang.art
 dns.wevpn.com
@@ -426,6 +427,7 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
@@ -485,11 +487,11 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-okado.online
 open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
+pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net
