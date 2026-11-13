@@ -59,6 +59,7 @@ adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.neon0404.space
@@ -850,6 +851,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -981,6 +983,7 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mabuktogel.business
 mabuktogel.properties
@@ -998,6 +1001,7 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 morbitzer.de
@@ -1078,6 +1082,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
