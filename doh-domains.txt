@@ -41,6 +41,7 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
+adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.bonis.de
@@ -60,7 +61,6 @@ adguard.kiboko.it
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
-adguard.meddy94.de
 adguard.neon0404.space
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -174,7 +174,6 @@ cryptostorm.is
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -189,6 +188,7 @@ de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de01.dns4me.net
+deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -308,6 +308,7 @@ dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -614,6 +615,7 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
@@ -667,6 +669,7 @@ dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
+dnsenc.com
 dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
@@ -904,6 +907,7 @@ hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.wriedts.de
@@ -1002,6 +1006,7 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 morbitzer.de
@@ -1010,6 +1015,7 @@ muc01.dnscry.pt
 muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
+myatris.sbs
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
@@ -1081,6 +1087,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
