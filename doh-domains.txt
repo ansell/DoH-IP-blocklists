@@ -41,7 +41,6 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
-adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.bonis.de
@@ -59,8 +58,8 @@ adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
+adguard.meddy94.de
 adguard.neon0404.space
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -117,7 +116,6 @@ armorrush.eu.org
 asia.tri-dns.net
 at.pzhg.me
 atl01.dnscry.pt
-atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
@@ -174,6 +172,7 @@ cryptostorm.is
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -188,7 +187,6 @@ de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de01.dns4me.net
-deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -615,7 +613,6 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
-dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
@@ -636,6 +633,7 @@ dns.yuu-g.net
 dns.zemows.industries
 dns.zui.lol
 dns.zzuhacker.cn
+dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
@@ -682,7 +680,6 @@ dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
-do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -901,13 +898,11 @@ han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
-hfgx.shop
 himedns.com
 hitian.me
 hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.wriedts.de
@@ -954,6 +949,7 @@ justhost.bedro.cloud
 juuri.hagezi.org
 kaiwu.xyz
 kavkaz.monster
+kids.dns0.eu
 kids.ns.nwps.fi
 kilabit.info
 kiri.nonexiste.net
@@ -1006,7 +1002,6 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 morbitzer.de
@@ -1015,7 +1010,6 @@ muc01.dnscry.pt
 muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
-myatris.sbs
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
@@ -1069,6 +1063,7 @@ odvr.nic.cz
 okado.online
 omr01.dnscry.pt
 one.one.one.one
+open.dns0.eu
 opencdn.jomodns.com
 opennic.i2pd.xyz
 opennic1.eth-services.de
@@ -1330,5 +1325,6 @@ yyz01.dnscry.pt
 zakaria.website
 zal01.dnscry.pt
 zdn.ro
+zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
