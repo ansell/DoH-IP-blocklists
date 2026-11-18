@@ -58,7 +58,6 @@ adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.neon0404.space
@@ -117,7 +116,6 @@ armorrush.eu.org
 asia.tri-dns.net
 at.pzhg.me
 atl01.dnscry.pt
-atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
@@ -174,6 +172,7 @@ cryptostorm.is
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -188,6 +187,7 @@ de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de01.dns4me.net
+deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -389,7 +389,6 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
-dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.haoxuan.xyz
@@ -399,7 +398,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.hshoe.cn
 dns.hujiayucc.cn
 dns.iamanuragh.in
 dns.iamninja.ru
@@ -961,6 +959,7 @@ kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 krtekvpn.duckdns.org
+kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
 las01.dnscry.pt
@@ -968,7 +967,6 @@ lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
-lesuo.top
 lewsha.lol
 lifeisa.live
 lindung.pp.ua
@@ -1022,7 +1020,6 @@ nicsezcheckfbi.gov
 nl-ams.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
-nl.dns.privex.io
 noads.imbuffering.com
 noads.joindns4.eu
 ns.00dani.me
