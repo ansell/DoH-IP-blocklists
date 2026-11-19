@@ -23,7 +23,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -60,7 +59,6 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
-atris.cyou
 au.rslvr.eu
 awan.ftp.sh
 b.family.ns.dnslify.com
@@ -92,7 +90,6 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 d.bod.lol
 d.niaox.com
 de-d2.foxyfy.net
@@ -117,7 +114,6 @@ dns.52306.org
 dns.5ososea.com
 dns.688447.xyz
 dns.775467.xyz
-dns.853852.xyz
 dns.8887744.xyz
 dns.aaflalo.me
 dns.aaytorr.com
@@ -147,6 +143,7 @@ dns.cooluc.com
 dns.criena.net
 dns.cwlys.com
 dns.cybershell.xyz
+dns.cybertonic.tech
 dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
@@ -245,6 +242,7 @@ dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vinokurov.tk
+dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
@@ -257,6 +255,7 @@ dns.yague.me
 dns.youni.win
 dns.ypbind.de
 dns.zfsystem.tech
+dns0.eu
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -283,6 +282,7 @@ dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
+do-39574-tr.xyz
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
@@ -421,6 +421,7 @@ jp1.f7b6h9.tk
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
+kids.dns0.eu
 ko-18948-tr.xyz
 korzhov.dev
 kracon.anycast.censurfridns.dk
@@ -448,6 +449,7 @@ mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
+mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
@@ -486,6 +488,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
@@ -566,6 +569,7 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xholgm.top
 xmr.land
 xorbiadns.com
 xray.krnl.eu
@@ -575,3 +579,4 @@ ychen.cf
 ychen.ga
 ychen.gq
 yussy-is.so-gorgeo.us.kg
+zero.dns0.eu
