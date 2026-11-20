@@ -23,6 +23,7 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
+adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -59,6 +60,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
+atris.cyou
 au.rslvr.eu
 awan.ftp.sh
 b.family.ns.dnslify.com
@@ -143,7 +145,6 @@ dns.cooluc.com
 dns.criena.net
 dns.cwlys.com
 dns.cybershell.xyz
-dns.cybertonic.tech
 dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
@@ -237,6 +238,7 @@ dns.thegoodsource.net
 dns.theres.one
 dns.thiz.top
 dns.tierradeayala.com
+dns.tracker.ink
 dns.truong.fi
 dns.trust404.win
 dns.uplenk.com
@@ -392,7 +394,6 @@ groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
 ha.o51r15.com
-hfgx.shop
 hk.rslvr.eu
 hk2.ooroot.com
 home.enjoymylife.net
@@ -449,13 +450,13 @@ mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
-mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 mru01.dnscry.pt
 msr177.com
+myatris.sbs
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
