@@ -61,7 +61,6 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
-atris.cyou
 au.rslvr.eu
 awan.ftp.sh
 b.family.ns.dnslify.com
@@ -154,6 +153,7 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -244,7 +244,6 @@ dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
@@ -395,7 +394,6 @@ groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
 ha.o51r15.com
-hfgx.shop
 hk.rslvr.eu
 hk2.ooroot.com
 home.enjoymylife.net
