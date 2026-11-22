@@ -41,6 +41,7 @@ adguard.kss.ovh
 adguard.lista.my.id
 adguard.marto.si
 adguard.mattiafenzi.uk
+adguard.meddy94.de
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
@@ -143,7 +144,6 @@ dns.cooluc.com
 dns.criena.net
 dns.cwlys.com
 dns.cybershell.xyz
-dns.cybertonic.tech
 dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
@@ -204,7 +204,6 @@ dns.msxnet.ru
 dns.muxinghe.cn
 dns.ndo.dev
 dns.neowutran.ovh
-dns.netvpn.net
 dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz

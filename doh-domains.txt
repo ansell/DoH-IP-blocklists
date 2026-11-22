@@ -60,7 +60,6 @@ adguard.kiboko.it
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
-adguard.meddy94.de
 adguard.neon0404.space
 adguard.onlyfriends.info
 adguard.pangerl.it
@@ -307,6 +306,7 @@ dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -490,6 +490,7 @@ dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
 dns.netraptor.com.au
+dns.netvpn.net
 dns.neubsi.at
 dns.nextdns.io
 dns.nguyendn.com
