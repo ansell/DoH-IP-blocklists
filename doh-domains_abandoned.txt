@@ -23,7 +23,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -40,7 +39,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -61,7 +59,6 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
-atris.cyou
 au.rslvr.eu
 awan.ftp.sh
 b.family.ns.dnslify.com
@@ -148,7 +145,6 @@ dns.cooluc.com
 dns.criena.net
 dns.cwlys.com
 dns.cybershell.xyz
-dns.cybertonic.tech
 dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
@@ -286,7 +282,6 @@ dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
-do-39574-tr.xyz
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
@@ -378,12 +373,14 @@ fr-gra-w-p-1.nashkan.net
 fra1.eyecay.xyz
 gateway.fomichev.cloud
 gclouddns.com
+geshido.vpn.geshido.ru
 gibblets.top
 glacius.top
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
 ha.o51r15.com
+hfgx.shop
 hk.rslvr.eu
 hk2.ooroot.com
 home-server.store
@@ -419,7 +416,6 @@ korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
-lesuo.top
 lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
@@ -445,7 +441,6 @@ mita-is.so-gorgeo.us.kg
 mnrv.trade
 mru01.dnscry.pt
 msr177.com
-myatris.sbs
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
