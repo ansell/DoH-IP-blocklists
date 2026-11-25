@@ -301,6 +301,7 @@ dns.colorfreedom.org
 dns.comff.net
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.controld.com
 dns.cryptomize.com
 dns.crystalyx.net
@@ -336,7 +337,6 @@ dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -519,7 +519,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -920,7 +919,6 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
 hole.elbschloss.xyz
-home-server.store
 home.wriedts.de
 home27.duckdns.org
 hshh.org
@@ -983,7 +981,6 @@ lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
-lesuo.top
 lewsha.lol
 lifeisa.live
 lindung.pp.ua
