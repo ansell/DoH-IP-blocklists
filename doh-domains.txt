@@ -57,6 +57,7 @@ adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.neon0404.space
@@ -183,6 +184,7 @@ de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de01.dns4me.net
+deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -303,6 +305,7 @@ dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -372,6 +375,7 @@ dns.gayanalysing.co.uk
 dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -673,6 +677,7 @@ dnsse.alekberg.net
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
+do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -901,7 +906,6 @@ han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
-hfgx.shop
 himedns.com
 hitian.me
 hk-hkg.doh.sb
@@ -988,6 +992,7 @@ mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
 mabuktogel.creditcard
+mabuktogel.degree
 mabuktogel.enterprises
 mabuktogel.immobilien
 mabuktogel.limited
@@ -1019,6 +1024,7 @@ muc01.dnscry.pt
 muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
+myatris.sbs
 n5.lsasss.com
 najiakeji.top
 nanopi.cybergroove.net
@@ -1318,6 +1324,7 @@ www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
+xholgm.top
 xn--durhre-yxa.de
 yhz01.dnscry.pt
 your-dns.run
